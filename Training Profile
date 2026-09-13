@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Employee Training Profile</title>
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; background-color: #f4f6f9; margin: 0; padding: 20px; }
+    .card { max-width: 650px; margin: 0 auto; background: #fff; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 25px; }
+    .header { text-align: center; border-bottom: 2px solid #eee; padding-bottom: 15px; margin-bottom: 20px; }
+    .header h2 { margin: 0; color: #1c4587; }
+    .search-box { display: flex; gap: 10px; margin-bottom: 25px; }
+    .search-box input { flex: 1; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 5px; }
+    .search-box button { padding: 10px 20px; background: #1c4587; color: #fff; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; }
+    .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 25px; text-align: center; }
+    .stat-card { background: #f8f9fa; padding: 12px; border-radius: 8px; border: 1px solid #e9ecef; }
+    .stat-val { font-size: 20px; font-weight: bold; color: #333; }
+    .stat-val.rate { color: #274e13; }
+    .stat-val.missing { color: #cc0000; }
+    .stat-label { font-size: 12px; color: #666; margin-top: 4px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+    th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #eee; font-size: 14px; }
+    th { background: #1c4587; color: #fff; }
+    .badge { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; }
+    .badge-completed { background: #d9ead3; color: #274e13; }
+    .badge-missing { background: #fce5cd; color: #cc0000; }
+    .badge-na { background: #eee; color: #666; }
+    .info-row { font-size: 14px; color: #444; margin-bottom: 6px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="header">
+      <h2>Employee Training Profile</h2>
+    </div>
+    
+    <div class="search-box">
+      <input type="text" id="empIdInput" placeholder="Enter Employee ID...">
+      <button onclick="searchEmployee()">Search</button>
+    </div>
+    
+    <div id="profileResult" style="display:none;">
+      <div class="info-row"><strong>Employee ID:</strong> <span id="empIdDisplay"></span></div>
+      <div class="info-row"><strong>Name:</strong> <span id="empNameDisplay"></span></div>
+      <div class="info-row"><strong>Position:</strong> <span id="empPosDisplay"></span></div>
+      <div class="info-row"><strong>Project:</strong> <span id="empProjDisplay"></span></div>
+      
+      <div class="stats-grid" style="margin-top:20px;">
+        <div class="stat-card"><div class="stat-val" id="totalVal">0</div><div class="stat-label">Mandatory</div></div>
+        <div class="stat-card"><div class="stat-val" id="doneVal">0</div><div class="stat-label">Completed</div></div>
+        <div class="stat-card"><div class="stat-val missing" id="missingVal">0</div><div class="stat-label">Missing</div></div>
+        <div class="stat-card"><div class="stat-val rate" id="rateVal">0%</div><div class="stat-label">Compliance</div></div>
+      </div>
+      
+      <table>
+        <thead>
+          <tr>
+            <th>Sn</th>
+            <th>Training Course</th>
+            <th>Status</th>
+            <th>Completion Date</th>
+          </tr>
+        </thead>
+        <tbody id="courseTableBody"></tbody>
+      </table>
+    </div>
+    
+    <div id="errorMsg" style="color:red; text-align:center; display:none; margin-top:15px;"></div>
+  </div>
+
+  <script>
+    let masterData = {};
+
+    window.onload = function() {
+      // Fetch data.json automatically on load
+      fetch('data.json?cache=' + new Date().getTime())
+        .then(response => response.json())
+        .then(data => {
+          masterData = data;
+          const urlParams = new URLSearchParams(window.location.search);
+          const empId = urlParams.get('empId');
+          if (empId) {
+            document.getElementById('empIdInput').value = empId;
+            searchEmployee();
+          }
+        })
+        .catch(err => {
+          showError("Could not load dataset. Make sure data sync has run from Google Sheets.");
+        });
+    };
+
+    function searchEmployee() {
+      const empId = document.getElementById('empIdInput').value.trim();
+      document.getElementById('errorMsg').style.display = 'none';
+
+      if (!masterData[empId]) {
+        showError("Employee ID not found.");
+        document.getElementById('profileResult').style.display = 'none';
+        return;
+      }
+
+      const res = masterData[empId];
+      document.getElementById('empIdDisplay').innerText = res.empId;
+      document.getElementById('empNameDisplay').innerText = res.name;
+      document.getElementById('empPosDisplay').innerText = res.position;
+      document.getElementById('empProjDisplay').innerText = res.project;
+      
+      document.getElementById('totalVal').innerText = res.totalMandatory;
+      document.getElementById('doneVal').innerText = res.completedCount;
+      document.getElementById('missingVal').innerText = res.missingCount;
+      document.getElementById('rateVal').innerText = res.complianceRate + "%";
+      
+      const tbody = document.getElementById('courseTableBody');
+      tbody.innerHTML = '';
+      
+      res.courses.forEach(c => {
+        const tr = document.createElement('tr');
+        let badgeClass = "badge-na";
+        if (c.status === "Completed") badgeClass = "badge-completed";
+        if (c.status === "MISSING") badgeClass = "badge-missing";
+        
+        tr.innerHTML = `<td>${c.sn}</td>
+                        <td>${c.title}</td>
+                        <td><span class="badge ${badgeClass}">${c.status}</span></td>
+                        <td>${c.date}</td>`;
+        tbody.appendChild(tr);
+      });
+      
+      document.getElementById('profileResult').style.display = 'block';
+    }
+
+    function showError(msg) {
+      const err = document.getElementById('errorMsg');
+      err.innerText = msg;
+      err.style.display = 'block';
+    }
+  </script>
+</body>
+</html>
