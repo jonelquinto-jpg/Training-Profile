@@ -6,7 +6,7 @@
   <title>Employee Training Profile</title>
   <style>
     body { font-family: 'Segoe UI', Arial, sans-serif; background-color: #f4f6f9; margin: 0; padding: 20px; }
-    .card { max-width: 650px; margin: 0 auto; background: #fff; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 25px; }
+    .card { max-width: 680px; margin: 0 auto; background: #fff; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 25px; }
     .header { text-align: center; border-bottom: 2px solid #eee; padding-bottom: 15px; margin-bottom: 20px; }
     .header h2 { margin: 0; color: #1c4587; }
     .search-box { display: flex; gap: 10px; margin-bottom: 25px; }
@@ -21,8 +21,9 @@
     table { width: 100%; border-collapse: collapse; margin-top: 15px; }
     th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #eee; font-size: 14px; }
     th { background: #1c4587; color: #fff; }
-    .badge { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; }
+    .badge { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; display: inline-block; }
     .badge-completed { background: #d9ead3; color: #274e13; }
+    .badge-completed-opt { background: #d9ead3; color: #1c4587; border: 1px solid #1c4587; }
     .badge-missing { background: #fce5cd; color: #cc0000; }
     .badge-na { background: #eee; color: #666; }
     .info-row { font-size: 14px; color: #444; margin-bottom: 6px; }
@@ -72,7 +73,6 @@
     let masterData = {};
 
     window.onload = function() {
-      // Fetch data.json automatically on load
       fetch('data.json?cache=' + new Date().getTime())
         .then(response => response.json())
         .then(data => {
@@ -85,7 +85,7 @@
           }
         })
         .catch(err => {
-          showError("Could not load dataset. Make sure data sync has run from Google Sheets.");
+          showError("Could not load dataset.");
         });
     };
 
@@ -117,6 +117,7 @@
         const tr = document.createElement('tr');
         let badgeClass = "badge-na";
         if (c.status === "Completed") badgeClass = "badge-completed";
+        if (c.status === "Completed (Optional)") badgeClass = "badge-completed-opt";
         if (c.status === "MISSING") badgeClass = "badge-missing";
         
         tr.innerHTML = `<td>${c.sn}</td>
