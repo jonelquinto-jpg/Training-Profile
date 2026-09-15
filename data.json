@@ -19184,10 +19184,10 @@
     "name": "SAAD MOHAMMED HABIB ALHAWSAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "NEOM MOUNTAIN BASE CAMP",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 14,
-    "complianceRate": 64,
+    "complianceRate": 86,
     "courses": [
       {
         "sn": 1,
@@ -19240,8 +19240,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 13, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -19264,8 +19264,8 @@
       {
         "sn": 10,
         "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 13, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -19312,8 +19312,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 13, 2026",
         "isMandatory": true,
         "isOptional": false
       }
