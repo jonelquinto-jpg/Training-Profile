@@ -15544,10 +15544,10 @@
     "name": "MABKHOUT YASLAM SALMEEN ALSAYARI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 11,
-    "complianceRate": 36,
+    "complianceRate": 64,
     "courses": [
       {
         "sn": 1,
@@ -15608,8 +15608,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -15640,16 +15640,16 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -33464,10 +33464,10 @@
     "name": "AHMED BADER HAILI ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 11,
-    "complianceRate": 55,
+    "complianceRate": 82,
     "courses": [
       {
         "sn": 1,
@@ -33528,8 +33528,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -33560,16 +33560,16 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -54604,10 +54604,10 @@
     "name": "RASHED FAISAL KHASMAN ALBAQAMI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 6,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 2,
     "totalMandatory": 11,
-    "complianceRate": 55,
+    "complianceRate": 82,
     "courses": [
       {
         "sn": 1,
@@ -54668,8 +54668,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -54700,16 +54700,16 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -97164,10 +97164,10 @@
     "name": "ABDULLAH SAEED MOHAMMED ALKAHTANI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 3,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 5,
     "totalMandatory": 11,
-    "complianceRate": 27,
+    "complianceRate": 55,
     "courses": [
       {
         "sn": 1,
@@ -97228,8 +97228,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -97260,16 +97260,16 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true,
         "isOptional": false
       },
