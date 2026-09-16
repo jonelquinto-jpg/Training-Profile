@@ -5044,16 +5044,16 @@
     "name": "MOHAMMED HAMAD HUSSAIN AL DOSSARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 5,
-    "missingCount": 10,
+    "completedCount": 8,
+    "missingCount": 7,
     "totalMandatory": 13,
-    "complianceRate": 23,
+    "complianceRate": 46,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -5132,16 +5132,16 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -18064,16 +18064,16 @@
     "name": "MAHDI ALI YOUSEF ALSALEH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 13,
-    "complianceRate": 46,
+    "complianceRate": 62,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -18152,16 +18152,16 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -20164,16 +20164,16 @@
     "name": "ABDULRAHMN TAHER HUSSAIN ALAMRI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 4,
-    "missingCount": 10,
+    "completedCount": 7,
+    "missingCount": 7,
     "totalMandatory": 13,
-    "complianceRate": 23,
+    "complianceRate": 46,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -20252,16 +20252,16 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -22544,16 +22544,16 @@
     "name": "MOHAMMED HANI MASLIM ALMOUSA",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 13,
-    "complianceRate": 46,
+    "complianceRate": 62,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -22632,8 +22632,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -22641,7 +22641,7 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -37664,16 +37664,16 @@
     "name": "HUSSAIN ALI ALI ALRAJAB",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 13,
-    "complianceRate": 46,
+    "complianceRate": 62,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
@@ -37752,16 +37752,16 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true,
         "isOptional": false
       },
