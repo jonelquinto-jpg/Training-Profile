@@ -5212,16 +5212,16 @@
     "name": "FAHAD BARAKAT ALHMARI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 5,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 13,
-    "complianceRate": 62,
+    "complianceRate": 77,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -5262,15 +5262,15 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 14, 2026",
         "isMandatory": false
       },
       {
@@ -6948,16 +6948,16 @@
     "name": "MOHAMMED AWAD ALQURASHI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -6999,14 +6999,14 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -7816,16 +7816,16 @@
     "name": "OMAR SAEED HADI BAZEDAN",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "MASAR - DEDICATED TO MAKKAH",
-    "completedCount": 15,
-    "missingCount": 1,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 16,
-    "complianceRate": 94,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -7867,14 +7867,14 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -8064,16 +8064,16 @@
     "name": "MOHAMMED DAWOOD ABDULLAH ALREMI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -8115,14 +8115,14 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -10916,16 +10916,16 @@
     "name": "FAROQ ABDULQADER MAHMOUD MERAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed",
-        "date": "Jul 09, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -10966,15 +10966,15 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -11164,16 +11164,16 @@
     "name": "ABDULRAHMAN MOHAMMED HASSAN HAZAZI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 6,
-    "missingCount": 10,
+    "completedCount": 8,
+    "missingCount": 8,
     "totalMandatory": 16,
-    "complianceRate": 38,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed",
-        "date": "Jul 09, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -11214,15 +11214,15 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -40800,16 +40800,16 @@
     "name": "HAMAD NASSER ABDULLAH ALEID",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -40851,14 +40851,14 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -87300,16 +87300,16 @@
     "name": "MOAIED SOLIMAN SAEED ALHOSINI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
@@ -87351,14 +87351,14 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 14, 2026",
         "isMandatory": true
       },
       {
