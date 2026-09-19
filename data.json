@@ -31624,10 +31624,10 @@
     "name": "ABDULHAMID SAWAB MAKHLF ALENZI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -31681,8 +31681,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 08, 2026",
         "isMandatory": false
       },
       {
@@ -31709,15 +31709,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
@@ -47868,10 +47868,10 @@
     "name": "RASHED GHAREEB AYADAH ALHARBI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -47925,8 +47925,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 08, 2026",
         "isMandatory": false
       },
       {
@@ -47953,15 +47953,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
@@ -57540,10 +57540,10 @@
     "name": "HAMED ZABEN DARUS ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -57597,8 +57597,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 08, 2026",
         "isMandatory": false
       },
       {
@@ -57625,15 +57625,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
@@ -59896,10 +59896,10 @@
     "name": "HAMOUD SAUD FLAH ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -59953,8 +59953,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 08, 2026",
         "isMandatory": false
       },
       {
@@ -59981,15 +59981,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
@@ -71428,10 +71428,10 @@
     "name": "OUDAH DAKIL MOHAMMED ALHALAFI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -71485,8 +71485,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 08, 2026",
         "isMandatory": false
       },
       {
@@ -71513,15 +71513,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
@@ -73412,10 +73412,10 @@
     "name": "MOHAMMED ABDULLAH ABDULALHADI ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "DGII - Infrastructure Package",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -73469,8 +73469,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 08, 2026",
         "isMandatory": false
       },
       {
@@ -73497,15 +73497,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
@@ -83084,10 +83084,10 @@
     "name": "ABDULRAHMAN KHALID SALIMAN ALFAIFI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -83141,8 +83141,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 08, 2026",
         "isMandatory": false
       },
       {
@@ -83169,15 +83169,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
@@ -103420,10 +103420,10 @@
     "name": "ZAYED FARRAJ MOHAMMED ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -103477,8 +103477,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 08, 2026",
         "isMandatory": false
       },
       {
@@ -103505,15 +103505,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 08, 2026",
         "isMandatory": true
       },
       {
