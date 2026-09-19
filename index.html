@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Employee Training Profile</title>
+  <title>Security Employee Training Profile</title>
   <style>
     body { font-family: 'Segoe UI', Arial, sans-serif; background-color: #f4f6f9; margin: 0; padding: 20px; }
-    .card { max-width: 680px; margin: 0 auto; background: #fff; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 25px; }
+    .card { max-width: 720px; margin: 0 auto; background: #fff; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 25px; }
     .header { text-align: center; border-bottom: 2px solid #eee; padding-bottom: 15px; margin-bottom: 20px; }
     .header h2 { margin: 0; color: #1c4587; }
     .search-box { display: flex; gap: 10px; margin-bottom: 25px; }
@@ -19,13 +19,15 @@
     .stat-val.missing { color: #cc0000; }
     .stat-label { font-size: 12px; color: #666; margin-top: 4px; }
     table { width: 100%; border-collapse: collapse; margin-top: 15px; }
-    th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #eee; font-size: 14px; }
+    th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #eee; font-size: 14px; vertical-align: middle; }
     th { background: #1c4587; color: #fff; }
     .badge { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; display: inline-block; }
     .badge-completed { background: #d9ead3; color: #274e13; }
     .badge-completed-opt { background: #d9ead3; color: #1c4587; border: 1px solid #1c4587; }
     .badge-missing { background: #fce5cd; color: #cc0000; }
     .badge-na { background: #eee; color: #666; }
+    .btn-notify { background-color: #cc0000; color: #ffffff; border: none; padding: 5px 10px; font-size: 11px; font-weight: bold; border-radius: 4px; cursor: pointer; text-decoration: none; display: inline-block; }
+    .btn-notify:hover { background-color: #990000; }
     .info-row { font-size: 14px; color: #444; margin-bottom: 6px; }
   </style>
 </head>
@@ -71,6 +73,7 @@
 
   <script>
     let masterData = {};
+    const TRAINER_EMAIL = "jonel.quinto@nesmapartners.com";
 
     window.onload = function() {
       fetch('data.json?cache=' + new Date().getTime())
@@ -120,10 +123,29 @@
         if (c.status === "Completed (Optional)") badgeClass = "badge-completed-opt";
         if (c.status === "MISSING") badgeClass = "badge-missing";
         
+        let dateColContent = c.date;
+        
+        // If course is missing, show Request Schedule button in Completion Date column
+        if (c.status === "MISSING") {
+          const subject = encodeURIComponent(`[Training Schedule Request] Emp ID: ${res.empId} - ${c.title}`);
+          const body = encodeURIComponent(
+            `Dear Trainer,\n\nPlease schedule the missing training course below:\n\n` +
+            `- Employee ID: ${res.empId}\n` +
+            `- Employee Name: ${res.name}\n` +
+            `- Position: ${res.position}\n` +
+            `- Project: ${res.project}\n` +
+            `- Missing Course: Sn ${c.sn} - ${c.title}\n\n` +
+            `Requested Target Schedule Date: [Enter Date Here]\n\nThank you.`
+          );
+          
+          const mailtoLink = `mailto:${TRAINER_EMAIL}?subject=${subject}&body=${body}`;
+          dateColContent = `<a href="${mailtoLink}" class="btn-notify">📩 Schedule Training</a>`;
+        }
+        
         tr.innerHTML = `<td>${c.sn}</td>
                         <td>${c.title}</td>
                         <td><span class="badge ${badgeClass}">${c.status}</span></td>
-                        <td>${c.date}</td>`;
+                        <td>${dateColContent}</td>`;
         tbody.appendChild(tr);
       });
       
