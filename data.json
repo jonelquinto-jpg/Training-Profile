@@ -1492,10 +1492,10 @@
     "name": "SALEH HASAN ALI AL TEHAIFAH",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -1542,8 +1542,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -1570,8 +1570,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -1584,8 +1584,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -2360,10 +2360,10 @@
     "name": "TURKI ALI FAZAA ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -2410,8 +2410,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -2438,8 +2438,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -2452,8 +2452,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -11784,10 +11784,10 @@
     "name": "MOHAMMED HUSSAIN ALI AL ALI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -11835,7 +11835,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -11862,8 +11862,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -11876,8 +11876,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -15752,10 +15752,10 @@
     "name": "ABDULRAHMAN MUAIDH ABDULRAHMAN ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -15802,8 +15802,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -15830,8 +15830,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -15844,8 +15844,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -20216,10 +20216,10 @@
     "name": "ABDULQADER SHAKER TAHIR ALREWAISHED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 4,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -20266,8 +20266,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -20294,8 +20294,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -20309,7 +20309,7 @@
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -20836,10 +20836,10 @@
     "name": "BANDAR ALHOMAIDI AAID ALENZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -20887,7 +20887,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -20914,8 +20914,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -20928,8 +20928,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -25176,10 +25176,10 @@
     "name": "SALEH ALI AL ATHEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 4,
-    "missingCount": 9,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -25226,8 +25226,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -25254,8 +25254,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -25268,8 +25268,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -26044,10 +26044,10 @@
     "name": "SAEED SALEH KHAMIS ALFARHAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -26094,8 +26094,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -26122,8 +26122,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -26137,7 +26137,7 @@
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -26292,10 +26292,10 @@
     "name": "ALI HAMAD AL MARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -26343,7 +26343,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -26370,8 +26370,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -26384,8 +26384,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -27780,10 +27780,10 @@
     "name": "MOHAMMED JABER SALAM ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -27830,8 +27830,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -27858,8 +27858,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -27872,8 +27872,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -30632,10 +30632,10 @@
     "name": "ABDULJALIL ALI TAHER ALBELADI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -30682,8 +30682,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -30710,8 +30710,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -30724,8 +30724,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -32616,10 +32616,10 @@
     "name": "ALI MOHAMMED ALI ALAMRI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -32667,7 +32667,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -32695,7 +32695,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -32708,8 +32708,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -33608,10 +33608,10 @@
     "name": "ABDULLAH HABIB HABIB ALKHALIFAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -33658,8 +33658,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -33686,8 +33686,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -33700,8 +33700,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -37204,10 +37204,10 @@
     "name": "ABDULLAH AHMED SALEH ALAQRAIN",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -37255,7 +37255,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 04, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -37282,8 +37282,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -37296,8 +37296,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -39188,10 +39188,10 @@
     "name": "FAHAD ABDULRAHMAN MOHAMMED ALMUFARFISH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -39239,7 +39239,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -39266,8 +39266,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -39280,8 +39280,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -40056,10 +40056,10 @@
     "name": "JABER MOHAMMED JABER ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 4,
-    "missingCount": 9,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -40106,8 +40106,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -40134,8 +40134,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -40148,8 +40148,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -42536,10 +42536,10 @@
     "name": "BANDER SALEH ALI ALSUBH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -42586,8 +42586,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -42614,8 +42614,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -42628,8 +42628,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43032,10 +43032,10 @@
     "name": "NASSER MOHAMMED JABER ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -43083,7 +43083,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43110,8 +43110,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43124,8 +43124,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43280,10 +43280,10 @@
     "name": "ZAKRIA YASEEN JASSIM ALOTHMEEN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -43330,8 +43330,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43358,8 +43358,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43372,8 +43372,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43652,10 +43652,10 @@
     "name": "MESHAAL KHADEM MATROOD ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -43702,8 +43702,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43731,7 +43731,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -43744,8 +43744,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -44272,10 +44272,10 @@
     "name": "JABR SAAD JABR ALOSAIMI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -44322,8 +44322,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -44350,8 +44350,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -44364,8 +44364,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -44644,10 +44644,10 @@
     "name": "NAWAF AWAD AMISH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -44695,7 +44695,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -44722,8 +44722,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -44736,8 +44736,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -45884,10 +45884,10 @@
     "name": "MAZEN AABDULAZIZ SAUD ALSAUD",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -45935,7 +45935,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -45962,8 +45962,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -45976,8 +45976,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -46380,10 +46380,10 @@
     "name": "NAIF FEHAID TALEB ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -46430,8 +46430,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -46459,7 +46459,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -46472,8 +46472,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -47992,10 +47992,10 @@
     "name": "ZUHAIR AHMED SALMAN ALOUFI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -48043,7 +48043,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -48070,8 +48070,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -48084,8 +48084,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -48488,10 +48488,10 @@
     "name": "YASSER AWAD HUMOD ALHIWATI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -48538,8 +48538,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -48566,8 +48566,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -48580,8 +48580,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -49108,10 +49108,10 @@
     "name": "MUKHLID NAIF AUDAH ALANAZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -49158,8 +49158,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -49186,8 +49186,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -49200,8 +49200,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -49232,10 +49232,10 @@
     "name": "RASHED IBRAHIM SAAD ALAQAR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 2,
-    "missingCount": 11,
+    "completedCount": 4,
+    "missingCount": 9,
     "totalMandatory": 12,
-    "complianceRate": 8,
+    "complianceRate": 25,
     "courses": [
       {
         "sn": 1,
@@ -49283,7 +49283,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -49310,8 +49310,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -49324,8 +49324,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -51340,10 +51340,10 @@
     "name": "ALNURI RADHI MUQBIL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -51391,7 +51391,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -51419,7 +51419,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -51432,8 +51432,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -51712,131 +51712,7 @@
     "name": "ATEEQ SALEH ATEEQ ALSAAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 5,
-    "missingCount": 8,
-    "totalMandatory": 12,
-    "complianceRate": 33,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "Completed",
-        "date": "Aug 26, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Completed (Optional)",
-        "date": "May 12, 2026",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "Completed",
-        "date": "May 12, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "Completed",
-        "date": "Aug 26, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "Completed",
-        "date": "Aug 26, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
-  "77439": {
-    "empId": "77439",
-    "name": "ALI ABDRABALNABI HUSSAIN ALHAJJI",
-    "position": "SECURITY GUARD",
-    "project": "OMPP2- SA4",
-    "completedCount": 9,
+    "completedCount": 8,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -51887,7 +51763,131 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "Completed",
+        "date": "Aug 26, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "Completed",
+        "date": "Aug 26, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      }
+    ]
+  },
+  "77439": {
+    "empId": "77439",
+    "name": "ALI ABDRABALNABI HUSSAIN ALHAJJI",
+    "position": "SECURITY GUARD",
+    "project": "OMPP2- SA4",
+    "completedCount": 11,
+    "missingCount": 3,
+    "totalMandatory": 12,
+    "complianceRate": 75,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "Completed",
+        "date": "Aug 26, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Completed (Optional)",
+        "date": "May 12, 2026",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "Completed",
+        "date": "May 12, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -51914,8 +51914,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -51928,8 +51928,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -52208,10 +52208,10 @@
     "name": "ALI IBRAHIM SALEM ALOBUD",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -52258,8 +52258,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -52286,8 +52286,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -52300,8 +52300,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -52332,10 +52332,10 @@
     "name": "FARIS JABER MOHAMMED ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -52382,8 +52382,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -52410,8 +52410,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -52424,8 +52424,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -53200,10 +53200,10 @@
     "name": "ABDULMOHSEN MOHAMMED MOHSEN ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 4,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -53250,8 +53250,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -53278,8 +53278,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -53293,7 +53293,7 @@
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 07, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -53944,10 +53944,10 @@
     "name": "HUSSAIN MARZUQ ALI ALSIYAHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -53994,8 +53994,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -54022,8 +54022,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -54036,8 +54036,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -55680,10 +55680,10 @@
     "name": "MOHAMMED FAISAL FAHIMAN ALBALWI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -55730,8 +55730,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -55758,8 +55758,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -55772,8 +55772,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -59276,10 +59276,10 @@
     "name": "HASSAN MOHAMMED ASOAN ALAMMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 3,
-    "missingCount": 9,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -59326,8 +59326,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -59354,8 +59354,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -59368,8 +59368,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60020,10 +60020,10 @@
     "name": "TURKI SHULAYSH SHAEE ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -60070,8 +60070,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60099,7 +60099,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60112,8 +60112,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60764,10 +60764,10 @@
     "name": "NAWAF MOHAMMED SHEMAN ALANAZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -60814,8 +60814,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60843,7 +60843,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60856,8 +60856,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60888,10 +60888,10 @@
     "name": "FAISAL ALI RASHEED ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -60938,8 +60938,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60966,8 +60966,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -60980,8 +60980,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -64732,10 +64732,10 @@
     "name": "ABDULRAHMAN MOHSEN ABDULRHMAN ALARJANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -64782,8 +64782,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -64810,8 +64810,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -64825,7 +64825,7 @@
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -66468,10 +66468,10 @@
     "name": "YASIR HUSSAIN ALI ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -66519,7 +66519,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -66546,8 +66546,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -66560,8 +66560,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -72792,10 +72792,10 @@
     "name": "NASSER ABDULLAH SALEM ALDHRMAN",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -72842,8 +72842,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -72871,7 +72871,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -72884,8 +72884,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -73536,10 +73536,10 @@
     "name": "HAMAD THAAR HAMAD ALJUBEER",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -73586,8 +73586,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -73614,8 +73614,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -73629,7 +73629,7 @@
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -79364,10 +79364,10 @@
     "name": "TALAL ABDULLAH AMAN OMAR",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -79415,7 +79415,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -79442,8 +79442,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -79456,8 +79456,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -80852,10 +80852,10 @@
     "name": "SAUD MOHAMMED ZREBAN ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -80903,7 +80903,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -80930,8 +80930,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -80944,8 +80944,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -84200,10 +84200,10 @@
     "name": "NASSER ALI MOHSEN ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -84250,8 +84250,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -84278,8 +84278,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -84292,8 +84292,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -84572,10 +84572,10 @@
     "name": "JASSIM RIDHA TAHER ALAWADH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -84622,8 +84622,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -84650,8 +84650,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -84664,8 +84664,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -84944,10 +84944,10 @@
     "name": "ABDULLAH AHMED IBRAHIM ALRAJAA",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -84994,8 +84994,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -85023,7 +85023,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -85036,8 +85036,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -85068,10 +85068,10 @@
     "name": "ABDULRAHMAN MOHAMMED FAHAD ALHAJRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -85119,7 +85119,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 04, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -85146,8 +85146,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -85160,8 +85160,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -86680,10 +86680,10 @@
     "name": "ALI AHMED ALI ALZAHRANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -86731,7 +86731,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -86758,8 +86758,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -86772,8 +86772,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -90276,10 +90276,10 @@
     "name": "MESHAL SAAD MESHAL ALJAFFALI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -90326,8 +90326,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -90354,8 +90354,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -90368,8 +90368,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -91516,10 +91516,10 @@
     "name": "MUWAFIQ MOHAMMED AMER ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -91567,7 +91567,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -91594,8 +91594,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -91608,8 +91608,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -92880,10 +92880,10 @@
     "name": "MOHAMMED OUN MANSOUR ALRABIE",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -92930,8 +92930,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -92958,8 +92958,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -94740,130 +94740,6 @@
     "name": "KHALAF FADHEL HESSEN ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 6,
-    "totalMandatory": 12,
-    "complianceRate": 50,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "Completed",
-        "date": "Aug 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "Completed",
-        "date": "Jun 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "Completed",
-        "date": "Jun 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "Completed",
-        "date": "Aug 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "Completed",
-        "date": "Jun 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "Completed",
-        "date": "Aug 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
-  "161347": {
-    "empId": "161347",
-    "name": "ABDULLAH DAMI MUSRAA ALOTAIBI",
-    "position": "SECURITY GUARD",
-    "project": "Fadhili Gas PKg6 UpdownStream",
     "completedCount": 8,
     "missingCount": 4,
     "totalMandatory": 12,
@@ -94914,8 +94790,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -94943,7 +94819,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -94956,8 +94832,132 @@
       {
         "sn": 13,
         "title": "Traffic Control",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
         "status": "MISSING",
         "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      }
+    ]
+  },
+  "161347": {
+    "empId": "161347",
+    "name": "ABDULLAH DAMI MUSRAA ALOTAIBI",
+    "position": "SECURITY GUARD",
+    "project": "Fadhili Gas PKg6 UpdownStream",
+    "completedCount": 10,
+    "missingCount": 2,
+    "totalMandatory": 12,
+    "complianceRate": 83,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "Completed",
+        "date": "Jun 11, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "Completed",
+        "date": "Jun 11, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -97716,10 +97716,10 @@
     "name": "THEYAB DAFFTR KHALEEF ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -97766,8 +97766,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -97795,7 +97795,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -97808,8 +97808,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -98336,10 +98336,10 @@
     "name": "SAIF FALAH HEEAA ALRASHIDI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -98386,8 +98386,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -98414,8 +98414,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -98428,8 +98428,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -99700,10 +99700,10 @@
     "name": "MOHAMMED ABDULLAH SALEM SHAIBAN",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -99750,8 +99750,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -99778,8 +99778,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -99792,8 +99792,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -99948,10 +99948,10 @@
     "name": "MAJED HASSAN OBED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -99998,8 +99998,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -100027,7 +100027,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -100040,8 +100040,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -100816,10 +100816,10 @@
     "name": "ABDULLAH MUBARAK AMASH ALSAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -100867,7 +100867,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -100894,8 +100894,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -100908,8 +100908,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -101064,10 +101064,10 @@
     "name": "NASSER RASHED HAMAD ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -101114,8 +101114,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -101142,8 +101142,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -101157,7 +101157,7 @@
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
