@@ -2607,7 +2607,7 @@
     "empId": "71283",
     "name": "ABDULLAH AHMED MOHAMMED SAAD",
     "position": "SECURITY GUARD",
-    "project": "OMPP2- SA1",
+    "project": "Plant, Machinery & Vehicles",
     "completedCount": 8,
     "missingCount": 5,
     "totalMandatory": 12,
@@ -18603,7 +18603,7 @@
     "empId": "73446",
     "name": "HASHEM ZAKI ALI ALHAMOOD",
     "position": "SECURITY GUARD",
-    "project": "Uthmaniyah GOSP12",
+    "project": "KHURAIS CPF RESTORATION",
     "completedCount": 6,
     "missingCount": 6,
     "totalMandatory": 12,
@@ -19595,7 +19595,7 @@
     "empId": "73599",
     "name": "TURKI ABDULLAH ABDULRAHMAN ALSHERAID",
     "position": "SITE SECURITY SUPERVISOR",
-    "project": "Uthmaniyah GOSP12",
+    "project": "KHURAIS CPF RESTORATION",
     "completedCount": 12,
     "missingCount": 4,
     "totalMandatory": 16,
@@ -27283,7 +27283,7 @@
     "empId": "74423",
     "name": "SAEED HAJI MAATOUQ ALNASSER",
     "position": "SHIFT SECURITY SUPERVISOR",
-    "project": "Uthmaniyah GOSP12",
+    "project": "KHURAIS CPF RESTORATION",
     "completedCount": 13,
     "missingCount": 2,
     "totalMandatory": 15,
@@ -30259,7 +30259,7 @@
     "empId": "74687",
     "name": "HUSSAIN AHMED HUSSAIN ALMAYOUF",
     "position": "SHIFT SECURITY SUPERVISOR",
-    "project": "Uthmaniyah GOSP12",
+    "project": "KHURAIS CPF RESTORATION",
     "completedCount": 11,
     "missingCount": 4,
     "totalMandatory": 15,
@@ -30507,7 +30507,7 @@
     "empId": "74751",
     "name": "SAAD SALEH SAAD ALSAHOOD",
     "position": "SECURITY GUARD",
-    "project": "OMPP2- SA2",
+    "project": "KHURAIS CPF RESTORATION",
     "completedCount": 10,
     "missingCount": 3,
     "totalMandatory": 12,
@@ -30879,7 +30879,7 @@
     "empId": "74812",
     "name": "BANDER HEJI AHMED ALDULAYM",
     "position": "SHIFT SECURITY SUPERVISOR",
-    "project": "Uthmaniyah GOSP12",
+    "project": "KHURAIS CPF RESTORATION",
     "completedCount": 11,
     "missingCount": 4,
     "totalMandatory": 15,
@@ -33483,7 +33483,7 @@
     "empId": "75020",
     "name": "ADEL ABBAS ALI ALRASHID",
     "position": "SECURITY GUARD",
-    "project": "Main Camp - Dhahran",
+    "project": "OMPP2- SA1",
     "completedCount": 6,
     "missingCount": 6,
     "totalMandatory": 12,
@@ -38439,130 +38439,6 @@
       }
     ]
   },
-  "75803": {
-    "empId": "75803",
-    "name": "JAAFAR ABDULLAH AAISH ALSALEMY",
-    "position": "SECURITY GUARD",
-    "project": "OMPP2- SA1",
-    "completedCount": 2,
-    "missingCount": 10,
-    "totalMandatory": 12,
-    "complianceRate": 17,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "Completed",
-        "date": "Feb 02, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "Completed",
-        "date": "Feb 02, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
   "75804": {
     "empId": "75804",
     "name": "ALI WAHB ABDULLAH ALMAHMOUD",
@@ -38815,7 +38691,7 @@
     "empId": "75827",
     "name": "QUSAI MOHAMMED JAWAD ALMUSABEH",
     "position": "SHIFT SECURITY SUPERVISOR",
-    "project": "Uthmaniyah GOSP12",
+    "project": "KHURAIS CPF RESTORATION",
     "completedCount": 11,
     "missingCount": 5,
     "totalMandatory": 15,
@@ -38939,7 +38815,7 @@
     "empId": "75838",
     "name": "YAHYA ABDULWAHAB ABDULLAH ALSHAWI",
     "position": "SECURITY GUARD",
-    "project": "Uthmaniyah GOSP12",
+    "project": "KHURAIS CPF RESTORATION",
     "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
@@ -56299,7 +56175,7 @@
     "empId": "78273",
     "name": "BADER NAIF MUGHEEB ALSUBAIE",
     "position": "SECURITY GUARD",
-    "project": "DGII - Infrastructure Package",
+    "project": "Nesma Riyadh Central Camp1",
     "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
@@ -86803,7 +86679,7 @@
     "empId": "160976",
     "name": "THAAR MUSHARRI THAAR ALSUBAIE",
     "position": "SECURITY GUARD",
-    "project": "Lower Plateau Site Preparation",
+    "project": "DGII - Infrastructure Package",
     "completedCount": 8,
     "missingCount": 5,
     "totalMandatory": 12,
@@ -89279,130 +89155,6 @@
       }
     ]
   },
-  "161043": {
-    "empId": "161043",
-    "name": "ABDULLAH FAYED SLEMAN ALRASHIDI",
-    "position": "SECURITY GUARD",
-    "project": "OMPP2- SA1",
-    "completedCount": 3,
-    "missingCount": 9,
-    "totalMandatory": 12,
-    "complianceRate": 25,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "Completed",
-        "date": "Jul 26, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "Completed",
-        "date": "Jul 26, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "Completed",
-        "date": "Jul 26, 2026",
-        "isMandatory": true
-      }
-    ]
-  },
   "161044": {
     "empId": "161044",
     "name": "ABDULLAH MOUSA IBRAHIM ALALYANI",
@@ -90866,130 +90618,6 @@
         "title": "Traffic Control",
         "status": "Completed",
         "date": "Feb 04, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
-  "161130": {
-    "empId": "161130",
-    "name": "NAWAF MUTEB AZIZ ALANAZI",
-    "position": "SECURITY GUARD",
-    "project": "OMPP2- SA2",
-    "completedCount": 5,
-    "missingCount": 7,
-    "totalMandatory": 12,
-    "complianceRate": 42,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "Completed",
-        "date": "Jun 07, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "Completed",
-        "date": "Jun 07, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "Completed",
-        "date": "Sep 09, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "Completed",
-        "date": "Jun 07, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "Completed",
-        "date": "Sep 09, 2026",
         "isMandatory": true
       },
       {
@@ -103295,7 +102923,7 @@
     "empId": "161658",
     "name": "ZAYED FARRAJ MOHAMMED ALSUBAIE",
     "position": "SECURITY GUARD",
-    "project": "Nesma Riyadh Central Camp1",
+    "project": "KSP CP6-Common Indirect Costs",
     "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
