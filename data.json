@@ -4,16 +4,16 @@
     "name": "HUSSAIN ABDULLAH ALI ALHABEEB",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Laydown Support Services",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 16,
-    "complianceRate": 63,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true
       },
       {
@@ -83,14 +83,14 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jul 13, 2026",
+        "date": "Sep 15, 2026",
         "isMandatory": true
       },
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true
       },
       {
@@ -500,16 +500,16 @@
     "name": "HASSAN ALI A ALMUHSIN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Laydown Support Services",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 87,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 15, 2026",
         "isMandatory": true
       },
       {
@@ -579,14 +579,14 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Sep 15, 2026",
         "isMandatory": true
       },
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Sep 15, 2026",
         "isMandatory": true
       },
       {
