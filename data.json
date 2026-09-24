@@ -4964,7 +4964,7 @@
     "name": "HAMAD ALI MUBARAK AL MARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -5021,8 +5021,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -5832,7 +5832,7 @@
     "name": "LAHOM MOHAMMAD HAMAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -5889,8 +5889,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -11660,7 +11660,7 @@
     "name": "DALQAM JAR ALLAH ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -11717,8 +11717,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -12900,7 +12900,7 @@
     "name": "SALEH MAHDI SALMAN ALBANDARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 5,
+    "completedCount": 6,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -12957,8 +12957,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -18604,7 +18604,7 @@
     "name": "HASHEM ZAKI ALI ALHAMOOD",
     "position": "SECURITY GUARD",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -18661,8 +18661,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -18976,7 +18976,7 @@
     "name": "ADEL ALI HASSAN ALSEMAIEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -19033,8 +19033,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -20092,7 +20092,7 @@
     "name": "MANEA ALI MANEA ALAJMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -20149,8 +20149,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -20588,7 +20588,7 @@
     "name": "YASSER MOHAMMED ABDULMOHSIN ALHARIB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -20645,8 +20645,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -21332,7 +21332,7 @@
     "name": "ALI IBRAHIM HASSAN ALKHALIF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -21389,8 +21389,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -21828,7 +21828,7 @@
     "name": "NAIF KAZEM MATROUD ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -21885,8 +21885,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -23812,7 +23812,7 @@
     "name": "FAHEED SALEM FAHEED ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -23869,8 +23869,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -24432,7 +24432,7 @@
     "name": "WALEED YASEEN MOHAMMED ALHASSAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -24489,8 +24489,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -24556,7 +24556,7 @@
     "name": "MATOUQ ALI ALIBRAHIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
+    "completedCount": 10,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -24613,8 +24613,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -24680,7 +24680,7 @@
     "name": "HANI ABBAS ALHASSAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -24737,8 +24737,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -24804,7 +24804,7 @@
     "name": "AHMED MOHAMMED ALSALMAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -24861,8 +24861,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -26226,7 +26226,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Jan 05, 2026",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -26912,7 +26912,7 @@
     "name": "MOUSTAFA HASHIM SAEED ALYAMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -26969,8 +26969,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -28028,7 +28028,7 @@
     "name": "AQEEL NAJI TAHER ALHIDAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -28085,8 +28085,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -29020,7 +29020,7 @@
     "name": "ADNAN IBRAHIM HANI ALAHMED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -29077,8 +29077,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -30136,7 +30136,7 @@
     "name": "ABDULRAHMAN ALI MAANA ALAJMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -30193,8 +30193,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -30384,7 +30384,7 @@
     "name": "ABDULLAH SHAKER TAHER ALROWAISHED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -30441,8 +30441,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -30508,7 +30508,7 @@
     "name": "SAAD SALEH SAAD ALSAHOOD",
     "position": "SECURITY GUARD",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -30565,8 +30565,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -31004,7 +31004,7 @@
     "name": "TAHER ALI TAHER ALOWAYSHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -31061,8 +31061,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -31128,7 +31128,7 @@
     "name": "ABDELHAKIM SAAD ABDULLAH ALARFAJ",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -31185,8 +31185,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -32244,7 +32244,7 @@
     "name": "ALI SAEED ALI ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -32301,8 +32301,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -32368,7 +32368,7 @@
     "name": "SAEED AHMED ALI ALKHALEAFAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -32425,8 +32425,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -32492,7 +32492,7 @@
     "name": "TAWFIQ HUSSAIN ESSA ALSMAIL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -32549,8 +32549,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -34352,7 +34352,7 @@
     "name": "ALI MOHAMMED HAJI ALSAFFAR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -34409,8 +34409,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -34476,7 +34476,7 @@
     "name": "NASSER ABSULHADI HASSAN ALJASSIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -34533,8 +34533,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -35096,7 +35096,7 @@
     "name": "HUSSAIN ABDULRAHIM ABDULMOHSIN ALABDULLATIF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -35153,8 +35153,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -35220,7 +35220,7 @@
     "name": "ABDULAZIZ HUSSAIN ABDULLAH ALMARZOOQ",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -35277,8 +35277,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -35468,7 +35468,7 @@
     "name": "FATHI ESSA MOUSA BOSHAJA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -35525,8 +35525,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -35716,7 +35716,7 @@
     "name": "YOUSEF AHMED SALEM ALEID",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -35773,8 +35773,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -35964,7 +35964,7 @@
     "name": "HUSSAIN MOHAMMED HUSSAIN ALMOTAEA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -36021,8 +36021,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -36088,7 +36088,7 @@
     "name": "MOHAMMED HASSAN HUSSAIN ALABDULLTAIF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -36145,8 +36145,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -36584,7 +36584,7 @@
     "name": "MOHAMMED ESSA MOHAMMED ALDOKHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -36641,8 +36641,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -37824,7 +37824,7 @@
     "name": "MUNTASIR MOHAMMED MAHDI ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -37881,8 +37881,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -37948,7 +37948,7 @@
     "name": "MURTDA AHMED JASSEM ALSAEED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -38005,8 +38005,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -38196,7 +38196,7 @@
     "name": "AMIN WAHB ESSA ALALI SALEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
+    "completedCount": 13,
     "missingCount": 1,
     "totalMandatory": 12,
     "complianceRate": 92,
@@ -38253,8 +38253,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -38940,7 +38940,7 @@
     "name": "HUSSAIN AMIR HASSAN ALARABI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -38997,8 +38997,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -39188,7 +39188,7 @@
     "name": "HAFIZ ALI HAFIZ ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -39245,8 +39245,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -39436,7 +39436,7 @@
     "name": "AHMED TIRMAH ALI ALRUBAYYI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -39493,8 +39493,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -40056,7 +40056,7 @@
     "name": "EISSA TAHER AASHOR ALKHADEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -40113,8 +40113,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -40180,7 +40180,7 @@
     "name": "ALI MOHAMMED ABDULLAH ALJUAIDAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -40237,8 +40237,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -40304,7 +40304,7 @@
     "name": "BANDAR MOHAMMED SALEM ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -40361,8 +40361,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -40428,7 +40428,7 @@
     "name": "SALEM MOHAMMED BAKHIT ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -40485,8 +40485,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -41048,7 +41048,7 @@
     "name": "MOHAMMED HUSSAIN KADHIM ALSUTLAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -41105,8 +41105,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -41172,7 +41172,7 @@
     "name": "ZAKI HABIB ALI ALNAS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -41229,8 +41229,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -42040,7 +42040,7 @@
     "name": "NASSER HASSAN NASSER ALKHALIFAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -42097,8 +42097,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -42660,7 +42660,7 @@
     "name": "MARZOUQ HAMAD SALEM ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -42717,8 +42717,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -42784,7 +42784,7 @@
     "name": "ABDULLAH MOHAMMED KHALEFAH ALBAHRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -42841,8 +42841,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -43032,7 +43032,7 @@
     "name": "SALEH HAMAD SALEM ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -43089,8 +43089,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -44644,7 +44644,7 @@
     "name": "HAI ALAAH MOHAMMED ZAID ALHARTHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -44701,8 +44701,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -44892,7 +44892,7 @@
     "name": "ABDULLATIF ALI AHMED ALALI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -44949,8 +44949,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -47000,7 +47000,7 @@
     "name": "MUTEB THAMER TALMAS ALSAHLI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -47057,8 +47057,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -47124,7 +47124,7 @@
     "name": "SULTAN ABDULLAH MOHAMMED ALSAMAK",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -47181,8 +47181,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -47248,7 +47248,7 @@
     "name": "HUSSAIN MOHAMMED MOHAMMED ALFADEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -47305,8 +47305,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -47372,7 +47372,7 @@
     "name": "YOUSEF ABDULLAH ABDULMOHSEN ALABDULLAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -47429,8 +47429,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -47496,7 +47496,7 @@
     "name": "HAIDER HAJI HUSSAIN BU HAIMED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -47553,8 +47553,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -49976,7 +49976,7 @@
     "name": "SALEH MUSLEM OWDA ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 7,
+    "completedCount": 8,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -50033,8 +50033,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -50472,7 +50472,7 @@
     "name": "HAMAD ALI ABDULHADI ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -50529,8 +50529,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -52580,7 +52580,7 @@
     "name": "HAMAD RASHED SALEH ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -52637,8 +52637,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -52828,7 +52828,7 @@
     "name": "HAMAD FAHAD MOHAMMED ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -52885,8 +52885,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -53200,7 +53200,7 @@
     "name": "KADHEM RADHI ESSA ALGHASHAM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -53257,8 +53257,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -56300,7 +56300,7 @@
     "name": "MOHAMMED SAIF MOUSA ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -56357,8 +56357,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -56424,7 +56424,7 @@
     "name": "HANI SHAKRI ALI ALSHAWAY",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -56481,8 +56481,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -57226,7 +57226,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Jan 04, 2026",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -60392,7 +60392,7 @@
     "name": "HAIDER NASSER HASSAN ALMUAYBID",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -60449,8 +60449,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -63368,7 +63368,7 @@
     "name": "MURTADHA ALI ALI ALSHAYEB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -63425,8 +63425,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -63616,7 +63616,7 @@
     "name": "SAEED OBAID MOHSEN ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -63673,8 +63673,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -63740,7 +63740,7 @@
     "name": "MOHAMMED ABDULLAH AHMED ALSAHIB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -63797,8 +63797,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -63864,7 +63864,7 @@
     "name": "QASEM YOUSEF MOHMEED ALHASAWI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -63921,8 +63921,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -69320,7 +69320,7 @@
     "name": "SALEM RASHED MAFLH ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -69377,8 +69377,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -72296,7 +72296,7 @@
     "name": "TAHER ABDULLAH MOUSA ALJAASEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -72353,8 +72353,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -73660,7 +73660,7 @@
     "name": "IBRAHIM ANWAR IBRAHIM ALESSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -73717,8 +73717,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -75024,7 +75024,7 @@
     "name": "ZUHAIR YOUSEF KHAMIS ALBAHRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -75081,8 +75081,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -75396,7 +75396,7 @@
     "name": "BADER EID SALIM ALATWI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -75453,8 +75453,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -78372,7 +78372,7 @@
     "name": "ABDULWAHAB JASSIM ABDULWAHAB ALBAHRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -78429,8 +78429,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -78496,7 +78496,7 @@
     "name": "NASSER NAJI JABER ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -78553,8 +78553,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -80356,7 +80356,7 @@
     "name": "MOHAMMED FARAJ MOHAMMED ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -80413,8 +80413,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -84076,7 +84076,7 @@
     "name": "NAJI HUSSAIN AHMED ALMUSSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -84133,8 +84133,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -84944,7 +84944,7 @@
     "name": "HUSSAIN NASER ALI ALMEZAIEI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
+    "completedCount": 13,
     "missingCount": 1,
     "totalMandatory": 12,
     "complianceRate": 92,
@@ -85001,8 +85001,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -86308,7 +86308,7 @@
     "name": "ALI SADIQ MATOOQ ALDALWI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -86365,8 +86365,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -86928,7 +86928,7 @@
     "name": "SHUJAA SALEH ALI ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -86985,8 +86985,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -87300,7 +87300,7 @@
     "name": "ALI TAHER HUSSAIN ALBELADI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -87357,8 +87357,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -93500,7 +93500,7 @@
     "name": "FAHAD SAAD MOHAMMED ALAWAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -93557,8 +93557,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -94120,7 +94120,7 @@
     "name": "FAHAD YAQOUB YOUSEF ALALI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -94177,8 +94177,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -94616,7 +94616,7 @@
     "name": "ALI SALMAN ALI BIN ESSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -94673,8 +94673,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -94740,7 +94740,7 @@
     "name": "MOHAMMED YOUSEF HUSSAIN ALSHAYEB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -94797,8 +94797,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -95980,7 +95980,7 @@
     "name": "TAJ ABBAS ALI ALFADHLI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -96037,8 +96037,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -98212,7 +98212,7 @@
     "name": "HAIDAR JAFAR MOHAMMED ALAHMED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
+    "completedCount": 10,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -98269,8 +98269,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -100692,7 +100692,7 @@
     "name": "NASSER HAMAD HADI ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -100749,8 +100749,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -101808,7 +101808,7 @@
     "name": "MUQBIL BADER MOHAMMED ALMADD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -101865,8 +101865,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -102676,7 +102676,7 @@
     "name": "BADER MANSOUR SAEED ALHAJRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -102733,8 +102733,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -103048,7 +103048,7 @@
     "name": "ADNAN HUSSAIN ABDULMOHSEN ALSULAYBIKH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 7,
+    "completedCount": 8,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -103105,8 +103105,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -103172,7 +103172,7 @@
     "name": "HASSAN SAAD FAHAD ALSHUAYWIN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
+    "completedCount": 10,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -103229,8 +103229,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
