@@ -2914,7 +2914,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Jan 06, 2026",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -15504,7 +15504,7 @@
     "name": "RAED ATIYAH TALEA ALFADHLI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 7,
     "totalMandatory": 12,
     "complianceRate": 42,
@@ -15561,8 +15561,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -20464,7 +20464,7 @@
     "name": "ADEEB MABREK MESFER ALHARBI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 7,
     "totalMandatory": 12,
     "complianceRate": 42,
@@ -20521,8 +20521,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -27466,7 +27466,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 07, 2026",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -31806,7 +31806,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 07, 2026",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -33914,7 +33914,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 07, 2026",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -68080,7 +68080,7 @@
     "name": "SHAHER HASSAN SALIMAN ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 5,
+    "completedCount": 6,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -68137,8 +68137,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -89838,7 +89838,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 07, 2026",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -90458,7 +90458,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Jan 06, 2026",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -92756,7 +92756,7 @@
     "name": "HUSSAIN NUWAYJI AWAD ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 7,
     "totalMandatory": 12,
     "complianceRate": 42,
@@ -92813,8 +92813,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -93872,7 +93872,7 @@
     "name": "MOHAMMED ALI MOHAMMED ALASIRI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 3,
+    "completedCount": 4,
     "missingCount": 10,
     "totalMandatory": 12,
     "complianceRate": 17,
@@ -93929,8 +93929,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -93996,7 +93996,7 @@
     "name": "MOHAMMED ABDULRAHMAN ABDULLAH JAHLAN",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 3,
+    "completedCount": 4,
     "missingCount": 10,
     "totalMandatory": 12,
     "complianceRate": 17,
@@ -94053,8 +94053,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -95360,7 +95360,7 @@
     "name": "YASIR IDRIS MOHAMMED TUKRUNA",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -95417,8 +95417,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -100254,7 +100254,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 07, 2026",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
@@ -101312,7 +101312,7 @@
     "name": "TAIL ABDULLATIF ABDULLAH ALYAMANI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -101369,8 +101369,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 21, 2026",
         "isMandatory": false
       },
       {
