@@ -12652,7 +12652,7 @@
     "name": "MOHAMMED ALI MOHAMMED AL MAHFOUD",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -12709,8 +12709,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -61632,7 +61632,7 @@
     "name": "FARIS ALI MAHDI AWAJI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -61689,8 +61689,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -78124,7 +78124,7 @@
     "name": "JABER MOHAMMED ALI KAABI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -78181,8 +78181,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -92260,7 +92260,7 @@
     "name": "RAMI ABDULLAH AHMED HASSAN",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 7,
+    "completedCount": 8,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -92317,8 +92317,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -101436,7 +101436,7 @@
     "name": "AHMED ALI HABIB ALDERWASH",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 7,
     "totalMandatory": 12,
     "complianceRate": 42,
@@ -101493,8 +101493,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
