@@ -58328,7 +58328,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 05, 2026",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -71924,10 +71924,10 @@
     "name": "RASHEED MOHAMMAD SAAD ALDAWSRE",
     "position": "SECURITY GUARD",
     "project": "NeomMountainCentralCamp",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -71967,8 +71967,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
