@@ -29268,10 +29268,10 @@
     "name": "MOHAMMED SWAILEM MSAAD ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -29311,8 +29311,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -29764,10 +29764,10 @@
     "name": "EID ABDULLAH SALIM ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -29807,8 +29807,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -29888,10 +29888,10 @@
     "name": "HADI SALAMH SAWELM ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -29931,8 +29931,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -48860,10 +48860,10 @@
     "name": "FAHAD SUAILEM IBRAHIM ALMASUDI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -48903,8 +48903,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -49604,10 +49604,10 @@
     "name": "JUMAAH EID SULAIMAN ALHEWAITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -49647,8 +49647,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -49728,10 +49728,10 @@
     "name": "KHALID DHAIFALLAH ALI ALFAIDI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 4,
-    "missingCount": 9,
+    "completedCount": 5,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -49771,8 +49771,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -50968,10 +50968,10 @@
     "name": "ABDULMOHSIN HUSSAIN LAFI ALHWITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -51011,8 +51011,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -53572,10 +53572,10 @@
     "name": "YOUSEF AHMED MASOUD ALHARBI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 2,
-    "missingCount": 11,
+    "completedCount": 3,
+    "missingCount": 10,
     "totalMandatory": 12,
-    "complianceRate": 8,
+    "complianceRate": 17,
     "courses": [
       {
         "sn": 1,
@@ -53615,8 +53615,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -59400,10 +59400,10 @@
     "name": "AESH SOLIMAN SAEED ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -59443,8 +59443,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -60888,10 +60888,10 @@
     "name": "ADEL MUFLIH SALEM ALWABISI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -60931,8 +60931,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -65396,7 +65396,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 05, 2026",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -65724,10 +65724,10 @@
     "name": "ABDULRAHMAN ALI FRJ ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -65767,8 +65767,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -65848,10 +65848,10 @@
     "name": "FAISAL SALEEM MASOOD ALAMIRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -65891,8 +65891,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -68868,7 +68868,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 05, 2026",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -68948,10 +68948,10 @@
     "name": "SAYED SALEM MADI ALOMAIRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -68991,8 +68991,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -69488,7 +69488,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 05, 2026",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -77628,10 +77628,10 @@
     "name": "MOHAMOUD SALEM SALIMAN ALMASOUD",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -77671,8 +77671,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -82012,7 +82012,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 05, 2026",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -82216,10 +82216,10 @@
     "name": "KHALID AHMED SWELEM ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -82259,8 +82259,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -83500,7 +83500,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 05, 2026",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -83828,10 +83828,10 @@
     "name": "FALAH HULAYYIL SAWILM ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -83871,8 +83871,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -91392,10 +91392,10 @@
     "name": "JAMAL AWADH SABR ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -91435,8 +91435,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
@@ -91764,10 +91764,10 @@
     "name": "OMAR ALI SAWILM ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -91807,8 +91807,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
         "isMandatory": true
       },
       {
