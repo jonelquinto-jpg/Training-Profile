@@ -1988,10 +1988,10 @@
     "name": "TALAL SAAD KHALIFA AL HARBI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 4,
-    "missingCount": 12,
+    "completedCount": 5,
+    "missingCount": 11,
     "totalMandatory": 16,
-    "complianceRate": 25,
+    "complianceRate": 31,
     "courses": [
       {
         "sn": 1,
@@ -2045,8 +2045,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 22, 2026",
         "isMandatory": true
       },
       {
@@ -19100,7 +19100,7 @@
     "name": "MOHAMMED HMOUD MURAIZEQ ALHARBI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -19157,8 +19157,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -28524,7 +28524,7 @@
     "name": "MOHAMMED ABDULRAHMAN MOHAMMED ALOSAIMI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
+    "completedCount": 5,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -28581,8 +28581,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -31682,7 +31682,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 08, 2026",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -37452,7 +37452,7 @@
     "name": "KHALID ALHUMAYDI AAED ALENZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -37509,8 +37509,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -47802,7 +47802,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 08, 2026",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -48116,7 +48116,7 @@
     "name": "FAHAD SAAD ABAS ALDOOSARI",
     "position": "SECURITY GUARD",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -48173,8 +48173,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -56234,7 +56234,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 08, 2026",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -57474,7 +57474,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 08, 2026",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -63120,7 +63120,7 @@
     "name": "FAHAD MOHAMMAD OUENAN ALKHALIFAH",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -63177,8 +63177,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -73222,7 +73222,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 08, 2026",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -73412,7 +73412,7 @@
     "name": "ALMUHANNAD YAHYA AHMED ILAJI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
+    "completedCount": 4,
     "missingCount": 9,
     "totalMandatory": 12,
     "complianceRate": 25,
@@ -73469,8 +73469,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -74090,7 +74090,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 08, 2026",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -74404,7 +74404,7 @@
     "name": "ABDULMAJEED SAEED ALI ALSHEHRI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -74461,8 +74461,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -76016,7 +76016,7 @@
     "name": "AEDH SAAD MOHAMMED ALAKLABI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
+    "completedCount": 10,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -76073,8 +76073,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -83084,7 +83084,7 @@
     "name": "MOHAMMED FAHMI MOHAMMED ALHARTHANI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
+    "completedCount": 8,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -83141,8 +83141,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -85068,10 +85068,10 @@
     "name": "SALAMAH MOTAIR SLAMAH ALATAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 8,
-    "missingCount": 8,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 16,
-    "complianceRate": 50,
+    "complianceRate": 63,
     "courses": [
       {
         "sn": 1,
@@ -85125,8 +85125,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -85174,8 +85174,8 @@
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -88044,7 +88044,7 @@
     "name": "ABDULLAH HASSAN ABDULLAH ALAMRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
+    "completedCount": 5,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -88101,8 +88101,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -88540,7 +88540,7 @@
     "name": "MOHAMMED NASSER MOHAMMED ALFATAIH",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
+    "completedCount": 5,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -88597,8 +88597,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -91640,10 +91640,10 @@
     "name": "MOHAMMED AHMED MOHAMMED ALMUNTASHIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -91698,7 +91698,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 06, 2026",
+        "date": "Sep 27, 2026",
         "isMandatory": false
       },
       {
@@ -91746,8 +91746,8 @@
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -95732,7 +95732,7 @@
     "name": "RAKAN NAWAF HUSSAIN ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
+    "completedCount": 4,
     "missingCount": 9,
     "totalMandatory": 12,
     "complianceRate": 25,
@@ -95789,8 +95789,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -96352,7 +96352,7 @@
     "name": "SALMAN ATEEQ EID ALRASHIDI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
+    "completedCount": 5,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -96409,8 +96409,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -96476,7 +96476,7 @@
     "name": "ABDULLATIF HAMAD NAEL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -96533,8 +96533,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -99080,7 +99080,7 @@
     "name": "TURKI SAMMAR JABER ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
+    "completedCount": 4,
     "missingCount": 9,
     "totalMandatory": 12,
     "complianceRate": 25,
@@ -99137,8 +99137,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -102304,7 +102304,7 @@
     "name": "NAIF AWAADH AWAD ALSALHI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
+    "completedCount": 5,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -102361,8 +102361,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
