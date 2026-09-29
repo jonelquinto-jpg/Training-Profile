@@ -24060,10 +24060,10 @@
     "name": "HAMAD AWAID MUBARAK ALHWITY",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "NEOM AREA SHARED INDIRECT &PRE",
-    "completedCount": 10,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -24117,8 +24117,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -24166,8 +24166,8 @@
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -25300,10 +25300,10 @@
     "name": "OMAR SALIM AL HEWAITY",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "NEOM AREA SHARED INDIRECT &PRE",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 11,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -25357,8 +25357,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -25406,8 +25406,8 @@
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -89284,10 +89284,10 @@
     "name": "ABDULAZIZ IBRAHIM NAHADH ALBALAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 8,
-    "missingCount": 8,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 16,
-    "complianceRate": 50,
+    "complianceRate": 56,
     "courses": [
       {
         "sn": 1,
@@ -89342,7 +89342,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jan 07, 2026",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -89390,8 +89390,8 @@
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
