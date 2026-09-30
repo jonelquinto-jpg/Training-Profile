@@ -12280,10 +12280,10 @@
     "name": "MOQBEL SULTAN SAAD ALBESHI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Camp 2 - Jubail",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 16,
-    "complianceRate": 56,
+    "complianceRate": 69,
     "courses": [
       {
         "sn": 1,
@@ -12330,8 +12330,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -12372,8 +12372,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -16992,10 +16992,10 @@
     "name": "SAAD MOHAMMED HABIB ALHAWSAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "NEOM MOUNTAIN BASE CAMP",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 16,
-    "complianceRate": 88,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -17049,8 +17049,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
@@ -17098,8 +17098,8 @@
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 27, 2026",
         "isMandatory": true
       },
       {
