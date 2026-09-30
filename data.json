@@ -8064,10 +8064,10 @@
     "name": "MOHAMMED DAWOOD ABDULLAH ALREMI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -8163,15 +8163,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 28, 2026",
         "isMandatory": true
       },
       {
@@ -10916,10 +10916,10 @@
     "name": "FAROQ ABDULQADER MAHMOUD MERAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -11015,15 +11015,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 28, 2026",
         "isMandatory": true
       },
       {
@@ -11164,10 +11164,10 @@
     "name": "ABDULRAHMAN MOHAMMED HASSAN HAZAZI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 8,
-    "missingCount": 8,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 16,
-    "complianceRate": 50,
+    "complianceRate": 63,
     "courses": [
       {
         "sn": 1,
@@ -11263,15 +11263,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 28, 2026",
         "isMandatory": true
       },
       {
@@ -14984,14 +14984,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Sep 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Sep 28, 2026",
         "isMandatory": true
       },
       {
