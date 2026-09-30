@@ -14512,7 +14512,7 @@
     "name": "NAYEF KHALID SALEH ALKHADER",
     "position": "SECURITY GUARD",
     "project": "Central Laydown - Dhahran",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 7,
     "totalMandatory": 12,
     "complianceRate": 42,
@@ -14569,8 +14569,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -25920,7 +25920,7 @@
     "name": "ALI NAIF ALI ALDIBIL",
     "position": "SECURITY GUARD",
     "project": "Scaffolding Services",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -25977,8 +25977,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -66220,7 +66220,7 @@
     "name": "ABDULLAH IBRAHIM HAMAD ALHAQBANI",
     "position": "SECURITY GUARD",
     "project": "Nesma Training Institute",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -66277,8 +66277,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -66592,7 +66592,7 @@
     "name": "SHREEFAH SAEED MUSA ALSHAHRANY",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -66649,8 +66649,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -94988,7 +94988,7 @@
     "name": "WAIL ALI GHANAM ALENZY",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
     "complianceRate": 67,
@@ -95045,8 +95045,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
