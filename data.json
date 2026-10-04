@@ -4,10 +4,10 @@
     "name": "HUSSAIN ABDULLAH ALI ALHABEEB",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Laydown Support Services",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 16,
-    "complianceRate": 75,
+    "complianceRate": 88,
     "courses": [
       {
         "sn": 1,
@@ -54,8 +54,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -96,8 +96,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -252,10 +252,10 @@
     "name": "FADHIL ALI HASSAN AL FADHIL",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Main Camp - Dhahran",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 16,
-    "complianceRate": 81,
+    "complianceRate": 88,
     "courses": [
       {
         "sn": 1,
@@ -303,7 +303,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -344,8 +344,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -376,10 +376,10 @@
     "name": "FADHIL ALI A ALJAFFAL",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Central Laydown - Dhahran",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 16,
-    "complianceRate": 75,
+    "complianceRate": 88,
     "courses": [
       {
         "sn": 1,
@@ -426,8 +426,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -468,8 +468,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -4096,10 +4096,10 @@
     "name": "HAZMI SAUD AZRAN ALSAHLI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 87,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -4147,7 +4147,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -4188,8 +4188,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -4220,10 +4220,10 @@
     "name": "ABDULHAKIM AMER HAJI ALTHAWADI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Main Camp - Dhahran",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -4271,7 +4271,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Jan 06, 2026",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -4312,8 +4312,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -6328,10 +6328,10 @@
     "name": "KHALED NAFFAL ALOTAIBI",
     "position": "SECURITY TEAM LEADER",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 11,
+    "missingCount": 4,
     "totalMandatory": 14,
-    "complianceRate": 57,
+    "complianceRate": 71,
     "courses": [
       {
         "sn": 1,
@@ -6378,8 +6378,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
@@ -6420,8 +6420,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 29, 2026",
         "isMandatory": true
       },
       {
