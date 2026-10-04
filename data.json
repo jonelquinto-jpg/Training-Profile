@@ -1988,10 +1988,10 @@
     "name": "TALAL SAAD KHALIFA AL HARBI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 5,
-    "missingCount": 11,
+    "completedCount": 7,
+    "missingCount": 9,
     "totalMandatory": 16,
-    "complianceRate": 31,
+    "complianceRate": 44,
     "courses": [
       {
         "sn": 1,
@@ -2031,8 +2031,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -2059,8 +2059,8 @@
       {
         "sn": 10,
         "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -2732,10 +2732,10 @@
     "name": "KHALED SAHMEI MUTLAQ AL SUBAIE",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 4,
-    "missingCount": 11,
+    "completedCount": 6,
+    "missingCount": 9,
     "totalMandatory": 15,
-    "complianceRate": 27,
+    "complianceRate": 40,
     "courses": [
       {
         "sn": 1,
@@ -2775,8 +2775,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -2803,8 +2803,8 @@
       {
         "sn": 10,
         "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -3352,7 +3352,7 @@
     "name": "NAYEF SALAH AWADH AL HARBI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -3409,8 +3409,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -4344,7 +4344,7 @@
     "name": "TARIQ HAMDAN METHKER AL HARBI",
     "position": "SECURITY GUARD",
     "project": "DIRIYAH SUNDRY-DISWL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -4401,8 +4401,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 28, 2026",
         "isMandatory": false
       },
       {
@@ -4840,7 +4840,7 @@
     "name": "NASER HASHEM ZAYED AL HARBI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -4897,8 +4897,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -11908,7 +11908,7 @@
     "name": "ABDULRZAQ AOODAH ALANZI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -11965,8 +11965,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -37576,10 +37576,10 @@
     "name": "ABDURAHMAN FAHAD IBRAHIM ALSUYDANI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 16,
-    "complianceRate": 56,
+    "complianceRate": 69,
     "courses": [
       {
         "sn": 1,
@@ -37619,8 +37619,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -37647,8 +37647,8 @@
       {
         "sn": 10,
         "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -50348,7 +50348,7 @@
     "name": "NASSER JAWAD MOHAMMED ALSURAYJ",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -50405,8 +50405,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -51960,7 +51960,7 @@
     "name": "MANSOUR FARHAN SARHAN ALENEZI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -52017,8 +52017,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -58160,7 +58160,7 @@
     "name": "FAHAD NAIF FAHAD ALANAZI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -58217,8 +58217,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -59648,7 +59648,7 @@
     "name": "MESHAL DAKHEL DAKHIL ALSALHI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -59705,8 +59705,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -62748,7 +62748,7 @@
     "name": "FAHAD TALAL THANI ALEID",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -62805,8 +62805,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -74900,7 +74900,7 @@
     "name": "NAIF AWAD RASHED ALATAWI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -74957,8 +74957,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -87796,7 +87796,7 @@
     "name": "MOHAMMED DHAWI AAIDH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -87853,8 +87853,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -89408,7 +89408,7 @@
     "name": "MAJED KHULAIF MANA ALANAZI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -89465,8 +89465,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -94864,10 +94864,10 @@
     "name": "MOHAMMED JAMAN ABDULLAH ALDAWSARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 4,
-    "missingCount": 11,
+    "completedCount": 6,
+    "missingCount": 9,
     "totalMandatory": 15,
-    "complianceRate": 27,
+    "complianceRate": 40,
     "courses": [
       {
         "sn": 1,
@@ -94907,8 +94907,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -94935,8 +94935,8 @@
       {
         "sn": 10,
         "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -96724,7 +96724,7 @@
     "name": "ABDULAZIZ ALI MOHAMMED ALHIFTHI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -96781,8 +96781,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -96848,7 +96848,7 @@
     "name": "ABDULELAH MOHAMMED QASEM IDRIS",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -96905,8 +96905,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -97964,10 +97964,10 @@
     "name": "AYED DHAIDAN GHALAB ALOTAIBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 4,
-    "missingCount": 11,
+    "completedCount": 6,
+    "missingCount": 9,
     "totalMandatory": 15,
-    "complianceRate": 27,
+    "complianceRate": 40,
     "courses": [
       {
         "sn": 1,
@@ -98007,8 +98007,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -98035,8 +98035,8 @@
       {
         "sn": 10,
         "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -99824,7 +99824,7 @@
     "name": "HAEF DASMAN MUNAHI ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -99881,8 +99881,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -100444,10 +100444,10 @@
     "name": "IBRAHIM ABDULLAH HASEEN ALFALQI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -100487,8 +100487,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -100516,7 +100516,7 @@
         "sn": 10,
         "title": "Writing Reports",
         "status": "Completed",
-        "date": "Aug 25, 2026",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -102180,7 +102180,7 @@
     "name": "BANDAR FAHAD SHAWEE ALHARBI",
     "position": "SECURITY GUARD",
     "project": "DIRIYAH SUNDRY-DISWL",
-    "completedCount": 5,
+    "completedCount": 6,
     "missingCount": 8,
     "totalMandatory": 12,
     "complianceRate": 33,
@@ -102237,8 +102237,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 28, 2026",
         "isMandatory": false
       },
       {
@@ -102800,10 +102800,10 @@
     "name": "RAMI ATIAH MOHAMMED ALABDALI",
     "position": "SECURITY TEAM LEADER",
     "project": "QSt1-MBS Stadium Secondment",
-    "completedCount": 3,
-    "missingCount": 12,
+    "completedCount": 5,
+    "missingCount": 10,
     "totalMandatory": 14,
-    "complianceRate": 14,
+    "complianceRate": 29,
     "courses": [
       {
         "sn": 1,
@@ -102843,8 +102843,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
@@ -102871,8 +102871,8 @@
       {
         "sn": 10,
         "title": "Writing Reports",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 30, 2026",
         "isMandatory": true
       },
       {
