@@ -10172,10 +10172,10 @@
     "name": "HUSSAIN MAHDI HASSAN ALSOQUR",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -10194,8 +10194,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -10285,8 +10285,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -22696,10 +22696,10 @@
     "name": "MAHMOUD SALEM MOHAMMED ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -22718,8 +22718,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -22809,8 +22809,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -22820,10 +22820,10 @@
     "name": "IBRAHIM AYEED AYED ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -22842,8 +22842,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -22934,7 +22934,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -23316,10 +23316,10 @@
     "name": "SALEM HUSSAIN FARAJ ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -23338,8 +23338,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -23429,8 +23429,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -23440,10 +23440,10 @@
     "name": "KHALED OUDA MOHAMMED ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -23462,8 +23462,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -23553,8 +23553,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -26664,10 +26664,10 @@
     "name": "AWWAD HAMMAD AWDAH ALOMAIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -26686,8 +26686,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -26777,8 +26777,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -29144,10 +29144,10 @@
     "name": "HILAYEL HAMAD AOUDAH ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -29166,8 +29166,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -29257,8 +29257,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -29392,10 +29392,10 @@
     "name": "HAMOD HILAYEL MUBARAK ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -29415,7 +29415,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -29505,8 +29505,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -45264,10 +45264,10 @@
     "name": "EID SALEM SULAIMAN ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -45286,8 +45286,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -45377,8 +45377,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -46008,10 +46008,10 @@
     "name": "NADAER SULAIMAN SALEM ALHEWAITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -46030,8 +46030,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -46121,8 +46121,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -50100,10 +50100,10 @@
     "name": "SAAD SALEEM MUSSAD ALHAWAITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -50123,7 +50123,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -50213,8 +50213,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -53696,10 +53696,10 @@
     "name": "FARIS MOHAMMED NAJEM ALATAWI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -53718,8 +53718,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -53809,8 +53809,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -62004,10 +62004,10 @@
     "name": "ABDULLAH JADDUA SALEM ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -62027,7 +62027,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -62117,8 +62117,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -65600,10 +65600,10 @@
     "name": "SALEH FARAJ SALEEM ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -65623,7 +65623,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -65713,8 +65713,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -69196,10 +69196,10 @@
     "name": "RAFIA MUSAAD HALIL ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -69219,7 +69219,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -69309,8 +69309,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -70312,10 +70312,10 @@
     "name": "AHMED JADDUA SAWILM ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -70335,7 +70335,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -70425,8 +70425,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -70560,10 +70560,10 @@
     "name": "JALAL MOHAMMED MASLM ALATAWI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -70582,8 +70582,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -70673,8 +70673,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -77256,10 +77256,10 @@
     "name": "YOUSEF ABDULLAH SALIMAN ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -77279,7 +77279,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -77369,8 +77369,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -80480,10 +80480,10 @@
     "name": "ABDULLAH ABDULRAHMAN MOHAMMED ALOQBI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -80502,8 +80502,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -80593,8 +80593,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -81472,254 +81472,6 @@
     "name": "MOUSA MOHAMMED ALI ASIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 7,
-    "missingCount": 6,
-    "totalMandatory": 12,
-    "complianceRate": 50,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "Completed",
-        "date": "Aug 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "Completed",
-        "date": "Sep 20, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "Completed",
-        "date": "Sep 06, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Completed (Optional)",
-        "date": "Sep 06, 2026",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "Completed",
-        "date": "Aug 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "Completed",
-        "date": "Aug 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "Completed",
-        "date": "Sep 06, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
-  "160838": {
-    "empId": "160838",
-    "name": "MOHAMMED ALI ABBAS ABU SALIM",
-    "position": "SECURITY GUARD",
-    "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
-    "totalMandatory": 12,
-    "complianceRate": 75,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "Completed",
-        "date": "Aug 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "Completed",
-        "date": "Jun 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "Completed",
-        "date": "Jun 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "Completed",
-        "date": "Sep 20, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "Completed",
-        "date": "Sep 06, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Completed (Optional)",
-        "date": "Sep 06, 2026",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "Completed",
-        "date": "Aug 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "Completed",
-        "date": "Jun 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "Completed",
-        "date": "Aug 16, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "Completed",
-        "date": "Sep 06, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
-  "160839": {
-    "empId": "160839",
-    "name": "ALI ABDULLAH SABER ALGHAMDI",
-    "position": "SECURITY GUARD",
-    "project": "WO69-Hidden Marina Dewatering",
     "completedCount": 9,
     "missingCount": 4,
     "totalMandatory": 12,
@@ -81742,8 +81494,256 @@
       {
         "sn": 3,
         "title": "Customer Services",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "Completed",
+        "date": "Sep 06, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Completed (Optional)",
+        "date": "Sep 06, 2026",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "Completed",
+        "date": "Aug 16, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
         "status": "MISSING",
         "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "Completed",
+        "date": "Aug 16, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "Completed",
+        "date": "Sep 06, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
+        "isMandatory": true
+      }
+    ]
+  },
+  "160838": {
+    "empId": "160838",
+    "name": "MOHAMMED ALI ABBAS ABU SALIM",
+    "position": "SECURITY GUARD",
+    "project": "WO69-Hidden Marina Dewatering",
+    "completedCount": 11,
+    "missingCount": 2,
+    "totalMandatory": 12,
+    "complianceRate": 83,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "Completed",
+        "date": "Aug 16, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "Completed",
+        "date": "Jun 16, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "Completed",
+        "date": "Sep 20, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "Completed",
+        "date": "Sep 06, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Completed (Optional)",
+        "date": "Sep 06, 2026",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "Completed",
+        "date": "Aug 16, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "Completed",
+        "date": "Jun 16, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "Completed",
+        "date": "Aug 16, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "Completed",
+        "date": "Sep 06, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
+        "isMandatory": true
+      }
+    ]
+  },
+  "160839": {
+    "empId": "160839",
+    "name": "ALI ABDULLAH SABER ALGHAMDI",
+    "position": "SECURITY GUARD",
+    "project": "WO69-Hidden Marina Dewatering",
+    "completedCount": 11,
+    "missingCount": 2,
+    "totalMandatory": 12,
+    "complianceRate": 83,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "Completed",
+        "date": "Aug 16, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -81833,8 +81833,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -82340,10 +82340,10 @@
     "name": "GHAZI SALEH RAFEE ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -82363,7 +82363,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -82453,8 +82453,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -82588,10 +82588,10 @@
     "name": "FAYEZ OUDAH SOBHE ALATAWI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -82611,7 +82611,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -82701,8 +82701,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -87548,10 +87548,10 @@
     "name": "MOHAMMED AZIZ SLEEM ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 4,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -87570,8 +87570,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -87661,8 +87661,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -91640,10 +91640,10 @@
     "name": "MOHAMMED AHMED MOHAMMED ALMUNTASHIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -91662,8 +91662,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -91753,8 +91753,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
