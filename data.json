@@ -29268,10 +29268,10 @@
     "name": "MOHAMMED SWAILEM MSAAD ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -29290,8 +29290,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -29381,8 +29381,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -29764,10 +29764,10 @@
     "name": "EID ABDULLAH SALIM ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -29787,7 +29787,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -29877,8 +29877,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -29888,10 +29888,10 @@
     "name": "HADI SALAMH SAWELM ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -29911,7 +29911,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -30001,8 +30001,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -39560,7 +39560,7 @@
     "name": "ABDULLAH EID SHAHIBAN ALRASHDI",
     "position": "SECURITY GUARD",
     "project": "KAPSARC School of PublicPolicy",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -39617,8 +39617,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -46504,10 +46504,10 @@
     "name": "DAIFALLAH SALAMA SALMAN ALHOWAITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -46526,8 +46526,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -46617,8 +46617,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -48860,10 +48860,10 @@
     "name": "FAHAD SUAILEM IBRAHIM ALMASUDI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -48882,8 +48882,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -48973,8 +48973,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -49604,10 +49604,10 @@
     "name": "JUMAAH EID SULAIMAN ALHEWAITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -49627,7 +49627,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -49717,8 +49717,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -49728,10 +49728,10 @@
     "name": "KHALID DHAIFALLAH ALI ALFAIDI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -49750,8 +49750,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -49841,8 +49841,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -50844,10 +50844,10 @@
     "name": "RAAD AHMED ALI ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 4,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -50866,8 +50866,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -50957,8 +50957,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -50968,10 +50968,10 @@
     "name": "ABDULMOHSIN HUSSAIN LAFI ALHWITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -50990,8 +50990,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -51081,8 +51081,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -53324,7 +53324,7 @@
     "name": "MUTLAQ SAUD MUTLAQ ALHARBI",
     "position": "SECURITY GUARD",
     "project": "KAPSARC School of PublicPolicy",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -53381,8 +53381,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -56672,7 +56672,7 @@
     "name": "AMMAR HASSAN GHULAM ABDULLAH",
     "position": "SECURITY GUARD",
     "project": "KAPSARC School of PublicPolicy",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -56729,8 +56729,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -57044,7 +57044,7 @@
     "name": "KASSAB SALEH KHULAIF ALHARBI",
     "position": "SECURITY GUARD",
     "project": "Lower Plateau Site Preparation",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -57101,8 +57101,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -58284,10 +58284,10 @@
     "name": "HAMMAD MANSOUR JIZAE ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "NEOM AREA SHARED INDIRECT &PRE",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -58307,7 +58307,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -58397,8 +58397,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -59400,10 +59400,10 @@
     "name": "AESH SOLIMAN SAEED ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -59422,8 +59422,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -59513,8 +59513,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -60516,7 +60516,7 @@
     "name": "ABDULMAJEED GHAZI ZAMAA ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "KAPSARC School of PublicPolicy",
-    "completedCount": 7,
+    "completedCount": 8,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -60573,8 +60573,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -60888,10 +60888,10 @@
     "name": "ADEL MUFLIH SALEM ALWABISI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -60911,7 +60911,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -61001,8 +61001,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -63492,7 +63492,7 @@
     "name": "OMAR SAUD MUTLQ ALHARBI",
     "position": "SECURITY GUARD",
     "project": "KAPSARC School of PublicPolicy",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -63549,8 +63549,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Sep 22, 2026",
         "isMandatory": false
       },
       {
@@ -65352,10 +65352,10 @@
     "name": "MOHAMMED FARG MOHAMMED ALHWETI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -65374,8 +65374,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -65465,8 +65465,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -65724,10 +65724,10 @@
     "name": "ABDULRAHMAN ALI FRJ ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -65747,7 +65747,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -65837,8 +65837,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -65848,10 +65848,10 @@
     "name": "FAISAL SALEEM MASOOD ALAMIRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -65870,8 +65870,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -65961,8 +65961,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -68824,10 +68824,10 @@
     "name": "NASSER ABDULRAHMAN MOHAMMED ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -68846,8 +68846,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -68937,8 +68937,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -69444,10 +69444,10 @@
     "name": "SALAH SALEH FHEMAN ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -69466,8 +69466,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -69557,8 +69557,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -70684,10 +70684,10 @@
     "name": "JASSIM HMWD AWDAH ALATWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -70706,8 +70706,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -70797,8 +70797,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -71924,10 +71924,10 @@
     "name": "RASHEED MOHAMMAD SAAD ALDAWSRE",
     "position": "SECURITY GUARD",
     "project": "NeomMountainCentralCamp",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -71946,8 +71946,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -72037,8 +72037,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -76760,10 +76760,10 @@
     "name": "ALI MOHAMMED MOHOUD ALQASIR",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -76782,8 +76782,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -76873,8 +76873,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -77628,10 +77628,10 @@
     "name": "MOHAMOUD SALEM SALIMAN ALMASOUD",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -77650,8 +77650,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -77741,8 +77741,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -78992,10 +78992,10 @@
     "name": "FAISAL NAWAF HSEEN ALBALWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -79015,7 +79015,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -79105,8 +79105,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -81968,10 +81968,10 @@
     "name": "AHMED ABDULLAH IBRAHIM ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -81990,8 +81990,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -82081,8 +82081,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -82216,10 +82216,10 @@
     "name": "KHALID AHMED SWELEM ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -82239,7 +82239,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -82329,8 +82329,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -83456,10 +83456,10 @@
     "name": "ABDULELAH OUDAH MUTLQ ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -83478,8 +83478,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -83569,8 +83569,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -91392,10 +91392,10 @@
     "name": "JAMAL AWADH SABR ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -91414,8 +91414,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -91505,8 +91505,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -91764,10 +91764,10 @@
     "name": "OMAR ALI SAWILM ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -91787,7 +91787,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -91877,8 +91877,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -92012,10 +92012,10 @@
     "name": "ABDULLAH MORAYA FAHED ALJILDAH",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -92034,8 +92034,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -92125,8 +92125,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -93376,10 +93376,10 @@
     "name": "HAZIM AHMED NAIF ALSHARIF",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -93398,8 +93398,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -93489,8 +93489,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
@@ -95112,10 +95112,10 @@
     "name": "MAQBOOL EID SALMAN ALOMRANI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -95135,7 +95135,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       },
       {
@@ -95225,8 +95225,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 04, 2026",
         "isMandatory": true
       }
     ]
