@@ -1143,7 +1143,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 09, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -1234,7 +1234,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -6576,10 +6576,10 @@
     "name": "OMAR MOHAMMED HASSAN HEBAH",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -6598,8 +6598,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -6689,8 +6689,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -7072,10 +7072,10 @@
     "name": "MUSLIM MASTUR ALMOWALED",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -7094,8 +7094,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -7186,7 +7186,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -7444,10 +7444,10 @@
     "name": "MOHAMMED MUFRIJ ALSUBIEI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -7466,8 +7466,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -7558,7 +7558,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -7692,10 +7692,10 @@
     "name": "SALAH OTHMAN ABDALAH ZEINY",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -7714,8 +7714,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -7806,7 +7806,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -8087,7 +8087,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -8178,7 +8178,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Aug 31, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -8436,10 +8436,10 @@
     "name": "MOTLAQ ZARIA ABDULGHANI ALQURASHI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -8458,8 +8458,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -8549,8 +8549,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -10296,10 +10296,10 @@
     "name": "MAJED RASHED HUSAIN ALMALKI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -10319,7 +10319,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -10409,8 +10409,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -10544,10 +10544,10 @@
     "name": "IMAD MAFOOZ FAEEZ ALMOWALED",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -10566,8 +10566,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -10658,7 +10658,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -15380,10 +15380,10 @@
     "name": "NABIL SAEED ABDULRASHID EMAM",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -15402,8 +15402,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -15493,8 +15493,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -23936,10 +23936,10 @@
     "name": "ALI ATTIEH MAEANAF ALFAHMI",
     "position": "SECURITY GUARD",
     "project": "MASAR - DEDICATED TO MAKKAH",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -23958,8 +23958,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -24049,8 +24049,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -26540,10 +26540,10 @@
     "name": "SAMI HASSAN ALSHARIF",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -26562,8 +26562,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -26653,8 +26653,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -43652,10 +43652,10 @@
     "name": "ABDULAZIZ SHELIWIH THABIT ALMOTAIRI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -43674,8 +43674,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -43766,7 +43766,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -45636,10 +45636,10 @@
     "name": "FAHAD MUFLIH ZRAM ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -45658,8 +45658,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -45750,7 +45750,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -54564,10 +54564,10 @@
     "name": "SAIF MOHAMMAD HUSSAIN DAGHRIR",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -54586,8 +54586,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -54677,8 +54677,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -69072,10 +69072,10 @@
     "name": "ZAYED SALAMAH SHAEN ALOMIRI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 6,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -69094,8 +69094,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -69185,8 +69185,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -76636,10 +76636,10 @@
     "name": "SAEED MUBARAK SAEED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -76658,8 +76658,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -76750,7 +76750,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -77008,10 +77008,10 @@
     "name": "SALEEM SUMAYM SALEM ALRIQABI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 3,
-    "missingCount": 10,
+    "completedCount": 5,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 17,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -77030,8 +77030,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -77121,8 +77121,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -77504,10 +77504,10 @@
     "name": "KHALID MOHMOAD MOHAMMED ALHWATI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 3,
-    "missingCount": 10,
+    "completedCount": 5,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 17,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -77526,8 +77526,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -77617,8 +77617,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -90400,10 +90400,10 @@
     "name": "ABDULMAJEED DAKEHAL BEN SAAD ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -90422,8 +90422,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -90513,8 +90513,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -90524,10 +90524,10 @@
     "name": "HASEN NUSB ALLAH BARIHM ALMALKI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -90547,7 +90547,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -90637,8 +90637,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -92756,10 +92756,10 @@
     "name": "HUSSAIN NUWAYJI AWAD ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -92778,8 +92778,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -92870,7 +92870,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 11, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -93872,10 +93872,10 @@
     "name": "MOHAMMED ALI MOHAMMED ALASIRI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 4,
-    "missingCount": 10,
+    "completedCount": 6,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 17,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -93894,8 +93894,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -93985,8 +93985,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -93996,10 +93996,10 @@
     "name": "MOHAMMED ABDULRAHMAN ABDULLAH JAHLAN",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 4,
-    "missingCount": 10,
+    "completedCount": 6,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 17,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -94018,8 +94018,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -94109,8 +94109,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -101064,10 +101064,10 @@
     "name": "ALI AWWADH ALI ALTALHI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -101087,7 +101087,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -101177,8 +101177,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -101188,10 +101188,10 @@
     "name": "OMAR IBRAHIM HASSSNI ALHAYMI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -101211,7 +101211,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -101301,8 +101301,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
