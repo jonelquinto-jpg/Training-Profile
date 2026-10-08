@@ -14016,10 +14016,10 @@
     "name": "SADEK ALI YOUSSEF ALHAJI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -14038,8 +14038,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -18627,7 +18627,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 09, 2026",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -33236,10 +33236,10 @@
     "name": "AHMED SAAD SALEH ALKHALDI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -33258,8 +33258,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -38568,10 +38568,10 @@
     "name": "MUSTAFA ALI ALI ALSHAIKH HUSSAIN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -38590,8 +38590,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -38816,10 +38816,10 @@
     "name": "YAHYA ABDULWAHAB ABDULLAH ALSHAWI",
     "position": "SECURITY GUARD",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -38838,8 +38838,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -43404,10 +43404,10 @@
     "name": "HAZA NJER HAZA ALDOSSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 6,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -43426,8 +43426,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -58780,10 +58780,10 @@
     "name": "SALEH ALI SALEH ALHAMAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -58802,8 +58802,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -61508,10 +61508,10 @@
     "name": "SAEED MOHAMMED SAAD ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -61530,8 +61530,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -61632,10 +61632,10 @@
     "name": "FARIS ALI MAHDI AWAJI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -61654,8 +61654,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -67956,10 +67956,10 @@
     "name": "MAHER HASSAN MOHAMMED ALFAREED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -67978,8 +67978,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -78124,10 +78124,10 @@
     "name": "JABER MOHAMMED ALI KAABI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -78146,8 +78146,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -92260,10 +92260,10 @@
     "name": "RAMI ABDULLAH AHMED HASSAN",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -92282,8 +92282,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -101436,10 +101436,10 @@
     "name": "AHMED ALI HABIB ALDERWASH",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -101458,8 +101458,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -102552,10 +102552,10 @@
     "name": "ALI HUSSAIN ABDULLLAH ALDAWOOD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -102574,8 +102574,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
