@@ -45140,10 +45140,10 @@
     "name": "MAHMOUD SAQER MAHMOUD ALHAWITY",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -45162,8 +45162,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -45253,8 +45253,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
@@ -62872,10 +62872,10 @@
     "name": "SAUAD IBRAHEM HAMAD ALGRER",
     "position": "SECURITY GUARD",
     "project": "KAEC IV Phase 2.2 & 2.3 Infras",
-    "completedCount": 6,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -62894,8 +62894,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       },
       {
@@ -62985,8 +62985,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 05, 2026",
         "isMandatory": true
       }
     ]
