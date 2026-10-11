@@ -1492,10 +1492,10 @@
     "name": "SALEH HASAN ALI AL TEHAIFAH",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -1514,8 +1514,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -37204,10 +37204,10 @@
     "name": "ABDULLAH AHMED SALEH ALAQRAIN",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -37226,8 +37226,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -52084,10 +52084,10 @@
     "name": "ALI IBRAHIM SALEM ALOBUD",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -52106,8 +52106,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -73288,10 +73288,10 @@
     "name": "HAMAD THAAR HAMAD ALJUBEER",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -73310,8 +73310,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -89904,10 +89904,10 @@
     "name": "MESHAL SAAD MESHAL ALJAFFALI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -89926,8 +89926,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -92384,10 +92384,10 @@
     "name": "MOHAMMED OUN MANSOUR ALRABIE",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -92406,8 +92406,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
