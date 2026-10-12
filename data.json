@@ -996,10 +996,10 @@
     "name": "MOHAMMED YAHYA SALIM MAGRASHE",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
-    "missingCount": 10,
+    "completedCount": 7,
+    "missingCount": 9,
     "totalMandatory": 15,
-    "complianceRate": 33,
+    "complianceRate": 40,
     "courses": [
       {
         "sn": 1,
@@ -1019,7 +1019,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -1095,8 +1095,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -1988,10 +1988,10 @@
     "name": "TALAL SAAD KHALIFA AL HARBI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 8,
+    "missingCount": 8,
     "totalMandatory": 16,
-    "complianceRate": 44,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -2011,7 +2011,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -2087,8 +2087,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -3352,10 +3352,10 @@
     "name": "NAYEF SALAH AWADH AL HARBI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -3374,8 +3374,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -3451,8 +3451,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -4344,10 +4344,10 @@
     "name": "TARIQ HAMDAN METHKER AL HARBI",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 7,
-    "missingCount": 8,
+    "completedCount": 9,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -4366,8 +4366,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -4443,8 +4443,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -11536,10 +11536,10 @@
     "name": "NASER MOHAMMED HADI ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -11559,7 +11559,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -11635,8 +11635,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -13768,10 +13768,10 @@
     "name": "MABKHOUT YASLAM SALMEEN ALSAYARI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -13790,8 +13790,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -13867,8 +13867,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -19100,10 +19100,10 @@
     "name": "MOHAMMED HMOUD MURAIZEQ ALHARBI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -19122,8 +19122,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -19199,8 +19199,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -23192,10 +23192,10 @@
     "name": "ALI SULAIMAN ALI ALOMRANI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -23214,8 +23214,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -23291,8 +23291,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -25548,10 +25548,10 @@
     "name": "NASSER HAMED AL QURANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -25584,8 +25584,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Oct 11, 2026",
         "isMandatory": false
       },
       {
@@ -25626,8 +25626,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -31624,10 +31624,10 @@
     "name": "ABDULHAMID SAWAB MAKHLF ALENZI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -31647,7 +31647,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -31723,8 +31723,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -35840,10 +35840,10 @@
     "name": "FAHAD MOHAMMED MAHDI ALABEEDAH",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
-    "missingCount": 10,
+    "completedCount": 7,
+    "missingCount": 9,
     "totalMandatory": 16,
-    "complianceRate": 38,
+    "complianceRate": 44,
     "courses": [
       {
         "sn": 1,
@@ -35863,7 +35863,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -35939,8 +35939,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -47744,10 +47744,10 @@
     "name": "RASHED GHAREEB AYADAH ALHARBI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -47766,8 +47766,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -47843,8 +47843,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -50348,10 +50348,10 @@
     "name": "NASSER JAWAD MOHAMMED ALSURAYJ",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -50370,8 +50370,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -50447,8 +50447,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -51960,10 +51960,10 @@
     "name": "MANSOUR FARHAN SARHAN ALENEZI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -51983,7 +51983,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -52059,8 +52059,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -57416,10 +57416,10 @@
     "name": "HAMED ZABEN DARUS ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -57438,8 +57438,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -57515,8 +57515,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -58160,10 +58160,10 @@
     "name": "FAHAD NAIF FAHAD ALANAZI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -58182,8 +58182,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -58259,8 +58259,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -59648,10 +59648,10 @@
     "name": "MESHAL DAKHEL DAKHIL ALSALHI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -59670,8 +59670,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -59747,8 +59747,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -62748,10 +62748,10 @@
     "name": "FAHAD TALAL THANI ALEID",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -62770,8 +62770,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -62847,8 +62847,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -63120,10 +63120,10 @@
     "name": "FAHAD MOHAMMAD OUENAN ALKHALIFAH",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -63142,8 +63142,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -63219,8 +63219,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -71180,10 +71180,10 @@
     "name": "OUDAH DAKIL MOHAMMED ALHALAFI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -71203,7 +71203,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -71279,8 +71279,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -73536,10 +73536,10 @@
     "name": "NASSER HAYF BIN MTHYAB ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -73558,8 +73558,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -73635,8 +73635,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -83704,10 +83704,10 @@
     "name": "SALAMAH ALI SALAMAH ALSAGOOR",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -83726,8 +83726,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -83803,8 +83803,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -85812,10 +85812,10 @@
     "name": "ABDULLAH SAEED MOHAMMED ALKAHTANI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -85834,8 +85834,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -85911,8 +85911,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -89284,10 +89284,10 @@
     "name": "ABDULAZIZ IBRAHIM NAHADH ALBALAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 16,
-    "complianceRate": 56,
+    "complianceRate": 69,
     "courses": [
       {
         "sn": 1,
@@ -89320,8 +89320,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -89362,8 +89362,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -96724,10 +96724,10 @@
     "name": "ABDULAZIZ ALI MOHAMMED ALHIFTHI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -96747,7 +96747,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -96823,8 +96823,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -96848,10 +96848,10 @@
     "name": "ABDULELAH MOHAMMED QASEM IDRIS",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -96870,8 +96870,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -96947,8 +96947,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -97716,10 +97716,10 @@
     "name": "KHALID MESHAL MANSOOR ALOTIBI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -97739,7 +97739,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -97815,8 +97815,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -99824,10 +99824,10 @@
     "name": "HAEF DASMAN MUNAHI ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -99847,7 +99847,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -99923,8 +99923,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -99948,10 +99948,10 @@
     "name": "SAAD ALI ABDULLAH ALHARTHI",
     "position": "SECURITY GUARD",
     "project": "THE AVENUES RIYADH PH-1 MALL",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -99971,7 +99971,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -100047,8 +100047,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -102056,10 +102056,10 @@
     "name": "ABDULLAH ATALLAH AWAD ALAZMI",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -102078,8 +102078,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
@@ -102155,8 +102155,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 06, 2026",
         "isMandatory": true
       },
       {
