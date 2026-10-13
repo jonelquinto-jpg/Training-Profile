@@ -2360,10 +2360,10 @@
     "name": "TURKI ALI FAZAA ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -2382,8 +2382,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -4716,10 +4716,10 @@
     "name": "SAUD ALI FAZAA AL OTAIBI",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -4738,8 +4738,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -8808,10 +8808,10 @@
     "name": "NAIF ATEAH ABDULLAH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -8830,8 +8830,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -15752,10 +15752,10 @@
     "name": "ABDULRAHMAN MUAIDH ABDULRAHMAN ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -15774,8 +15774,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -17029,7 +17029,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed",
-        "date": "May 05, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -17071,7 +17071,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -17263,7 +17263,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jul 12, 2026",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -20836,10 +20836,10 @@
     "name": "BANDAR ALHOMAIDI AAID ALENZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -20858,8 +20858,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -28400,10 +28400,10 @@
     "name": "ABDULAZIZ AHMED TAHAR ALMALAK",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -28422,8 +28422,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -44148,10 +44148,10 @@
     "name": "JABR SAAD JABR ALOSAIMI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -44170,8 +44170,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -44520,10 +44520,10 @@
     "name": "NAWAF AWAD AMISH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -44542,8 +44542,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -45760,10 +45760,10 @@
     "name": "MAZEN AABDULAZIZ SAUD ALSAUD",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -45782,8 +45782,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -48984,10 +48984,10 @@
     "name": "MUKHLID NAIF AUDAH ALANAZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -49006,8 +49006,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -60663,7 +60663,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -65104,10 +65104,10 @@
     "name": "OMRAN IBRAHIM MOHAMMED BARNAWI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 47,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -65126,8 +65126,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -68700,10 +68700,10 @@
     "name": "MOHAMMED KHALAF NAZAL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -68722,8 +68722,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -94391,7 +94391,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -97243,7 +97243,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -97840,10 +97840,10 @@
     "name": "SAIF FALAH HEEAA ALRASHIDI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -97862,8 +97862,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
