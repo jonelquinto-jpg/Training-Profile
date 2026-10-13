@@ -6328,16 +6328,16 @@
     "name": "KHALED NAFFAL ALOTAIBI",
     "position": "SECURITY TEAM LEADER",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 11,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 3,
     "totalMandatory": 14,
-    "complianceRate": 71,
+    "complianceRate": 79,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed (Optional)",
-        "date": "Jul 07, 2026",
+        "date": "Oct 13, 2026",
         "isMandatory": false
       },
       {
@@ -6441,8 +6441,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       }
     ]
@@ -16372,16 +16372,16 @@
     "name": "ALI HASSAN AHMED TEHAIFAH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -16485,8 +16485,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       }
     ]
@@ -18728,16 +18728,16 @@
     "name": "JABER HASSAN HABIB ALSHOIKAT",
     "position": "SECURITY TEAM LEADER",
     "project": "Nesma Training Institute",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 14,
-    "complianceRate": 64,
+    "complianceRate": 71,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed (Optional)",
-        "date": "Jul 07, 2026",
+        "date": "Oct 13, 2026",
         "isMandatory": false
       },
       {
@@ -18841,8 +18841,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       }
     ]
@@ -24060,7 +24060,7 @@
     "name": "HAMAD AWAID MUBARAK ALHWITY",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "NEOM AREA SHARED INDIRECT &PRE",
-    "completedCount": 12,
+    "completedCount": 13,
     "missingCount": 3,
     "totalMandatory": 15,
     "complianceRate": 80,
@@ -24096,8 +24096,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Oct 11, 2026",
         "isMandatory": false
       },
       {
@@ -24139,7 +24139,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -25300,10 +25300,10 @@
     "name": "OMAR SALIM AL HEWAITY",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "NEOM AREA SHARED INDIRECT &PRE",
-    "completedCount": 11,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -25336,8 +25336,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Oct 11, 2026",
         "isMandatory": false
       },
       {
@@ -25378,8 +25378,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
