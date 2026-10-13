@@ -3476,16 +3476,16 @@
     "name": "WALID ABDULLAH ALMARJAN",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 6,
-    "missingCount": 10,
+    "completedCount": 8,
+    "missingCount": 8,
     "totalMandatory": 16,
-    "complianceRate": 38,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -3589,8 +3589,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       }
     ]
@@ -12156,16 +12156,16 @@
     "name": "ALI SALMAN AHMED ALMAEL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 3,
-    "missingCount": 12,
+    "completedCount": 5,
+    "missingCount": 10,
     "totalMandatory": 15,
-    "complianceRate": 20,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -12269,8 +12269,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       }
     ]
