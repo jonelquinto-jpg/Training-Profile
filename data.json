@@ -13892,10 +13892,10 @@
     "name": "SHAEM EID SALAMA ALENAZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -13914,8 +13914,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -13991,8 +13991,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -28524,10 +28524,10 @@
     "name": "MOHAMMED ABDULRAHMAN MOHAMMED ALOSAIMI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -28546,8 +28546,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -28623,8 +28623,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -41792,10 +41792,10 @@
     "name": "BADER MAEBEDE ABDULLAH ALHARBI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -41814,8 +41814,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -41891,8 +41891,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -45884,10 +45884,10 @@
     "name": "HAIF FLEIH ABDULKAREEM ALHARBI",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -45906,8 +45906,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -45983,8 +45983,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -46380,10 +46380,10 @@
     "name": "SAUD GHAIADH HMOUD ALANAZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -46402,8 +46402,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -46479,8 +46479,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -53448,10 +53448,10 @@
     "name": "KHALID ABDULLAH AQEL ALRESHIDI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -53470,8 +53470,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -53547,8 +53547,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -54812,10 +54812,10 @@
     "name": "ABDULLAH MOHAMMED MUTAR ALMUTRIFI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -54834,8 +54834,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -54911,8 +54911,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -72668,10 +72668,10 @@
     "name": "ALI RAJEH KHALF ALAKLABI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -72690,8 +72690,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -72767,8 +72767,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -73412,10 +73412,10 @@
     "name": "ALMUHANNAD YAHYA AHMED ILAJI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
-    "missingCount": 9,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -73434,8 +73434,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -73511,8 +73511,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -74032,10 +74032,10 @@
     "name": "NAWAF HEZAM MATHAKIR ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -74054,8 +74054,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -74132,7 +74132,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 10, 2026",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -74156,10 +74156,10 @@
     "name": "MOHAMMED NAZAL MANQL ALENEZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -74178,8 +74178,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -74255,8 +74255,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -76140,10 +76140,10 @@
     "name": "RAMADAN ABDULHANNAN RAMADAN ALANAZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -76162,8 +76162,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -76239,8 +76239,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -76388,10 +76388,10 @@
     "name": "NAWAF KHLEEF MANA ALANAZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -76410,8 +76410,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -76487,8 +76487,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -77876,10 +77876,10 @@
     "name": "ABDULLAH NASSER ALI BIN MUHAYSIN",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -77898,8 +77898,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -77975,8 +77975,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -78248,10 +78248,10 @@
     "name": "AHMED HASSAN YAHYA ALKHALDI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -78270,8 +78270,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -78348,7 +78348,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 10, 2026",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -88044,10 +88044,10 @@
     "name": "ABDULLAH HASSAN ABDULLAH ALAMRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -88066,8 +88066,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -88143,8 +88143,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -88540,10 +88540,10 @@
     "name": "MOHAMMED NASSER MOHAMMED ALFATAIH",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -88562,8 +88562,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -88639,8 +88639,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -95732,10 +95732,10 @@
     "name": "RAKAN NAWAF HUSSAIN ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
-    "missingCount": 9,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -95754,8 +95754,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -95831,8 +95831,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -96352,10 +96352,10 @@
     "name": "SALMAN ATEEQ EID ALRASHIDI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -96374,8 +96374,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -96451,8 +96451,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -102304,10 +102304,10 @@
     "name": "NAIF AWAADH AWAD ALSALHI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -102326,8 +102326,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
@@ -102403,8 +102403,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 07, 2026",
         "isMandatory": true
       },
       {
