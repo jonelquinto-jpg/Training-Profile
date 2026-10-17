@@ -6948,10 +6948,10 @@
     "name": "MOHAMMED AWAD ALQURASHI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -6970,8 +6970,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -7026,8 +7026,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -8087,7 +8087,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Oct 05, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -8143,7 +8143,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -9327,7 +9327,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Oct 05, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -9383,7 +9383,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -10939,7 +10939,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -10995,7 +10995,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -11164,10 +11164,10 @@
     "name": "ABDULRAHMAN MOHAMMED HASSAN HAZAZI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 16,
-    "complianceRate": 63,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -11186,8 +11186,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -11242,8 +11242,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -14884,10 +14884,10 @@
     "name": "KHALED MAHMOUD MOHAMMED FALLATAH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 87,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -14907,7 +14907,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Oct 05, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -14962,8 +14962,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -16891,7 +16891,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 09, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -16947,7 +16947,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 09, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -40699,7 +40699,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 09, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -40755,7 +40755,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 09, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -76636,10 +76636,10 @@
     "name": "SAEED MUBARAK SAEED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -76659,7 +76659,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Oct 05, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -76714,8 +76714,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -87075,7 +87075,7 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
@@ -87131,7 +87131,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 10, 2026",
+        "date": "Oct 12, 2026",
         "isMandatory": true
       },
       {
