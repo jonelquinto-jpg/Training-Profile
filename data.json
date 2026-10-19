@@ -1749,7 +1749,7 @@
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed (Optional)",
-        "date": "Jul 07, 2026",
+        "date": "Oct 13, 2026",
         "isMandatory": false
       },
       {
@@ -15876,16 +15876,16 @@
     "name": "ABDULLAH ALI YOUSEF ALSALEH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -17240,16 +17240,16 @@
     "name": "ABDULLAH MUFLEH NAHIR ALSHEMMARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -19844,16 +19844,16 @@
     "name": "SADEQ YASSIN MOHAMMED ALHASSAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -34972,16 +34972,16 @@
     "name": "AHMED DUEEJ KHALIFAH ALFAISAL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 8,
+    "missingCount": 8,
     "totalMandatory": 15,
-    "complianceRate": 40,
+    "complianceRate": 47,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -65104,16 +65104,16 @@
     "name": "OMRAN IBRAHIM MOHAMMED BARNAWI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
