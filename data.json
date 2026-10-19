@@ -19224,16 +19224,16 @@
     "name": "MOHAMMED ALI HUSSAIN ALSALEM",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -19337,8 +19337,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       }
     ]
@@ -26788,16 +26788,16 @@
     "name": "TAHER JAFAR AHMED ALSAMAIL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       },
       {
@@ -26901,8 +26901,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 13, 2026",
         "isMandatory": true
       }
     ]
