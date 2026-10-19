@@ -1988,16 +1988,16 @@
     "name": "TALAL SAAD KHALIFA AL HARBI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 8,
-    "missingCount": 8,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 16,
-    "complianceRate": 50,
+    "complianceRate": 69,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -2038,8 +2038,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -2101,8 +2101,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -2236,10 +2236,10 @@
     "name": "ABDALAZIZ MANWER MAZI AL ANIZI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "CONSTWESTRENRINGRDGYRATORY&TUN",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 16,
-    "complianceRate": 44,
+    "complianceRate": 56,
     "courses": [
       {
         "sn": 1,
@@ -2273,7 +2273,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed",
-        "date": "Sep 02, 2026",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -2286,8 +2286,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -2349,8 +2349,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -3228,10 +3228,10 @@
     "name": "MUZIL JADA KHALAF ALSHAMMARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "CONSTWESTRENRINGRDGYRATORY&TUN",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 40,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -3265,7 +3265,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Sep 02, 2026",
+        "date": "Oct 14, 2026",
         "isMandatory": false
       },
       {
@@ -3278,8 +3278,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -3341,8 +3341,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -11040,16 +11040,16 @@
     "name": "ABDULLAH HILLAN ALHARBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 6,
-    "missingCount": 10,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 33,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -11090,8 +11090,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -11153,8 +11153,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -12404,16 +12404,16 @@
     "name": "MOHAMMED MARJI ALENEZI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
-    "missingCount": 12,
+    "completedCount": 7,
+    "missingCount": 9,
     "totalMandatory": 15,
-    "complianceRate": 20,
+    "complianceRate": 40,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -12454,8 +12454,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -12517,8 +12517,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -24184,10 +24184,10 @@
     "name": "IBRAHIM MOHAMMED HASSAN MAEDI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "CONSTWESTRENRINGRDGYRATORY&TUN",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 40,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -24221,7 +24221,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Sep 02, 2026",
+        "date": "Oct 14, 2026",
         "isMandatory": false
       },
       {
@@ -24234,8 +24234,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -24297,8 +24297,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -31996,16 +31996,16 @@
     "name": "ABDULAZIZ ALI AHMED ALDALAWI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 8,
-    "missingCount": 8,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 47,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -32046,8 +32046,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -32109,8 +32109,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -54936,10 +54936,10 @@
     "name": "SAAD ABDULLAH MSFR ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "Lower Plateau Site Preparation",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -54973,7 +54973,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "May 10, 2026",
+        "date": "Oct 14, 2026",
         "isMandatory": false
       },
       {
@@ -54986,8 +54986,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -55049,8 +55049,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -56672,16 +56672,16 @@
     "name": "AMMAR HASSAN GHULAM ABDULLAH",
     "position": "SECURITY GUARD",
     "project": "KAPSARC School of PublicPolicy",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -56723,7 +56723,7 @@
         "sn": 7,
         "title": "Alarm Systems",
         "status": "Completed",
-        "date": "Aug 30, 2026",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -56785,8 +56785,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -84572,16 +84572,16 @@
     "name": "MOHAMMED IBRAHIM MOHAMMED HATTAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 6,
-    "missingCount": 10,
+    "completedCount": 7,
+    "missingCount": 9,
     "totalMandatory": 15,
-    "complianceRate": 33,
+    "complianceRate": 40,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed",
-        "date": "Jul 04, 2026",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -84622,8 +84622,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -84686,7 +84686,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 04, 2026",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -85936,16 +85936,16 @@
     "name": "AHMED HASSAN HUSSAIN MADKHALI",
     "position": "SECURITY GUARD",
     "project": "Lower Plateau Site Preparation",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -85986,8 +85986,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -86049,8 +86049,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -88912,16 +88912,16 @@
     "name": "WALEED SHABIB MOUETQ ALOTAIBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
-    "missingCount": 11,
+    "completedCount": 7,
+    "missingCount": 8,
     "totalMandatory": 15,
-    "complianceRate": 27,
+    "complianceRate": 47,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -88962,8 +88962,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -89025,8 +89025,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -103668,16 +103668,16 @@
     "name": "ABDULLAH THEYAB MOHAMMED ALWUTHAYNANI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 6,
-    "missingCount": 10,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 16,
-    "complianceRate": 38,
+    "complianceRate": 56,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -103718,8 +103718,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -103781,8 +103781,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
@@ -103792,16 +103792,16 @@
     "name": "MOHAMMED MANA MOHAMMED ALQAHTANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 2,
-    "missingCount": 13,
+    "completedCount": 5,
+    "missingCount": 10,
     "totalMandatory": 15,
-    "complianceRate": 13,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -103842,8 +103842,8 @@
       {
         "sn": 7,
         "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       },
       {
@@ -103905,8 +103905,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 14, 2026",
         "isMandatory": true
       }
     ]
