@@ -10272,14 +10272,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -22796,14 +22796,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -22820,10 +22820,10 @@
     "name": "IBRAHIM AYEED AYED ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -22919,15 +22919,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -23416,14 +23416,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -23540,14 +23540,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -26664,10 +26664,10 @@
     "name": "AWWAD HAMMAD AWDAH ALOMAIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -26763,15 +26763,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -29144,10 +29144,10 @@
     "name": "HILAYEL HAMAD AOUDAH ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -29243,15 +29243,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -29392,10 +29392,10 @@
     "name": "HAMOD HILAYEL MUBARAK ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -29491,15 +29491,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -45264,10 +45264,10 @@
     "name": "EID SALEM SULAIMAN ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -45363,15 +45363,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -46108,14 +46108,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -50100,10 +50100,10 @@
     "name": "SAAD SALEEM MUSSAD ALHAWAITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -50199,15 +50199,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -53796,14 +53796,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -62004,10 +62004,10 @@
     "name": "ABDULLAH JADDUA SALEM ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -62103,15 +62103,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -65600,10 +65600,10 @@
     "name": "SALEH FARAJ SALEEM ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -65699,15 +65699,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -69196,10 +69196,10 @@
     "name": "RAFIA MUSAAD HALIL ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -69295,15 +69295,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -70312,10 +70312,10 @@
     "name": "AHMED JADDUA SAWILM ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -70411,15 +70411,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -70660,14 +70660,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -77256,10 +77256,10 @@
     "name": "YOUSEF ABDULLAH SALIMAN ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -77355,15 +77355,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -81472,10 +81472,10 @@
     "name": "MOUSA MOHAMMED ALI ASIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -81571,15 +81571,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -81596,10 +81596,10 @@
     "name": "MOHAMMED ALI ABBAS ABU SALIM",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -81695,15 +81695,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -81820,14 +81820,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -82588,10 +82588,10 @@
     "name": "FAYEZ OUDAH SOBHE ALATAWI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -82687,15 +82687,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -87548,10 +87548,10 @@
     "name": "MOHAMMED AZIZ SLEEM ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -87647,15 +87647,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
@@ -91640,10 +91640,10 @@
     "name": "MOHAMMED AHMED MOHAMMED ALMUNTASHIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -91739,15 +91739,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Sep 27, 2026",
+        "date": "Oct 18, 2026",
         "isMandatory": true
       },
       {
