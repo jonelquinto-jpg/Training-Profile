@@ -1368,10 +1368,10 @@
     "name": "SALAH MOHAMMED HADI AL MOUSHER",
     "position": "SECURITY GUARD",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -1467,15 +1467,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -9676,10 +9676,10 @@
     "name": "ALI HENISH MBAREK ALAMARI",
     "position": "SECURITY GUARD",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -9775,15 +9775,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -10024,14 +10024,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -10420,10 +10420,10 @@
     "name": "JUBRAN SULTAN AQSHAN ALBESHE",
     "position": "SECURITY GUARD",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -10519,15 +10519,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -11288,10 +11288,10 @@
     "name": "ABDULHADI ABDULLAH ABDULQADER",
     "position": "SECURITY GUARD",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -11387,15 +11387,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -11512,14 +11512,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -13520,10 +13520,10 @@
     "name": "HASSAN SAAD RASHED ALSHERIF",
     "position": "SECURITY GUARD",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -13619,15 +13619,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -16224,14 +16224,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -54440,10 +54440,10 @@
     "name": "AHMED DURAYMH MOHAMMED ALMALKI",
     "position": "SECURITY GUARD",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -54539,15 +54539,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -57540,10 +57540,10 @@
     "name": "FAHAD ESSA MAZRAQ ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -57639,15 +57639,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -66716,10 +66716,10 @@
     "name": "TAHANI EIDHAH MOKHDHIR ALKHUZAEI",
     "position": "SECURITY GUARD",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -66815,15 +66815,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
