@@ -5312,14 +5312,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -5708,10 +5708,10 @@
     "name": "SALEH MOHAMMED ALZAHRANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 40,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -5807,15 +5807,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -7072,10 +7072,10 @@
     "name": "MUSLIM MASTUR ALMOWALED",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -7171,15 +7171,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -7444,10 +7444,10 @@
     "name": "MOHAMMED MUFRIJ ALSUBIEI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -7543,15 +7543,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -7692,10 +7692,10 @@
     "name": "SALAH OTHMAN ABDALAH ZEINY",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -7791,15 +7791,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -8164,14 +8164,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Sep 28, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Sep 28, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -8536,14 +8536,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -10544,10 +10544,10 @@
     "name": "IMAD MAFOOZ FAEEZ ALMOWALED",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -10643,15 +10643,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -10668,10 +10668,10 @@
     "name": "BASSAM MAJED RASHAD SHALDOOM",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -10767,15 +10767,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -15232,14 +15232,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -15480,14 +15480,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -15504,10 +15504,10 @@
     "name": "RAED ATIYAH TALEA ALFADHLI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -15603,15 +15603,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -17216,14 +17216,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -20440,14 +20440,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -22548,14 +22548,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -25772,14 +25772,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 01, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -26640,14 +26640,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -27508,14 +27508,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -31476,14 +31476,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Jul 14, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Jul 14, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -33956,14 +33956,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -42388,14 +42388,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -43652,10 +43652,10 @@
     "name": "ABDULAZIZ SHELIWIH THABIT ALMOTAIRI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -43751,15 +43751,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -44000,14 +44000,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -50596,10 +50596,10 @@
     "name": "WALEED ALI MUTLAG ALATAWI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 3,
-    "missingCount": 10,
+    "completedCount": 5,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 17,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -50695,15 +50695,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -64856,10 +64856,10 @@
     "name": "NASHI OWAID HADEED ALZULAMI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 5,
-    "missingCount": 9,
+    "completedCount": 7,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -64955,15 +64955,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -77008,10 +77008,10 @@
     "name": "SALEEM SUMAYM SALEM ALRIQABI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -77107,15 +77107,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -77380,10 +77380,10 @@
     "name": "KHALID OUDAH RAHIL ALATAWI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -77479,15 +77479,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -82564,14 +82564,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -82960,10 +82960,10 @@
     "name": "BANDAR AWAD OUDAH ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -83059,15 +83059,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -87152,14 +87152,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Apr 02, 2026",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -89780,10 +89780,10 @@
     "name": "YAHYA HASSAN AHMED KHASHURI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -89879,15 +89879,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -90524,10 +90524,10 @@
     "name": "HASEN NUSB ALLAH BARIHM ALMALKI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -90623,15 +90623,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -90896,10 +90896,10 @@
     "name": "FARIS ABDULLAH SAUD ALANAZI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -90995,15 +90995,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -93872,10 +93872,10 @@
     "name": "MOHAMMED ALI MOHAMMED ALASIRI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 6,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -93971,15 +93971,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -100940,131 +100940,7 @@
     "name": "HAMZAH MOHAMMED MADHI ALZAHRANI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 8,
-    "missingCount": 5,
-    "totalMandatory": 12,
-    "complianceRate": 58,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "Completed",
-        "date": "Jun 10, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "Completed",
-        "date": "Jun 10, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Completed (Optional)",
-        "date": "Aug 19, 2026",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "Completed",
-        "date": "Aug 19, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "Completed",
-        "date": "Aug 19, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "Completed",
-        "date": "Jun 10, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "Completed",
-        "date": "Feb 04, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "Completed",
-        "date": "Feb 04, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
-  "161533": {
-    "empId": "161533",
-    "name": "ALI AWWADH ALI ALTALHI",
-    "position": "SECURITY GUARD",
-    "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 11,
+    "completedCount": 10,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -101087,6 +100963,130 @@
         "sn": 3,
         "title": "Customer Services",
         "status": "Completed",
+        "date": "Jun 10, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Completed (Optional)",
+        "date": "Aug 19, 2026",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "Completed",
+        "date": "Aug 19, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "Completed",
+        "date": "Aug 19, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "Completed",
+        "date": "Jun 10, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "Completed",
+        "date": "Feb 04, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "Completed",
+        "date": "Feb 04, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      }
+    ]
+  },
+  "161533": {
+    "empId": "161533",
+    "name": "ALI AWWADH ALI ALTALHI",
+    "position": "SECURITY GUARD",
+    "project": "MGS3 Package 10/14 Secondment",
+    "completedCount": 13,
+    "missingCount": 1,
+    "totalMandatory": 12,
+    "complianceRate": 92,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "Completed",
+        "date": "Jun 10, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "Completed",
         "date": "Oct 05, 2026",
         "isMandatory": true
       },
@@ -101163,15 +101163,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -101188,10 +101188,10 @@
     "name": "OMAR IBRAHIM HASSSNI ALHAYMI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -101287,15 +101287,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -101312,10 +101312,10 @@
     "name": "TAIL ABDULLATIF ABDULLAH ALYAMANI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -101411,15 +101411,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
