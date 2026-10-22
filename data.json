@@ -12652,10 +12652,10 @@
     "name": "MOHAMMED ALI MOHAMMED AL MAHFOUD",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -12751,15 +12751,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -15752,10 +15752,10 @@
     "name": "ABDULRAHMAN MUAIDH ABDULRAHMAN ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -15851,15 +15851,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -16496,10 +16496,10 @@
     "name": "SALEM SELEEM ABDULLAH BU SALEEM",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -16595,15 +16595,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -20836,10 +20836,10 @@
     "name": "BANDAR ALHOMAIDI AAID ALENZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -20935,15 +20935,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -32616,10 +32616,10 @@
     "name": "ALI MOHAMMED ALI ALAMRI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -32715,15 +32715,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -33236,10 +33236,10 @@
     "name": "AHMED SAAD SALEH ALKHALDI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -33335,15 +33335,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -38072,10 +38072,10 @@
     "name": "YAHYA ZAKARIA ALI KHAMIS",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 3,
-    "missingCount": 9,
+    "completedCount": 5,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -38171,15 +38171,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -38568,10 +38568,10 @@
     "name": "MUSTAFA ALI ALI ALSHAIKH HUSSAIN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -38667,15 +38667,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -43404,10 +43404,10 @@
     "name": "HAZA NJER HAZA ALDOSSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -43503,15 +43503,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -43528,10 +43528,10 @@
     "name": "MESHAAL KHADEM MATROOD ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -43627,15 +43627,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -44520,10 +44520,10 @@
     "name": "NAWAF AWAD AMISH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -44619,15 +44619,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -45760,10 +45760,10 @@
     "name": "MAZEN AABDULAZIZ SAUD ALSAUD",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -45859,15 +45859,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -46256,10 +46256,10 @@
     "name": "NAIF FEHAID TALEB ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -46355,15 +46355,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -51216,10 +51216,10 @@
     "name": "ALNURI RADHI MUQBIL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -51315,15 +51315,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -51836,10 +51836,10 @@
     "name": "ALI MOHAMMED MUBARAK ALSHUWAYKHAT",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -51935,15 +51935,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -55556,10 +55556,10 @@
     "name": "MOHAMMED FAISAL FAHIMAN ALBALWI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -55655,15 +55655,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -58780,10 +58780,10 @@
     "name": "SALEH ALI SALEH ALHAMAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -58879,15 +58879,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -59896,10 +59896,10 @@
     "name": "TURKI SHULAYSH SHAEE ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -59995,15 +59995,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -60640,10 +60640,10 @@
     "name": "NAWAF MOHAMMED SHEMAN ALANAZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -60739,15 +60739,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -61508,10 +61508,10 @@
     "name": "SAEED MOHAMMED SAAD ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -61607,15 +61607,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -61632,10 +61632,10 @@
     "name": "FARIS ALI MAHDI AWAJI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -61731,15 +61731,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -65227,7 +65227,7 @@
     "empId": "79795",
     "name": "SULTAN AHMED HAMED ALAMRANI",
     "position": "SECURITY GUARD",
-    "project": "Trojena Secondement-D13 Rd.Wid",
+    "project": "KAEC IV Phase 2.2 & 2.3 Infras",
     "completedCount": 7,
     "missingCount": 7,
     "totalMandatory": 12,
@@ -68700,10 +68700,10 @@
     "name": "MOHAMMED KHALAF NAZAL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -68799,15 +68799,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -71676,10 +71676,10 @@
     "name": "AHMED HUSSAIN AHMED ALQUWAISIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -71775,15 +71775,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -72544,10 +72544,10 @@
     "name": "NASSER ABDULLAH SALEM ALDHRMAN",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -72643,15 +72643,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -77132,10 +77132,10 @@
     "name": "MANSOUR MUSALM MANSOUR ALQWEANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -77231,15 +77231,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -78124,10 +78124,10 @@
     "name": "JABER MOHAMMED ALI KAABI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -78223,15 +78223,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -84696,10 +84696,10 @@
     "name": "ABDULLAH AHMED IBRAHIM ALRAJAA",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -84795,15 +84795,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -86432,10 +86432,10 @@
     "name": "ALI AHMED ALI ALZAHRANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -86531,15 +86531,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -91888,10 +91888,10 @@
     "name": "IBRAHIM MOHAMMED IBRAHIM ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 4,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -91987,15 +91987,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -92260,10 +92260,10 @@
     "name": "RAMI ABDULLAH AHMED HASSAN",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -92359,15 +92359,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -94244,10 +94244,10 @@
     "name": "KHALAF FADHEL HESSEN ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -94343,15 +94343,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -97220,10 +97220,10 @@
     "name": "THEYAB DAFFTR KHALEEF ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -97319,15 +97319,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -99452,10 +99452,10 @@
     "name": "MAJED HASSAN OBED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -99551,15 +99551,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -101436,10 +101436,10 @@
     "name": "AHMED ALI HABIB ALDERWASH",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -101535,15 +101535,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
@@ -102552,10 +102552,10 @@
     "name": "ALI HUSSAIN ABDULLLAH ALDAWOOD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -102651,15 +102651,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
         "isMandatory": true
       },
       {
