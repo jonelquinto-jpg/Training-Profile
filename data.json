@@ -62872,10 +62872,10 @@
     "name": "SAUAD IBRAHEM HAMAD ALGRER",
     "position": "SECURITY GUARD",
     "project": "KAEC IV Phase 2.2 & 2.3 Infras",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -62971,15 +62971,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
@@ -65228,10 +65228,10 @@
     "name": "SULTAN AHMED HAMED ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "KAEC IV Phase 2.2 & 2.3 Infras",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -65327,15 +65327,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 19, 2026",
         "isMandatory": true
       },
       {
