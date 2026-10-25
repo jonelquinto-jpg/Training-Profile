@@ -2484,10 +2484,10 @@
     "name": "BADER MOTAIRAN JOHAIM ALONIZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -2527,8 +2527,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -37452,10 +37452,10 @@
     "name": "KHALID ALHUMAYDI AAED ALENZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -37495,8 +37495,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -45884,10 +45884,10 @@
     "name": "HAIF FLEIH ABDULKAREEM ALHARBI",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -45927,8 +45927,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -46380,10 +46380,10 @@
     "name": "SAUD GHAIADH HMOUD ALANAZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -46423,8 +46423,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -53448,10 +53448,10 @@
     "name": "KHALID ABDULLAH AQEL ALRESHIDI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -53491,8 +53491,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -54812,10 +54812,10 @@
     "name": "ABDULLAH MOHAMMED MUTAR ALMUTRIFI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -54855,8 +54855,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -60268,10 +60268,10 @@
     "name": "SAEED SAAD GANEM ALAKLBI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -60311,8 +60311,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -73412,10 +73412,10 @@
     "name": "ALMUHANNAD YAHYA AHMED ILAJI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -73455,8 +73455,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -74032,10 +74032,10 @@
     "name": "NAWAF HEZAM MATHAKIR ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -74075,8 +74075,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -74156,10 +74156,10 @@
     "name": "MOHAMMED NAZAL MANQL ALENEZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -74199,8 +74199,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -76140,10 +76140,10 @@
     "name": "RAMADAN ABDULHANNAN RAMADAN ALANAZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -76183,8 +76183,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -76388,10 +76388,10 @@
     "name": "NAWAF KHLEEF MANA ALANAZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -76431,8 +76431,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -77876,10 +77876,10 @@
     "name": "ABDULLAH NASSER ALI BIN MUHAYSIN",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -77919,8 +77919,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -78248,10 +78248,10 @@
     "name": "AHMED HASSAN YAHYA ALKHALDI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -78291,8 +78291,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -78788,7 +78788,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 10, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -83208,10 +83208,10 @@
     "name": "FUAD AHMED MOHAMMED ALSALHI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -83251,8 +83251,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -83580,10 +83580,10 @@
     "name": "ESSA AHMED ESSA ALDUHAYMI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 2,
-    "missingCount": 10,
+    "completedCount": 3,
+    "missingCount": 9,
     "totalMandatory": 12,
-    "complianceRate": 17,
+    "complianceRate": 25,
     "courses": [
       {
         "sn": 1,
@@ -83623,8 +83623,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -85564,10 +85564,10 @@
     "name": "ISMAIL ABDU MOHAMMED HASSAN",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
-    "missingCount": 8,
+    "completedCount": 5,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -85607,8 +85607,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -86804,10 +86804,10 @@
     "name": "MANSOUR NASSAR ABDULLAH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -86847,8 +86847,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -87176,10 +87176,10 @@
     "name": "FAHAD AYIDH RAFAAN ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -87219,8 +87219,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -88044,10 +88044,10 @@
     "name": "ABDULLAH HASSAN ABDULLAH ALAMRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -88087,8 +88087,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -88664,10 +88664,10 @@
     "name": "ALWALEED JAZAA BASHER ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
-    "missingCount": 9,
+    "completedCount": 4,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -88707,8 +88707,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -88912,10 +88912,10 @@
     "name": "WALEED SHABIB MOUETQ ALOTAIBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 8,
+    "completedCount": 8,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 47,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -88955,8 +88955,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -89204,7 +89204,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 10, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -91144,10 +91144,10 @@
     "name": "FAISAL MASTOUR SAEED ASIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 2,
-    "missingCount": 10,
+    "completedCount": 3,
+    "missingCount": 9,
     "totalMandatory": 12,
-    "complianceRate": 17,
+    "complianceRate": 25,
     "courses": [
       {
         "sn": 1,
@@ -91187,8 +91187,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -93048,7 +93048,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 12, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -95732,10 +95732,10 @@
     "name": "RAKAN NAWAF HUSSAIN ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -95775,8 +95775,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -96352,10 +96352,10 @@
     "name": "SALMAN ATEEQ EID ALRASHIDI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -96395,8 +96395,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -98008,7 +98008,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Sep 30, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -99080,10 +99080,10 @@
     "name": "TURKI SAMMAR JABER ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
-    "missingCount": 9,
+    "completedCount": 5,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -99123,8 +99123,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -102924,10 +102924,10 @@
     "name": "ZAYED FARRAJ MOHAMMED ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -102967,8 +102967,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
