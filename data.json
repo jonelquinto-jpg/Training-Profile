@@ -85068,10 +85068,10 @@
     "name": "SALAMAH MOTAIR SLAMAH ALATAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 16,
-    "complianceRate": 75,
+    "complianceRate": 81,
     "courses": [
       {
         "sn": 1,
@@ -85105,14 +85105,14 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed",
-        "date": "Oct 11, 2026",
+        "date": "Oct 25, 2026",
         "isMandatory": true
       },
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 25, 2026",
         "isMandatory": true
       },
       {
