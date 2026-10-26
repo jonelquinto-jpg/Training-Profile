@@ -2032,7 +2032,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Sep 30, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -2112,10 +2112,10 @@
     "name": "MUBARAK SALEH MATAR AL HARBI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -2155,8 +2155,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -2776,7 +2776,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Sep 30, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -11536,10 +11536,10 @@
     "name": "NASER MOHAMMED HADI ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -11579,8 +11579,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -12528,10 +12528,10 @@
     "name": "HOMOOD MOHAMMED ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -12571,8 +12571,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -13768,10 +13768,10 @@
     "name": "MABKHOUT YASLAM SALMEEN ALSAYARI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -13811,8 +13811,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -21456,10 +21456,10 @@
     "name": "KHALID ALI ASAKR ALSAAD",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -21499,8 +21499,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -29640,10 +29640,10 @@
     "name": "AHMED BADER HAILI ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -29683,8 +29683,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -31624,10 +31624,10 @@
     "name": "ABDULHAMID SAWAB MAKHLF ALENZI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -31667,8 +31667,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -31996,10 +31996,10 @@
     "name": "ABDULAZIZ ALI AHMED ALDALAWI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -32039,8 +32039,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -41916,10 +41916,10 @@
     "name": "ABDULLAH HEZAM SAIF ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -41959,8 +41959,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -47744,10 +47744,10 @@
     "name": "RASHED GHAREEB AYADAH ALHARBI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -47787,8 +47787,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -47992,10 +47992,10 @@
     "name": "KHALID MAHAL MOHAMMED ALBAQAMI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -48035,8 +48035,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -48116,10 +48116,10 @@
     "name": "FAHAD SAAD ABAS ALDOOSARI",
     "position": "SECURITY GUARD",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -48159,8 +48159,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -48240,10 +48240,10 @@
     "name": "RASHED FAISAL KHASMAN ALBAQAMI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -48283,8 +48283,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -55060,10 +55060,10 @@
     "name": "MESHAL DAKHEL ALAH MOHAMMED ALHARBI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -55103,8 +55103,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -55184,10 +55184,10 @@
     "name": "KHULEEF MOHAMMED KHULEEF ALANAZI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -55227,8 +55227,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -56176,10 +56176,10 @@
     "name": "BADER NAIF MUGHEEB ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -56219,8 +56219,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -57416,10 +57416,10 @@
     "name": "HAMED ZABEN DARUS ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -57459,8 +57459,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -58576,7 +58576,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 10, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -60144,10 +60144,10 @@
     "name": "AHMED OUDAH AHMED ALZAHRANI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -60187,8 +60187,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -61260,10 +61260,10 @@
     "name": "NASSER KHALID MOKALID ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "DGII - Infrastructure Package",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -61303,8 +61303,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -61800,7 +61800,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 10, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -63120,10 +63120,10 @@
     "name": "FAHAD MOHAMMAD OUENAN ALKHALIFAH",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -63163,8 +63163,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -65024,7 +65024,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 10, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -68328,10 +68328,10 @@
     "name": "JEHAD MOHAMMED SHAEB ALHAWSAH",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -68371,8 +68371,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -68452,10 +68452,10 @@
     "name": "YAQOUB YOUSEF AQEEL ALOTAIWI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -68495,8 +68495,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -69692,10 +69692,10 @@
     "name": "SULTAN FAHAD MOHAMMED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -69735,8 +69735,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -71180,10 +71180,10 @@
     "name": "OUDAH DAKIL MOHAMMED ALHALAFI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -71223,8 +71223,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -71304,10 +71304,10 @@
     "name": "NASSER ABDULLAH THAWAB ALBAQAMI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -71347,8 +71347,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -72172,10 +72172,10 @@
     "name": "MUHANNAD MUBARAK OBED ALMALKI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -72215,8 +72215,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -73164,10 +73164,10 @@
     "name": "MOHAMMED ABDULLAH ABDULALHADI ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "DGII - Infrastructure Package",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -73207,8 +73207,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -74404,10 +74404,10 @@
     "name": "ABDULMAJEED SAEED ALI ALSHEHRI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -74447,8 +74447,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -76264,10 +76264,10 @@
     "name": "FAHAD FALEH MAHL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -76307,8 +76307,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -82836,10 +82836,10 @@
     "name": "ABDULRAHMAN KHALID SALIMAN ALFAIFI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -82879,8 +82879,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -85316,10 +85316,10 @@
     "name": "KHALID EID RAMADHAN ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -85359,8 +85359,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -85440,10 +85440,10 @@
     "name": "BADER MUTLAQ MAHNAA ALHARTHI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -85483,8 +85483,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -85688,10 +85688,10 @@
     "name": "MOHAMMED ABDULLAH SAAD ALGHAMDI",
     "position": "SECURITY GUARD",
     "project": "DG14 Samhan Mixed used DG1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -85731,8 +85731,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -85812,10 +85812,10 @@
     "name": "ABDULLAH SAEED MOHAMMED ALKAHTANI",
     "position": "SECURITY GUARD",
     "project": "Qurain Culture Dist-Secondment",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -85855,8 +85855,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -87672,10 +87672,10 @@
     "name": "HUSSAIN MOHAMMED HADI ALFATAIH",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -87715,8 +87715,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -87920,10 +87920,10 @@
     "name": "HATIM HAMOUD MULTAQ ALHARBI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -87963,8 +87963,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -89036,10 +89036,10 @@
     "name": "NAIF FAISAL JAEETHEN ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -89079,8 +89079,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -90152,10 +90152,10 @@
     "name": "MUSAAD ZAAL SMROON ALNAWMASI",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -90195,8 +90195,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -94908,7 +94908,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Sep 30, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -96104,10 +96104,10 @@
     "name": "SAAD ALI HUSSAIN ALMOUSA",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -96147,8 +96147,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -98088,10 +98088,10 @@
     "name": "HAMAD MOHAMMED HADI DAGHRI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -98131,8 +98131,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -99576,10 +99576,10 @@
     "name": "AHMED ZAID SALIMAN ALFAIFI",
     "position": "SECURITY GUARD",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -99619,8 +99619,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -99700,10 +99700,10 @@
     "name": "SAEED ALI ABDULLAH ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "DG11 Indirect & Prelimns -DG1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -99743,8 +99743,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -100488,7 +100488,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Sep 30, 2026",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
