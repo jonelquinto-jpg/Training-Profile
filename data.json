@@ -25548,10 +25548,10 @@
     "name": "NASSER HAMED AL QURANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -25585,14 +25585,14 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Oct 11, 2026",
+        "date": "Oct 25, 2026",
         "isMandatory": false
       },
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 25, 2026",
         "isMandatory": true
       },
       {
@@ -89284,10 +89284,10 @@
     "name": "ABDULAZIZ IBRAHIM NAHADH ALBALAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 16,
-    "complianceRate": 69,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -89321,14 +89321,14 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed",
-        "date": "Oct 11, 2026",
+        "date": "Oct 25, 2026",
         "isMandatory": true
       },
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 25, 2026",
         "isMandatory": true
       },
       {
