@@ -24060,10 +24060,10 @@
     "name": "HAMAD AWAID MUBARAK ALHWITY",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "NEOM AREA SHARED INDIRECT &PRE",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -24097,14 +24097,14 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Oct 11, 2026",
+        "date": "Oct 25, 2026",
         "isMandatory": false
       },
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 25, 2026",
         "isMandatory": true
       },
       {
@@ -25300,10 +25300,10 @@
     "name": "OMAR SALIM AL HEWAITY",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "NEOM AREA SHARED INDIRECT &PRE",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -25337,14 +25337,14 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Oct 11, 2026",
+        "date": "Oct 25, 2026",
         "isMandatory": false
       },
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 25, 2026",
         "isMandatory": true
       },
       {
