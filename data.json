@@ -4344,10 +4344,10 @@
     "name": "TARIQ HAMDAN METHKER AL HARBI",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -4387,8 +4387,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -46132,10 +46132,10 @@
     "name": "RAKAN MOHAMMED OBAID ALHARBI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -46175,8 +46175,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -73536,10 +73536,10 @@
     "name": "NASSER HAYF BIN MTHYAB ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -73579,8 +73579,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
@@ -102056,10 +102056,10 @@
     "name": "ABDULLAH ATALLAH AWAD ALAZMI",
     "position": "SECURITY GUARD",
     "project": "Expo2030 Riyadh-CP9 Utility &",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -102099,8 +102099,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 20, 2026",
         "isMandatory": true
       },
       {
