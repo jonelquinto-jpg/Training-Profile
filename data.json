@@ -1740,10 +1740,10 @@
     "name": "KHALED ABAILEK EID AL RWAILI",
     "position": "SECURITY TEAM LEADER",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 14,
-    "complianceRate": 57,
+    "complianceRate": 64,
     "courses": [
       {
         "sn": 1,
@@ -1762,8 +1762,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -1840,14 +1840,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -3476,10 +3476,10 @@
     "name": "WALID ABDULLAH ALMARJAN",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 8,
-    "missingCount": 8,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 16,
-    "complianceRate": 50,
+    "complianceRate": 69,
     "courses": [
       {
         "sn": 1,
@@ -3498,8 +3498,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -3575,15 +3575,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -3972,10 +3972,10 @@
     "name": "AIDHAH KHUDER ABDULLAH AL ZAHRANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 7,
-    "missingCount": 8,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 47,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -3994,8 +3994,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -4071,15 +4071,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -4468,10 +4468,10 @@
     "name": "MOHAMMED HAMAD HUSSAIN AL DOSSARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -4490,8 +4490,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -4567,15 +4567,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -6328,10 +6328,10 @@
     "name": "KHALED NAFFAL ALOTAIBI",
     "position": "SECURITY TEAM LEADER",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 12,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 2,
     "totalMandatory": 14,
-    "complianceRate": 79,
+    "complianceRate": 86,
     "courses": [
       {
         "sn": 1,
@@ -6350,8 +6350,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -6428,14 +6428,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -12156,10 +12156,10 @@
     "name": "ALI SALMAN AHMED ALMAEL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 5,
-    "missingCount": 10,
+    "completedCount": 8,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 33,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -12178,8 +12178,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -12255,15 +12255,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -16000,10 +16000,10 @@
     "name": "MAHDI ALI YOUSEF ALSALEH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 4,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -16022,8 +16022,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -16099,15 +16099,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -17860,10 +17860,10 @@
     "name": "ABDULRAHMN TAHER HUSSAIN ALAMRI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 12,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -17882,8 +17882,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -17959,15 +17959,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -18480,10 +18480,10 @@
     "name": "TAWFIQ MOHAMMED ABDULLAH ALBELADI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -18502,8 +18502,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -18579,15 +18579,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -18728,10 +18728,10 @@
     "name": "JABER HASSAN HABIB ALSHOIKAT",
     "position": "SECURITY TEAM LEADER",
     "project": "Nesma Training Institute",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 14,
-    "complianceRate": 71,
+    "complianceRate": 79,
     "courses": [
       {
         "sn": 1,
@@ -18750,8 +18750,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -18828,14 +18828,14 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -18852,10 +18852,10 @@
     "name": "BASHIR ABDULLAH MOHAMMED ALRAJAL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -18874,8 +18874,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -18951,15 +18951,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -21580,10 +21580,10 @@
     "name": "NAIF HUSSAIN ALI ALMAIL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -21602,8 +21602,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -21679,15 +21679,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -28276,10 +28276,10 @@
     "name": "HUSSAIN ABDULLAH IBRAHIM ALBANAIY",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 12,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -28298,8 +28298,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -28375,15 +28375,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -30880,10 +30880,10 @@
     "name": "BANDER HEJI AHMED ALDULAYM",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 12,
-    "missingCount": 3,
+    "completedCount": 15,
+    "missingCount": 0,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -30902,8 +30902,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -30979,15 +30979,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -33360,10 +33360,10 @@
     "name": "HUSSAIN ALI ALI ALRAJAB",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 4,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -33382,8 +33382,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -33459,15 +33459,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -34972,10 +34972,10 @@
     "name": "AHMED DUEEJ KHALIFAH ALFAISAL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 8,
-    "missingCount": 8,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 47,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -34994,8 +34994,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -35071,15 +35071,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
