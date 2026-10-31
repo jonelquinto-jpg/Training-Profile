@@ -6080,10 +6080,10 @@
     "name": "HASSAN ALI ALQATTAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Security",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -6102,8 +6102,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -6179,15 +6179,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -66840,10 +66840,10 @@
     "name": "NORAH KHALID AHMED ALKALUF",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Security",
-    "completedCount": 7,
-    "missingCount": 8,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 47,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -66862,8 +66862,8 @@
       {
         "sn": 3,
         "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
@@ -66939,15 +66939,15 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
         "sn": 15,
         "title": "Radio and Telephone Ethics",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 27, 2026",
         "isMandatory": true
       },
       {
