@@ -7034,14 +7034,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -8064,10 +8064,10 @@
     "name": "MOHAMMED DAWOOD ABDULLAH ALREMI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 15,
-    "missingCount": 1,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 15,
-    "complianceRate": 93,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -8150,14 +8150,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -8684,10 +8684,10 @@
     "name": "HAMED BASHA AQEEB ALQARHI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -8770,14 +8770,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -9390,14 +9390,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -14722,14 +14722,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -14760,10 +14760,10 @@
     "name": "SAAD MAHMOUD MOHAMMED FALLATAH",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 16,
-    "complianceRate": 44,
+    "complianceRate": 56,
     "courses": [
       {
         "sn": 1,
@@ -14845,15 +14845,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -21170,14 +21170,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -21294,14 +21294,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -40676,10 +40676,10 @@
     "name": "HAMAD NASSER ABDULLAH ALEID",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 11,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -40762,14 +40762,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -66058,14 +66058,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -70312,10 +70312,10 @@
     "name": "SULTAN HUSSAIN ALI DARISI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -70398,14 +70398,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -76512,10 +76512,10 @@
     "name": "SAEED MUBARAK SAEED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -76598,14 +76598,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -86928,10 +86928,10 @@
     "name": "MOAIED SOLIMAN SAEED ALHOSINI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 15,
-    "complianceRate": 87,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -87013,15 +87013,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
@@ -90486,14 +90486,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 07, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Oct 26, 2026",
         "isMandatory": true
       },
       {
