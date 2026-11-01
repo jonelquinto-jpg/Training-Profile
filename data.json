@@ -11040,10 +11040,10 @@
     "name": "ABDULLAH HILLAN ALHARBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -11125,15 +11125,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -12404,10 +12404,10 @@
     "name": "MOHAMMED MARJI ALENEZI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 40,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -12489,15 +12489,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -32082,14 +32082,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 01, 2026",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 01, 2026",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -73994,14 +73994,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -84448,10 +84448,10 @@
     "name": "MOHAMMED IBRAHIM MOHAMMED HATTAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 7,
-    "missingCount": 9,
+    "completedCount": 9,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 40,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -84533,15 +84533,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -88874,14 +88874,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -102676,10 +102676,10 @@
     "name": "RAMI ATIAH MOHAMMED ALABDALI",
     "position": "SECURITY TEAM LEADER",
     "project": "QSt1-MBS Stadium Secondment",
-    "completedCount": 5,
-    "missingCount": 10,
+    "completedCount": 7,
+    "missingCount": 8,
     "totalMandatory": 14,
-    "complianceRate": 29,
+    "complianceRate": 43,
     "courses": [
       {
         "sn": 1,
@@ -102761,15 +102761,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -103544,10 +103544,10 @@
     "name": "ABDULLAH THEYAB MOHAMMED ALWUTHAYNANI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 16,
-    "complianceRate": 56,
+    "complianceRate": 69,
     "courses": [
       {
         "sn": 1,
@@ -103629,15 +103629,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
