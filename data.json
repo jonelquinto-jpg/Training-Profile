@@ -10172,10 +10172,10 @@
     "name": "HUSSAIN MAHDI HASSAN ALSOQUR",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -10201,8 +10201,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -10250,8 +10250,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -22696,10 +22696,10 @@
     "name": "MAHMOUD SALEM MOHAMMED ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -22725,8 +22725,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -22774,8 +22774,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -22820,10 +22820,10 @@
     "name": "IBRAHIM AYEED AYED ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -22849,8 +22849,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -22898,8 +22898,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -23316,10 +23316,10 @@
     "name": "SALEM HUSSAIN FARAJ ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -23345,8 +23345,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -23394,8 +23394,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -23440,10 +23440,10 @@
     "name": "KHALED OUDA MOHAMMED ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -23469,8 +23469,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -23518,8 +23518,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -26664,10 +26664,10 @@
     "name": "AWWAD HAMMAD AWDAH ALOMAIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -26693,8 +26693,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -26742,8 +26742,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -29144,10 +29144,10 @@
     "name": "HILAYEL HAMAD AOUDAH ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -29173,8 +29173,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -29222,8 +29222,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -29392,7 +29392,7 @@
     "name": "HAMOD HILAYEL MUBARAK ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 12,
+    "completedCount": 13,
     "missingCount": 1,
     "totalMandatory": 12,
     "complianceRate": 92,
@@ -29421,8 +29421,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -29471,7 +29471,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -45264,10 +45264,10 @@
     "name": "EID SALEM SULAIMAN ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -45293,8 +45293,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -45342,8 +45342,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -46008,10 +46008,10 @@
     "name": "NADAER SULAIMAN SALEM ALHEWAITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -46037,8 +46037,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -46086,8 +46086,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -50100,7 +50100,7 @@
     "name": "SAAD SALEEM MUSSAD ALHAWAITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -50129,8 +50129,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -50179,7 +50179,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -53696,10 +53696,10 @@
     "name": "FARIS MOHAMMED NAJEM ALATAWI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -53725,8 +53725,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -53774,8 +53774,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -62004,7 +62004,7 @@
     "name": "ABDULLAH JADDUA SALEM ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -62033,8 +62033,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -62083,7 +62083,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -65600,7 +65600,7 @@
     "name": "SALEH FARAJ SALEEM ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -65629,8 +65629,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -65679,7 +65679,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -69072,7 +69072,7 @@
     "name": "RAFIA MUSAAD HALIL ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -69101,8 +69101,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -69151,7 +69151,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -70188,7 +70188,7 @@
     "name": "AHMED JADDUA SAWILM ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -70217,8 +70217,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -70267,7 +70267,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -70436,10 +70436,10 @@
     "name": "JALAL MOHAMMED MASLM ALATAWI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -70465,8 +70465,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -70514,8 +70514,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -77132,7 +77132,7 @@
     "name": "YOUSEF ABDULLAH SALIMAN ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -77161,8 +77161,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -77211,7 +77211,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -81348,10 +81348,10 @@
     "name": "MOUSA MOHAMMED ALI ASIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -81377,8 +81377,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -81426,8 +81426,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -81472,7 +81472,7 @@
     "name": "MOHAMMED ALI ABBAS ABU SALIM",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -81501,8 +81501,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -81551,7 +81551,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -81596,10 +81596,10 @@
     "name": "ALI ABDULLAH SABER ALGHAMDI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -81625,8 +81625,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -81674,8 +81674,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -82464,7 +82464,7 @@
     "name": "FAYEZ OUDAH SOBHE ALATAWI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -82493,8 +82493,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -82543,7 +82543,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 16, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -91516,10 +91516,10 @@
     "name": "MOHAMMED AHMED MOHAMMED ALMUNTASHIRI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -91545,8 +91545,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -91594,8 +91594,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -91888,10 +91888,10 @@
     "name": "ABDULLAH MORAYA FAHED ALJILDAH",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -91917,8 +91917,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -91966,8 +91966,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
