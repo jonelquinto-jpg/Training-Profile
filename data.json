@@ -1988,10 +1988,10 @@
     "name": "TALAL SAAD KHALIFA AL HARBI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 16,
-    "complianceRate": 69,
+    "complianceRate": 81,
     "courses": [
       {
         "sn": 1,
@@ -2073,15 +2073,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -2732,10 +2732,10 @@
     "name": "KHALED SAHMEI MUTLAQ AL SUBAIE",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
-    "missingCount": 9,
+    "completedCount": 8,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 40,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -2817,15 +2817,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -29268,10 +29268,10 @@
     "name": "MOHAMMED SWAILEM MSAAD ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -29297,8 +29297,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -29346,8 +29346,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -29764,7 +29764,7 @@
     "name": "EID ABDULLAH SALIM ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -29793,8 +29793,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -29843,7 +29843,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -29888,7 +29888,7 @@
     "name": "HADI SALAMH SAWELM ALUMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -29917,8 +29917,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -29967,7 +29967,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -48860,10 +48860,10 @@
     "name": "FAHAD SUAILEM IBRAHIM ALMASUDI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -48889,8 +48889,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -48938,8 +48938,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -49604,7 +49604,7 @@
     "name": "JUMAAH EID SULAIMAN ALHEWAITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -49633,8 +49633,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -49683,7 +49683,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -50968,10 +50968,10 @@
     "name": "ABDULMOHSIN HUSSAIN LAFI ALHWITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -50997,8 +50997,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -51046,8 +51046,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -53572,10 +53572,10 @@
     "name": "YOUSEF AHMED MASOUD ALHARBI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -53601,8 +53601,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -53650,8 +53650,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -56672,10 +56672,10 @@
     "name": "AMMAR HASSAN GHULAM ABDULLAH",
     "position": "SECURITY GUARD",
     "project": "KAPSARC School of PublicPolicy",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -56757,15 +56757,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -59400,10 +59400,10 @@
     "name": "AESH SOLIMAN SAEED ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -59429,8 +59429,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -59478,8 +59478,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -60888,7 +60888,7 @@
     "name": "ADEL MUFLIH SALEM ALWABISI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -60917,8 +60917,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -60967,7 +60967,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -65352,10 +65352,10 @@
     "name": "MOHAMMED FARG MOHAMMED ALHWETI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -65381,8 +65381,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -65430,8 +65430,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -65724,7 +65724,7 @@
     "name": "ABDULRAHMAN ALI FRJ ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
+    "completedCount": 12,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -65753,8 +65753,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -65803,7 +65803,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -65848,10 +65848,10 @@
     "name": "FAISAL SALEEM MASOOD ALAMIRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -65877,8 +65877,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -65926,8 +65926,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -68700,10 +68700,10 @@
     "name": "NASSER ABDULRAHMAN MOHAMMED ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -68729,8 +68729,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -68778,8 +68778,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -69320,10 +69320,10 @@
     "name": "SALAH SALEH FHEMAN ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -69349,8 +69349,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -69398,8 +69398,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -70560,10 +70560,10 @@
     "name": "JASSIM HMWD AWDAH ALATWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -70589,8 +70589,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -70638,8 +70638,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -71800,10 +71800,10 @@
     "name": "RASHEED MOHAMMAD SAAD ALDAWSRE",
     "position": "SECURITY GUARD",
     "project": "NeomMountainCentralCamp",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -71829,8 +71829,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -71878,8 +71878,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -76636,10 +76636,10 @@
     "name": "ALI MOHAMMED MOHOUD ALQASIR",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -76665,8 +76665,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -76714,8 +76714,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -77504,10 +77504,10 @@
     "name": "MOHAMOUD SALEM SALIMAN ALMASOUD",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -77533,8 +77533,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -77582,8 +77582,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -82092,7 +82092,7 @@
     "name": "KHALID AHMED SWELEM ALOMAYRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -82121,8 +82121,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -82171,7 +82171,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -83332,10 +83332,10 @@
     "name": "ABDULELAH OUDAH MUTLQ ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -83361,8 +83361,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -83410,8 +83410,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -91268,10 +91268,10 @@
     "name": "JAMAL AWADH SABR ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -91297,8 +91297,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -91346,8 +91346,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -91640,7 +91640,7 @@
     "name": "OMAR ALI SAWILM ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 0,
     "totalMandatory": 12,
     "complianceRate": 100,
@@ -91669,8 +91669,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -91719,7 +91719,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -93252,10 +93252,10 @@
     "name": "HAZIM AHMED NAIF ALSHARIF",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -93281,8 +93281,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -93330,8 +93330,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -94740,10 +94740,10 @@
     "name": "MOHAMMED JAMAN ABDULLAH ALDAWSARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 6,
-    "missingCount": 9,
+    "completedCount": 8,
+    "missingCount": 7,
     "totalMandatory": 15,
-    "complianceRate": 40,
+    "complianceRate": 53,
     "courses": [
       {
         "sn": 1,
@@ -94825,15 +94825,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 28, 2026",
         "isMandatory": true
       },
       {
@@ -94988,7 +94988,7 @@
     "name": "MAQBOOL EID SALMAN ALOMRANI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 12,
+    "completedCount": 13,
     "missingCount": 1,
     "totalMandatory": 12,
     "complianceRate": 92,
@@ -95017,8 +95017,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -95067,7 +95067,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
@@ -97344,10 +97344,10 @@
     "name": "NAWAF HULAYYIL DHAHER ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -97373,8 +97373,8 @@
       {
         "sn": 4,
         "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 01, 2026",
         "isMandatory": false
       },
       {
@@ -97422,8 +97422,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 01, 2026",
         "isMandatory": true
       },
       {
