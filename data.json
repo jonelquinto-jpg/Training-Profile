@@ -1988,10 +1988,10 @@
     "name": "TALAL SAAD KHALIFA AL HARBI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 16,
-    "complianceRate": 81,
+    "complianceRate": 88,
     "courses": [
       {
         "sn": 1,
@@ -2024,8 +2024,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -2074,14 +2074,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Oct 28, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Oct 28, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -2484,7 +2484,7 @@
     "name": "BADER MOTAIRAN JOHAIM ALONIZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -2520,8 +2520,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -2570,14 +2570,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -2732,7 +2732,7 @@
     "name": "KHALED SAHMEI MUTLAQ AL SUBAIE",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 7,
     "totalMandatory": 15,
     "complianceRate": 53,
@@ -2768,8 +2768,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -2818,14 +2818,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Oct 28, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Oct 28, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -11536,10 +11536,10 @@
     "name": "NASER MOHAMMED HADI ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -11572,8 +11572,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -11621,15 +11621,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -19100,10 +19100,10 @@
     "name": "MOHAMMED HMOUD MURAIZEQ ALHARBI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -19136,8 +19136,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -19185,15 +19185,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -28524,10 +28524,10 @@
     "name": "MOHAMMED ABDULRAHMAN MOHAMMED ALOSAIMI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -28560,8 +28560,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -28609,15 +28609,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -31624,7 +31624,7 @@
     "name": "ABDULHAMID SAWAB MAKHLF ALENZI",
     "position": "SECURITY GUARD",
     "project": "KAFD Camp - Riyadh",
-    "completedCount": 11,
+    "completedCount": 12,
     "missingCount": 2,
     "totalMandatory": 12,
     "complianceRate": 83,
@@ -31660,8 +31660,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -31710,14 +31710,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -46132,7 +46132,7 @@
     "name": "RAKAN MOHAMMED OBAID ALHARBI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -46168,8 +46168,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -46218,14 +46218,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -47992,10 +47992,10 @@
     "name": "KHALID MAHAL MOHAMMED ALBAQAMI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -48028,8 +48028,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -48077,15 +48077,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -48116,10 +48116,10 @@
     "name": "FAHAD SAAD ABAS ALDOOSARI",
     "position": "SECURITY GUARD",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -48152,8 +48152,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -48201,15 +48201,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -57416,7 +57416,7 @@
     "name": "HAMED ZABEN DARUS ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 12,
+    "completedCount": 13,
     "missingCount": 1,
     "totalMandatory": 12,
     "complianceRate": 92,
@@ -57452,8 +57452,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -57502,14 +57502,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -63120,10 +63120,10 @@
     "name": "FAHAD MOHAMMAD OUENAN ALKHALIFAH",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -63156,8 +63156,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -63205,15 +63205,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -73040,7 +73040,7 @@
     "name": "MOHAMMED ABDULLAH ABDULALHADI ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "DGII - Infrastructure Package",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -73076,8 +73076,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -73126,14 +73126,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -73288,10 +73288,10 @@
     "name": "ALMUHANNAD YAHYA AHMED ILAJI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -73324,8 +73324,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -73373,15 +73373,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -76264,7 +76264,7 @@
     "name": "NAWAF KHLEEF MANA ALANAZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -76300,8 +76300,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -76350,14 +76350,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -78657,7 +78657,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "May 10, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -78706,14 +78706,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 01, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 01, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -79401,7 +79401,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "May 10, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -79450,14 +79450,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 01, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 01, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -80852,10 +80852,10 @@
     "name": "MUSALLI MESFER JABER ALYAMI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
-    "missingCount": 9,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -80888,8 +80888,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -80937,15 +80937,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -82712,7 +82712,7 @@
     "name": "ABDULRAHMAN KHALID SALIMAN ALFAIFI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 10,
+    "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
     "complianceRate": 75,
@@ -82748,8 +82748,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -82798,14 +82798,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -82960,10 +82960,10 @@
     "name": "MOHAMMED FAHMI MOHAMMED ALHARTHANI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -82996,8 +82996,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -83045,15 +83045,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -83084,7 +83084,7 @@
     "name": "FUAD AHMED MOHAMMED ALSALHI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 5,
     "totalMandatory": 12,
     "complianceRate": 58,
@@ -83120,8 +83120,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -83170,14 +83170,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -85440,10 +85440,10 @@
     "name": "ISMAIL ABDU MOHAMMED HASSAN",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -85476,8 +85476,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -85525,15 +85525,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -85973,7 +85973,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Sep 02, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -86022,14 +86022,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 08, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -88416,10 +88416,10 @@
     "name": "MOHAMMED NASSER MOHAMMED ALFATAIH",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -88452,8 +88452,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -88501,15 +88501,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -89073,7 +89073,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "May 10, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -89122,14 +89122,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 01, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 01, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -91020,10 +91020,10 @@
     "name": "FAISAL MASTOUR SAEED ASIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
-    "missingCount": 9,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -91056,8 +91056,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -91105,15 +91105,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -92917,7 +92917,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "May 12, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -92966,14 +92966,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 02, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -94740,7 +94740,7 @@
     "name": "MOHAMMED JAMAN ABDULLAH ALDAWSARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 8,
+    "completedCount": 9,
     "missingCount": 7,
     "totalMandatory": 15,
     "complianceRate": 53,
@@ -94776,8 +94776,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -94826,14 +94826,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Oct 28, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Oct 28, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -95980,10 +95980,10 @@
     "name": "SAAD ALI HUSSAIN ALMOUSA",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -96016,8 +96016,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -96065,15 +96065,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -96352,10 +96352,10 @@
     "name": "ABDULLATIF HAMAD NAEL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -96388,8 +96388,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -96437,15 +96437,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -100692,10 +100692,10 @@
     "name": "SAUD MOHAMMED SAUD ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -100728,8 +100728,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -100777,15 +100777,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -102180,10 +102180,10 @@
     "name": "NAIF AWAADH AWAD ALSALHI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -102216,8 +102216,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -102265,15 +102265,15 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
