@@ -61012,7 +61012,7 @@
     "name": "HEZAM MOHSEN SAAD ALZUHAYRI",
     "position": "SECURITY GUARD",
     "project": "PMBS-P3 East Stand Superstruct",
-    "completedCount": 7,
+    "completedCount": 8,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -61048,8 +61048,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -61098,14 +61098,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 09, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 09, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -79116,7 +79116,7 @@
     "name": "ABDULLAH IBRAHIM JABREEL JAAFARI",
     "position": "SECURITY GUARD",
     "project": "PMBS-P3 East Stand Superstruct",
-    "completedCount": 7,
+    "completedCount": 8,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -79152,8 +79152,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -79202,14 +79202,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 09, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 09, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
@@ -88168,7 +88168,7 @@
     "name": "MESHAL MOHAMMED FAHED ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "PMBS-P3 East Stand Superstruct",
-    "completedCount": 7,
+    "completedCount": 8,
     "missingCount": 6,
     "totalMandatory": 12,
     "complianceRate": 50,
@@ -88204,8 +88204,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 03, 2026",
         "isMandatory": false
       },
       {
@@ -88254,14 +88254,14 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Sep 09, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Sep 09, 2026",
+        "date": "Nov 03, 2026",
         "isMandatory": true
       },
       {
