@@ -748,10 +748,10 @@
     "name": "JAFFER AHMED YOUSEF AL MAHFOUDH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -861,8 +861,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -1492,10 +1492,10 @@
     "name": "SALEH HASAN ALI AL TEHAIFAH",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -1605,8 +1605,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -2360,10 +2360,10 @@
     "name": "TURKI ALI FAZAA ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -2473,8 +2473,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -4716,10 +4716,10 @@
     "name": "SAUD ALI FAZAA AL OTAIBI",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -4829,8 +4829,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -7940,10 +7940,10 @@
     "name": "MOHAMMED ALI ABDULMAJEED AL KHATER",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -8053,8 +8053,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -8808,10 +8808,10 @@
     "name": "NAIF ATEAH ABDULLAH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -8921,8 +8921,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -9046,7 +9046,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 13, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -9180,10 +9180,10 @@
     "name": "NAIF ALI FARJ ALABSI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -9293,8 +9293,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -14016,10 +14016,10 @@
     "name": "SADEK ALI YOUSSEF ALHAJI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -14129,8 +14129,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -15752,10 +15752,10 @@
     "name": "ABDULRAHMAN MUAIDH ABDULRAHMAN ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -15865,8 +15865,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -16610,7 +16610,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -17488,10 +17488,10 @@
     "name": "SALMAN MOHAMMED SALMAN ALSAID",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -17601,8 +17601,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -20836,10 +20836,10 @@
     "name": "BANDAR ALHOMAIDI AAID ALENZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -20949,8 +20949,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -28400,10 +28400,10 @@
     "name": "ABDULAZIZ AHMED TAHAR ALMALAK",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -28513,8 +28513,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -31252,10 +31252,10 @@
     "name": "MOHSEN HASSAN ALI ALABDULHAI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -31365,8 +31365,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -32120,10 +32120,10 @@
     "name": "HUSSAIN AHMED SALEH ALAQREEN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -32233,8 +32233,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -32730,7 +32730,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -34724,10 +34724,10 @@
     "name": "MUSTAFA HUSSAIN NASSER ALDURAZI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -34837,8 +34837,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -37204,10 +37204,10 @@
     "name": "ABDULLAH AHMED SALEH ALAQRAIN",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -37317,8 +37317,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -37442,7 +37442,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 13, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -38186,7 +38186,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -39808,10 +39808,10 @@
     "name": "MUBARAK ALI MUBARAK ALMUTIRI",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -39921,8 +39921,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -40800,10 +40800,10 @@
     "name": "MOHAMMED MUIDH OBIDALLAH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -40913,8 +40913,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -40924,10 +40924,10 @@
     "name": "SULTAN MOHAMMED SAEED ALKHALDY",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -41037,8 +41037,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -43280,10 +43280,10 @@
     "name": "ABDULAZIZ MASHRF KHLAIF ALSHAMARI",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -43393,8 +43393,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -43404,10 +43404,10 @@
     "name": "HAZA NJER HAZA ALDOSSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -43517,8 +43517,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -43528,10 +43528,10 @@
     "name": "MESHAAL KHADEM MATROOD ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -43641,8 +43641,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -44148,10 +44148,10 @@
     "name": "JABR SAAD JABR ALOSAIMI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -44261,8 +44261,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -44520,10 +44520,10 @@
     "name": "NAWAF AWAD AMISH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -44633,8 +44633,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -45760,10 +45760,10 @@
     "name": "MAZEN AABDULAZIZ SAUD ALSAUD",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -45873,8 +45873,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -46256,10 +46256,10 @@
     "name": "NAIF FEHAID TALEB ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -46369,8 +46369,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -48984,10 +48984,10 @@
     "name": "MUKHLID NAIF AUDAH ALANAZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -49097,8 +49097,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -51216,10 +51216,10 @@
     "name": "ALNURI RADHI MUQBIL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -51329,8 +51329,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -51836,10 +51836,10 @@
     "name": "ALI MOHAMMED MUBARAK ALSHUWAYKHAT",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -51949,8 +51949,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -52084,10 +52084,10 @@
     "name": "ALI IBRAHIM SALEM ALOBUD",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -52197,8 +52197,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -52332,10 +52332,10 @@
     "name": "SULTAN HAMED DODAH ALJAMEELI",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -52445,8 +52445,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -55670,7 +55670,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -60010,7 +60010,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -60640,10 +60640,10 @@
     "name": "NAWAF MOHAMMED SHEMAN ALANAZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -60753,8 +60753,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -63244,10 +63244,10 @@
     "name": "MOHAMMED ABDULLAH ABDULLAH ALDAKHEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -63357,8 +63357,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -66344,10 +66344,10 @@
     "name": "YASIR HUSSAIN ALI ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -66457,8 +66457,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -67708,10 +67708,10 @@
     "name": "ABDULRAOUF EID MABARK ALZURAYQ",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -67821,8 +67821,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -67832,10 +67832,10 @@
     "name": "MAHER HASSAN MOHAMMED ALFAREED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -67945,8 +67945,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -68576,10 +68576,10 @@
     "name": "MOHAMMED KHALAF NAZAL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -68689,8 +68689,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -70808,10 +70808,10 @@
     "name": "MOHAMMED FAHAD AHMED ALMAJARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -70921,8 +70921,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -71552,10 +71552,10 @@
     "name": "AHMED HUSSAIN AHMED ALQUWAISIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- NA2 WUR",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -71665,8 +71665,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -71790,7 +71790,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 13, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -72534,7 +72534,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -73164,10 +73164,10 @@
     "name": "HAMAD THAAR HAMAD ALJUBEER",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -73277,8 +73277,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -77122,7 +77122,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -78992,10 +78992,10 @@
     "name": "TALAL ABDULLAH AMAN OMAR",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -79105,8 +79105,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -84686,7 +84686,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -86060,10 +86060,10 @@
     "name": "EID SANAD FAYZ ALDOSARI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -86173,8 +86173,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -86308,10 +86308,10 @@
     "name": "ALI AHMED ALI ALZAHRANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -86421,8 +86421,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -89894,7 +89894,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -89904,10 +89904,10 @@
     "name": "ALI SALMAN ALI ALIBRAHIM",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -90017,8 +90017,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -90266,7 +90266,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 09, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -91764,10 +91764,10 @@
     "name": "IBRAHIM MOHAMMED IBRAHIM ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -91877,8 +91877,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -92374,7 +92374,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -94120,10 +94120,10 @@
     "name": "KHALAF FADHEL HESSEN ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -94233,8 +94233,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -94244,10 +94244,10 @@
     "name": "ABDULLAH DAMI MUSRAA ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -94357,8 +94357,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -97096,10 +97096,10 @@
     "name": "THEYAB DAFFTR KHALEEF ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -97209,8 +97209,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -97716,10 +97716,10 @@
     "name": "SAIF FALAH HEEAA ALRASHIDI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -97829,8 +97829,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -98574,7 +98574,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -98822,7 +98822,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -99328,10 +99328,10 @@
     "name": "MAJED HASSAN OBED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -99441,8 +99441,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -100062,7 +100062,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 13, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -101436,10 +101436,10 @@
     "name": "RAKAN MUFLIH SALEH ALHARBI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -101549,8 +101549,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
