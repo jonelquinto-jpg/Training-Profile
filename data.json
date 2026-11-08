@@ -872,10 +872,10 @@
     "name": "ALI HUSSAIN SHAYEA MOWASHIR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -985,8 +985,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -4964,10 +4964,10 @@
     "name": "HAMAD ALI MUBARAK AL MARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -5077,8 +5077,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -5832,10 +5832,10 @@
     "name": "LAHOM MOHAMMAD HAMAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -5945,8 +5945,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -11660,10 +11660,10 @@
     "name": "DALQAM JAR ALLAH ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -11773,8 +11773,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -11784,10 +11784,10 @@
     "name": "MOHAMMED HUSSAIN ALI AL ALI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -11897,8 +11897,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -12900,10 +12900,10 @@
     "name": "SALEH MAHDI SALMAN ALBANDARI",
     "position": "SECURITY GUARD",
     "project": "Camp 2 - Jubail",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -13013,8 +13013,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -14264,10 +14264,10 @@
     "name": "ADNAN MOHAMMED ALI ALHOSAINI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -14377,8 +14377,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -15256,10 +15256,10 @@
     "name": "YAQOUB YOUSEF HASSIN ALWASMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -15369,8 +15369,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -17364,10 +17364,10 @@
     "name": "ABDULLAH ALI ABDULLAH ALSHAYB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -17477,8 +17477,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -18222,7 +18222,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -18232,10 +18232,10 @@
     "name": "MOHAMMED HUSSAIN MOHAMMED ALKHAMIS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -18345,8 +18345,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -18976,10 +18976,10 @@
     "name": "ADEL ALI HASSAN ALSEMAIEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -19089,8 +19089,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -19348,10 +19348,10 @@
     "name": "ABDRUB ALRASOUL AHMED TIAHR ALJASSEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -19461,8 +19461,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -19472,10 +19472,10 @@
     "name": "YASSER AHMED KHALIFA ALREWISHED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -19585,8 +19585,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -20092,10 +20092,10 @@
     "name": "MANEA ALI MANEA ALAJMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -20205,8 +20205,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -20216,10 +20216,10 @@
     "name": "ABDULQADER SHAKER TAHIR ALREWAISHED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -20329,8 +20329,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -20702,7 +20702,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -21828,10 +21828,10 @@
     "name": "NAIF KAZEM MATROUD ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -21941,8 +21941,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -21952,10 +21952,10 @@
     "name": "ZAKARIA HUSSAIN MOHAMMED ALQATTAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -22065,8 +22065,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -22076,10 +22076,10 @@
     "name": "JAFAR MOHAMMED KHALIFAH ALHOWAISHEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -22189,8 +22189,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -23564,131 +23564,7 @@
     "name": "ABDULLAH ESSA ETAIQAN ALDOKHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
-    "totalMandatory": 12,
-    "complianceRate": 83,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "Completed",
-        "date": "Aug 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "Completed",
-        "date": "Jun 07, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "Completed",
-        "date": "Jun 07, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "Completed",
-        "date": "Jan 04, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Completed (Optional)",
-        "date": "Jan 04, 2026",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "Completed",
-        "date": "Aug 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "Completed",
-        "date": "Jun 07, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "Completed",
-        "date": "Aug 11, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "Completed",
-        "date": "Sep 09, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "Completed",
-        "date": "Oct 21, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "Completed",
-        "date": "Oct 21, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
-  "74081": {
-    "empId": "74081",
-    "name": "RASHED MANEA MESFER ALAJMI",
-    "position": "SECURITY GUARD",
-    "project": "OMPP2- SA2",
-    "completedCount": 13,
+    "completedCount": 12,
     "missingCount": 1,
     "totalMandatory": 12,
     "complianceRate": 92,
@@ -23724,6 +23600,130 @@
       {
         "sn": 5,
         "title": "Gate Duties",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "Completed",
+        "date": "Jan 04, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Completed (Optional)",
+        "date": "Jan 04, 2026",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "Completed",
+        "date": "Jun 07, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "Completed",
+        "date": "Oct 21, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
+        "isMandatory": true
+      }
+    ]
+  },
+  "74081": {
+    "empId": "74081",
+    "name": "RASHED MANEA MESFER ALAJMI",
+    "position": "SECURITY GUARD",
+    "project": "OMPP2- SA2",
+    "completedCount": 14,
+    "missingCount": 0,
+    "totalMandatory": 12,
+    "complianceRate": 100,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "Completed",
+        "date": "Jun 07, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "Completed",
+        "date": "Jun 07, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
         "status": "Completed (Optional)",
         "date": "May 03, 2026",
         "isMandatory": false
@@ -23801,8 +23801,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -23812,10 +23812,10 @@
     "name": "FAHEED SALEM FAHEED ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -23925,8 +23925,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -24308,10 +24308,10 @@
     "name": "HUSSAIN MARZOUQ ALDELAIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -24421,8 +24421,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -24432,10 +24432,10 @@
     "name": "WALEED YASEEN MOHAMMED ALHASSAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -24545,8 +24545,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -24556,10 +24556,10 @@
     "name": "MATOUQ ALI ALIBRAHIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -24669,8 +24669,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -24680,10 +24680,10 @@
     "name": "HANI ABBAS ALHASSAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -24793,8 +24793,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -24804,10 +24804,10 @@
     "name": "AHMED MOHAMMED ALSALMAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -24917,8 +24917,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -25052,10 +25052,10 @@
     "name": "SALEH AHMED ALSAQER",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -25165,8 +25165,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -25176,10 +25176,10 @@
     "name": "SALEH ALI AL ATHEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -25289,8 +25289,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -25424,10 +25424,10 @@
     "name": "SALEM DAKEELE AL MARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -25537,8 +25537,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -26044,10 +26044,10 @@
     "name": "SAEED SALEH KHAMIS ALFARHAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -26157,8 +26157,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -26292,10 +26292,10 @@
     "name": "ALI HAMAD AL MARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -26405,8 +26405,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -26416,10 +26416,10 @@
     "name": "MOHAMMED HAJJI AOMRAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -26529,8 +26529,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -26912,10 +26912,10 @@
     "name": "MOUSTAFA HASHIM SAEED ALYAMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -27025,8 +27025,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -27036,10 +27036,10 @@
     "name": "AHMED IBRAHIM SALEH ALBRAHIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -27149,8 +27149,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -27904,10 +27904,10 @@
     "name": "ABDULLAH NASSER ABDULLAH ALEID",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -28017,8 +28017,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -28028,10 +28028,10 @@
     "name": "AQEEL NAJI TAHER ALHIDAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -28141,8 +28141,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -28152,10 +28152,10 @@
     "name": "AQEEL HAJI FAHAD ALYUNIS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -28265,8 +28265,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -29020,10 +29020,10 @@
     "name": "ADNAN IBRAHIM HANI ALAHMED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -29133,8 +29133,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -29516,10 +29516,10 @@
     "name": "OBAID MOHASEN NASSER ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -29629,8 +29629,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -30012,10 +30012,10 @@
     "name": "BASSEM ABDELMONEIM HABIB ALSAEED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -30125,8 +30125,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -30136,10 +30136,10 @@
     "name": "ABDULRAHMAN ALI MAANA ALAJMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -30249,8 +30249,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -30384,10 +30384,10 @@
     "name": "ABDULLAH SHAKER TAHER ALROWAISHED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -30497,8 +30497,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -30622,7 +30622,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -31004,10 +31004,10 @@
     "name": "TAHER ALI TAHER ALOWAYSHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -31117,8 +31117,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -31128,10 +31128,10 @@
     "name": "ABDELHAKIM SAAD ABDULLAH ALARFAJ",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -31241,8 +31241,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -32244,10 +32244,10 @@
     "name": "ALI SAEED ALI ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -32357,8 +32357,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -32368,10 +32368,10 @@
     "name": "SAEED AHMED ALI ALKHALEAFAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -32481,8 +32481,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -32492,10 +32492,10 @@
     "name": "TAWFIQ HUSSAIN ESSA ALSMAIL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -32605,8 +32605,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -33484,10 +33484,10 @@
     "name": "ADEL ABBAS ALI ALRASHID",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -33597,8 +33597,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -33732,10 +33732,10 @@
     "name": "MOHAMMED ALI YASIN ALDULAIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -33845,8 +33845,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -34104,10 +34104,10 @@
     "name": "ALI ABDULLAH ALI ALOWAYSHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -34217,8 +34217,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -34352,10 +34352,10 @@
     "name": "ALI MOHAMMED HAJI ALSAFFAR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -34465,8 +34465,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -34476,10 +34476,10 @@
     "name": "NASSER ABSULHADI HASSAN ALJASSIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -34589,8 +34589,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -35210,7 +35210,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -35220,10 +35220,10 @@
     "name": "ABDULAZIZ HUSSAIN ABDULLAH ALMARZOOQ",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -35333,8 +35333,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -35344,10 +35344,10 @@
     "name": "ABDULLAH ALI HAJI ALMARAI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -35457,8 +35457,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -35592,10 +35592,10 @@
     "name": "HASSAN MOHAMMED HUSSAIN ALHAJI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -35705,8 +35705,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -35830,7 +35830,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -36088,10 +36088,10 @@
     "name": "MOHAMMED HASSAN HUSSAIN ALABDULLTAIF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -36201,8 +36201,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -36698,7 +36698,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -36708,10 +36708,10 @@
     "name": "ABDULRAHMAN SALEM ABDULLAH BUSALEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -36821,8 +36821,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -36832,10 +36832,10 @@
     "name": "YASEEN ABDULHAMID YASEEN ALYASEEN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -36945,8 +36945,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -36956,10 +36956,10 @@
     "name": "MOSTAFA HAJJI MATUQ ALNASSER",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -37069,8 +37069,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -37080,10 +37080,10 @@
     "name": "HASSAN IBRAHIM ABDULLAH ALKHALAF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -37193,8 +37193,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -37700,10 +37700,10 @@
     "name": "FAISAL TAHER HUSSAIN ALAMRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -37813,8 +37813,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -37824,10 +37824,10 @@
     "name": "MUNTASIR MOHAMMED MAHDI ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -37937,8 +37937,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -38196,10 +38196,10 @@
     "name": "AMIN WAHB ESSA ALALI SALEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -38309,8 +38309,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -38320,10 +38320,10 @@
     "name": "FADHEL ABBAS ALI ALFADHEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -38433,8 +38433,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -38940,10 +38940,10 @@
     "name": "HUSSAIN AMIR HASSAN ALARABI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -39053,8 +39053,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -39064,10 +39064,10 @@
     "name": "FAHAD ABDULRAHMAN MOHAMMED ALMUFARFISH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -39177,8 +39177,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -39188,10 +39188,10 @@
     "name": "HAFIZ ALI HAFIZ ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -39301,8 +39301,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -39312,10 +39312,10 @@
     "name": "SADIQ HUSSAIN ALI ALSALEH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -39425,8 +39425,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -39550,7 +39550,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -39684,10 +39684,10 @@
     "name": "AHMED SALEH ABDULLAH ALHAJJIBOSALEH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -39797,8 +39797,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -39932,10 +39932,10 @@
     "name": "JABER MOHAMMED JABER ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -40045,8 +40045,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -40056,10 +40056,10 @@
     "name": "EISSA TAHER AASHOR ALKHADEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -40169,8 +40169,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -40180,10 +40180,10 @@
     "name": "ALI MOHAMMED ABDULLAH ALJUAIDAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -40293,8 +40293,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -40418,7 +40418,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -40428,10 +40428,10 @@
     "name": "SALEM MOHAMMED BAKHIT ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -40541,8 +40541,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -40552,10 +40552,10 @@
     "name": "BADER SAHAL AHMED ALSUWAILEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -40665,8 +40665,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -41048,10 +41048,10 @@
     "name": "MOHAMMED HUSSAIN KADHIM ALSUTLAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -41161,8 +41161,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -41172,10 +41172,10 @@
     "name": "ZAKI HABIB ALI ALNAS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -41285,8 +41285,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -41544,10 +41544,10 @@
     "name": "ALI HASSAN ALI ALBASRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -41657,8 +41657,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -42412,130 +42412,6 @@
     "name": "BANDER SALEH ALI ALSUBH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 3,
-    "totalMandatory": 12,
-    "complianceRate": 75,
-    "courses": [
-      {
-        "sn": 1,
-        "title": "Basic Principles of Security",
-        "status": "Completed",
-        "date": "Aug 26, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 2,
-        "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 3,
-        "title": "Customer Services",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      },
-      {
-        "sn": 4,
-        "title": "Crowd Controls",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 5,
-        "title": "Gate Duties",
-        "status": "Completed (Optional)",
-        "date": "May 12, 2026",
-        "isMandatory": false
-      },
-      {
-        "sn": 6,
-        "title": "Patrolling / Security Supervision",
-        "status": "Completed",
-        "date": "May 12, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 7,
-        "title": "Alarm Systems",
-        "status": "Completed",
-        "date": "Sep 09, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 8,
-        "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 9,
-        "title": "Fire Extinguishers / Fire-fighting",
-        "status": "Optional / N/A",
-        "date": "-",
-        "isMandatory": false
-      },
-      {
-        "sn": 10,
-        "title": "Writing Reports",
-        "status": "Completed",
-        "date": "Aug 26, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 11,
-        "title": "Search or Inspection",
-        "status": "Completed",
-        "date": "Sep 09, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 12,
-        "title": "Seizure and Power of Arrest",
-        "status": "Completed",
-        "date": "Aug 26, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 13,
-        "title": "Traffic Control",
-        "status": "Completed",
-        "date": "Sep 09, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 14,
-        "title": "Protecting a Crime Scene",
-        "status": "Completed",
-        "date": "Apr 08, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 15,
-        "title": "Radio and Telephone Ethics",
-        "status": "Completed",
-        "date": "Apr 08, 2026",
-        "isMandatory": true
-      },
-      {
-        "sn": 16,
-        "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
-        "isMandatory": true
-      }
-    ]
-  },
-  "76091": {
-    "empId": "76091",
-    "name": "BADER MOHAMMED ALI ALHAJJI",
-    "position": "SECURITY GUARD",
-    "project": "OMPP2- SA1",
     "completedCount": 11,
     "missingCount": 2,
     "totalMandatory": 12,
@@ -42551,6 +42427,130 @@
       {
         "sn": 2,
         "title": "Effective Communication",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Completed (Optional)",
+        "date": "May 12, 2026",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "Completed",
+        "date": "May 12, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "Completed",
+        "date": "Aug 26, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "Completed",
+        "date": "Aug 26, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "Completed",
+        "date": "Sep 09, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "Completed",
+        "date": "Apr 08, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "Completed",
+        "date": "Apr 08, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
+        "isMandatory": true
+      }
+    ]
+  },
+  "76091": {
+    "empId": "76091",
+    "name": "BADER MOHAMMED ALI ALHAJJI",
+    "position": "SECURITY GUARD",
+    "project": "OMPP2- SA1",
+    "completedCount": 12,
+    "missingCount": 1,
+    "totalMandatory": 12,
+    "complianceRate": 92,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "Completed",
+        "date": "Aug 26, 2026",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
         "status": "Completed",
         "date": "Jun 08, 2026",
         "isMandatory": true
@@ -42649,8 +42649,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -42908,10 +42908,10 @@
     "name": "NASSER MOHAMMED JABER ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -43021,8 +43021,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -44396,10 +44396,10 @@
     "name": "MURTADA ALI KHALIFAH ALMUSSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -44509,8 +44509,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -44644,10 +44644,10 @@
     "name": "HAI ALAAH MOHAMMED ZAID ALHARTHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -44757,8 +44757,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -46752,10 +46752,10 @@
     "name": "SAMI AHMED IBRAHIM ALBANAI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -46865,8 +46865,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -46876,10 +46876,10 @@
     "name": "HASSAN RIDHA TAHER ALAWADH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -46989,8 +46989,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -47000,10 +47000,10 @@
     "name": "MUTEB THAMER TALMAS ALSAHLI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -47113,8 +47113,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -47124,10 +47124,10 @@
     "name": "SULTAN ABDULLAH MOHAMMED ALSAMAK",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -47237,8 +47237,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -47362,7 +47362,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -47868,10 +47868,10 @@
     "name": "ZUHAIR AHMED SALMAN ALOUFI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -47981,8 +47981,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -49108,10 +49108,10 @@
     "name": "RASHED IBRAHIM SAAD ALAQAR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -49221,8 +49221,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -49976,10 +49976,10 @@
     "name": "SALEH MUSLEM OWDA ALAMRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -50089,8 +50089,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -51588,10 +51588,10 @@
     "name": "ATEEQ SALEH ATEEQ ALSAAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -51701,8 +51701,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -51712,10 +51712,10 @@
     "name": "ALI ABDRABALNABI HUSSAIN ALHAJJI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -51825,8 +51825,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -53076,10 +53076,10 @@
     "name": "ABDULMOHSEN MOHAMMED MOHSEN ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -53189,8 +53189,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -53820,10 +53820,10 @@
     "name": "HUSSAIN MARZUQ ALI ALSIYAHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -53933,8 +53933,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -54306,7 +54306,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -55546,7 +55546,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -56300,10 +56300,10 @@
     "name": "MOHAMMED SAIF MOUSA ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -56413,8 +56413,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -57168,10 +57168,10 @@
     "name": "ABDULMAJEED SAAD MARZOUQ ALRASHIDI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -57281,8 +57281,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -64608,10 +64608,10 @@
     "name": "ABDULRAHMAN MOHSEN ABDULRHMAN ALARJANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -64721,8 +64721,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -66096,10 +66096,10 @@
     "name": "AHMED SALEH KHALIFAH ALTHEYAB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -66209,8 +66209,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -69816,10 +69816,10 @@
     "name": "FEHAID TURKI MOHAMMED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -69929,8 +69929,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -72172,10 +72172,10 @@
     "name": "TAHER ABDULLAH MOUSA ALJAASEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -72285,8 +72285,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -72792,10 +72792,10 @@
     "name": "ABDULRAHMAN YOUSEF ABDULLAH ALHUDAYLIJ",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -72905,8 +72905,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -73536,10 +73536,10 @@
     "name": "IBRAHIM ANWAR IBRAHIM ALESSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -73649,8 +73649,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -80108,10 +80108,10 @@
     "name": "YAQOUB YOUSEF SALIMAN ALJASIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -80221,8 +80221,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -80480,10 +80480,10 @@
     "name": "SAUD MOHAMMED ZREBAN ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -80593,8 +80593,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -80604,10 +80604,10 @@
     "name": "NAWAR HEJJI JASIM ALNUWAYSIR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -80717,8 +80717,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -83828,10 +83828,10 @@
     "name": "NASSER ALI MOHSEN ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -83941,8 +83941,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -83952,10 +83952,10 @@
     "name": "NAJI HUSSAIN AHMED ALMUSSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -84065,8 +84065,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -84696,10 +84696,10 @@
     "name": "ABDULRAHMAN MOHAMMED FAHAD ALHAJRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -84809,8 +84809,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -90896,10 +90896,10 @@
     "name": "MUWAFIQ MOHAMMED AMER ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -91009,8 +91009,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -94492,10 +94492,10 @@
     "name": "ALI SALMAN ALI BIN ESSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -94605,8 +94605,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -98832,10 +98832,10 @@
     "name": "HUSSAIN MOHAMMED AYED ALFARWAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -98945,8 +98945,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -100196,10 +100196,10 @@
     "name": "ABDULLAH MUBARAK AMASH ALSAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -100309,8 +100309,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -100444,10 +100444,10 @@
     "name": "NASSER RASHED HAMAD ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -100557,8 +100557,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -100682,7 +100682,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -101560,10 +101560,10 @@
     "name": "FAREED FARES MOHAMMED ALFARIS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -101673,8 +101673,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -101798,7 +101798,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -102304,10 +102304,10 @@
     "name": "KARAR MOHAMMED SALEH ALMUSSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -102417,8 +102417,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -102552,10 +102552,10 @@
     "name": "BADER MANSOUR SAEED ALHAJRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -102665,8 +102665,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -102924,10 +102924,10 @@
     "name": "ADNAN HUSSAIN ABDULMOHSEN ALSULAYBIKH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -103037,8 +103037,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -103048,10 +103048,10 @@
     "name": "HASSAN SAAD FAHAD ALSHUAYWIN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -103161,8 +103161,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -103296,10 +103296,10 @@
     "name": "ALI HUSSAIN ABDULLAH ALGUAIDAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA4",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -103409,8 +103409,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
