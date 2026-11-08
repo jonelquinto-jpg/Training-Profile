@@ -12652,10 +12652,10 @@
     "name": "MOHAMMED ALI MOHAMMED AL MAHFOUD",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -12765,8 +12765,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -18604,10 +18604,10 @@
     "name": "HASHEM ZAKI ALI ALHAMOOD",
     "position": "SECURITY GUARD",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -18717,8 +18717,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -27532,10 +27532,10 @@
     "name": "MEDKER OMAIR MAFRAH ALBISHI",
     "position": "SECURITY GUARD",
     "project": "KBP Building Office Setup",
-    "completedCount": 6,
-    "missingCount": 7,
+    "completedCount": 7,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -27645,8 +27645,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -38930,7 +38930,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -55308,10 +55308,10 @@
     "name": "ZUHAIR IBRAHIM AHMED ALSABA",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -55421,8 +55421,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -61746,7 +61746,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -70932,10 +70932,10 @@
     "name": "QOSI YOUSEF JASIM ALSAKRAN",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -71045,8 +71045,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -74652,10 +74652,10 @@
     "name": "HABIB HASSAN MOHAMMED ALARADI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -74765,8 +74765,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -75024,10 +75024,10 @@
     "name": "NIZAR MAHDI ALI ALALWIYAT",
     "position": "SECURITY GUARD",
     "project": "KBP Building Office Setup",
-    "completedCount": 4,
-    "missingCount": 9,
+    "completedCount": 5,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
@@ -75137,8 +75137,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -78114,7 +78114,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -92250,7 +92250,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -92870,7 +92870,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
@@ -101312,10 +101312,10 @@
     "name": "AHMED ALI HABIB ALDERWASH",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -101425,8 +101425,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 04, 2026",
         "isMandatory": true
       }
     ]
