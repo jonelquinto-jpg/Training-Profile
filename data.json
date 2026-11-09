@@ -24060,10 +24060,10 @@
     "name": "HAMAD AWAID MUBARAK ALHWITY",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "NEOM AREA SHARED INDIRECT &PRE",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 87,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -24145,8 +24145,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 08, 2026",
         "isMandatory": true
       },
       {
@@ -84944,10 +84944,10 @@
     "name": "SALAMAH MOTAIR SLAMAH ALATAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 16,
-    "complianceRate": 81,
+    "complianceRate": 88,
     "courses": [
       {
         "sn": 1,
@@ -85029,8 +85029,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 08, 2026",
         "isMandatory": true
       },
       {
@@ -89160,10 +89160,10 @@
     "name": "ABDULAZIZ IBRAHIM NAHADH ALBALAWI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 16,
-    "complianceRate": 75,
+    "complianceRate": 81,
     "courses": [
       {
         "sn": 1,
@@ -89245,8 +89245,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 08, 2026",
         "isMandatory": true
       },
       {
