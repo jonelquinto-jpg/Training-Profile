@@ -12280,10 +12280,10 @@
     "name": "MOQBEL SULTAN SAAD ALBESHI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Camp 2 - Jubail",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 16,
-    "complianceRate": 75,
+    "complianceRate": 81,
     "courses": [
       {
         "sn": 1,
@@ -12337,8 +12337,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -16248,10 +16248,10 @@
     "name": "MAITHAM YOUSEF ABDULLAH ALHAMDI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -16333,8 +16333,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -18356,10 +18356,10 @@
     "name": "ISKANDAR FAHAD SALMAN ALSAROUT",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -18441,8 +18441,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -18480,10 +18480,10 @@
     "name": "TAWFIQ MOHAMMED ABDULLAH ALBELADI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 87,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -18565,8 +18565,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -20960,10 +20960,10 @@
     "name": "AHMED MOHAMMED ALI ABO KHODER",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -21045,8 +21045,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -21580,10 +21580,10 @@
     "name": "NAIF HUSSAIN ALI ALMAIL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 87,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -21665,8 +21665,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -27656,10 +27656,10 @@
     "name": "ABDULLAH ALI ABDULLAH ALRAMADHAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -27713,8 +27713,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -30756,10 +30756,10 @@
     "name": "DAWOOD SALMAN SALEM ALBAKHAIT",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -30841,8 +30841,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -44768,10 +44768,10 @@
     "name": "AHMED ALI HUSSAIN ALHELW",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -44853,8 +44853,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -73966,7 +73966,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 22, 2026",
+        "date": "Nov 09, 2026",
         "isMandatory": false
       },
       {
@@ -73994,7 +73994,7 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Oct 28, 2026",
+        "date": "Nov 08, 2026",
         "isMandatory": true
       },
       {
@@ -88788,10 +88788,10 @@
     "name": "WALEED SHABIB MOUETQ ALOTAIBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 8,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -88845,8 +88845,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -88874,7 +88874,7 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Oct 28, 2026",
+        "date": "Nov 08, 2026",
         "isMandatory": true
       },
       {
@@ -91020,7 +91020,7 @@
     "name": "FAISAL MASTOUR SAEED ASIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 7,
     "totalMandatory": 12,
     "complianceRate": 42,
@@ -91077,8 +91077,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 09, 2026",
         "isMandatory": false
       },
       {
@@ -91106,7 +91106,7 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Nov 03, 2026",
+        "date": "Nov 08, 2026",
         "isMandatory": true
       },
       {
@@ -103668,10 +103668,10 @@
     "name": "MOHAMMED MANA MOHAMMED ALQAHTANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 5,
-    "missingCount": 10,
+    "completedCount": 6,
+    "missingCount": 9,
     "totalMandatory": 15,
-    "complianceRate": 33,
+    "complianceRate": 40,
     "courses": [
       {
         "sn": 1,
@@ -103725,8 +103725,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
