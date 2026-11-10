@@ -2236,10 +2236,10 @@
     "name": "ABDALAZIZ MANWER MAZI AL ANIZI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "CONSTWESTRENRINGRDGYRATORY&TUN",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 16,
-    "complianceRate": 56,
+    "complianceRate": 63,
     "courses": [
       {
         "sn": 1,
@@ -2293,8 +2293,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -3228,10 +3228,10 @@
     "name": "MUZIL JADA KHALAF ALSHAMMARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "CONSTWESTRENRINGRDGYRATORY&TUN",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -3285,8 +3285,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -24184,10 +24184,10 @@
     "name": "IBRAHIM MOHAMMED HASSAN MAEDI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "CONSTWESTRENRINGRDGYRATORY&TUN",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -24241,8 +24241,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -54994,7 +54994,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Sep 08, 2026",
+        "date": "Nov 09, 2026",
         "isMandatory": false
       },
       {
