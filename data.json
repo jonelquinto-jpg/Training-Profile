@@ -11040,10 +11040,10 @@
     "name": "ABDULLAH HILLAN ALHARBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -11097,8 +11097,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -31996,10 +31996,10 @@
     "name": "ABDULAZIZ ALI AHMED ALDALAWI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -32053,8 +32053,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -84448,10 +84448,10 @@
     "name": "MOHAMMED IBRAHIM MOHAMMED HATTAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -84505,8 +84505,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -85812,7 +85812,7 @@
     "name": "AHMED HASSAN HUSSAIN MADKHALI",
     "position": "SECURITY GUARD",
     "project": "Lower Plateau Site Preparation",
-    "completedCount": 13,
+    "completedCount": 14,
     "missingCount": 1,
     "totalMandatory": 12,
     "complianceRate": 92,
@@ -85869,8 +85869,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 09, 2026",
         "isMandatory": false
       },
       {
@@ -103544,10 +103544,10 @@
     "name": "ABDULLAH THEYAB MOHAMMED ALWUTHAYNANI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Qiddiya Performing Arts Center",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 16,
-    "complianceRate": 69,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -103601,8 +103601,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
