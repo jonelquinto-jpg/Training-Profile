@@ -12280,10 +12280,10 @@
     "name": "MOQBEL SULTAN SAAD ALBESHI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Camp 2 - Jubail",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 16,
-    "complianceRate": 69,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -12365,8 +12365,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -16248,10 +16248,10 @@
     "name": "MAITHAM YOUSEF ABDULLAH ALHAMDI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -16305,8 +16305,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -18356,10 +18356,10 @@
     "name": "ISKANDAR FAHAD SALMAN ALSAROUT",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -18413,8 +18413,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -18538,7 +18538,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jan 04, 2026",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -19596,10 +19596,10 @@
     "name": "TURKI ABDULLAH ABDULRAHMAN ALSHERAID",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 16,
-    "complianceRate": 88,
+    "complianceRate": 94,
     "courses": [
       {
         "sn": 1,
@@ -19653,8 +19653,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -21580,10 +21580,10 @@
     "name": "NAIF HUSSAIN ALI ALMAIL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -21637,8 +21637,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -30260,10 +30260,10 @@
     "name": "HUSSAIN AHMED HUSSAIN ALMAYOUF",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 13,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 87,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -30317,8 +30317,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -38692,10 +38692,10 @@
     "name": "QUSAI MOHAMMED JAWAD ALMUSABEH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -38749,8 +38749,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
