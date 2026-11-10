@@ -2046,7 +2046,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Sep 22, 2026",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -2732,10 +2732,10 @@
     "name": "KHALED SAHMEI MUTLAQ AL SUBAIE",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -2789,8 +2789,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -94740,10 +94740,10 @@
     "name": "MOHAMMED JAMAN ABDULLAH ALDAWSARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -94797,8 +94797,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
