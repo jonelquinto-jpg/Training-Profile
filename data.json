@@ -3476,10 +3476,10 @@
     "name": "WALID ABDULLAH ALMARJAN",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 16,
-    "complianceRate": 69,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -3534,7 +3534,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jan 04, 2026",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -3561,8 +3561,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -3972,10 +3972,10 @@
     "name": "AIDHAH KHUDER ABDULLAH AL ZAHRANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 10,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -4029,8 +4029,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -4057,8 +4057,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -4086,7 +4086,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -12156,10 +12156,10 @@
     "name": "ALI SALMAN AHMED ALMAEL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 8,
-    "missingCount": 7,
+    "completedCount": 9,
+    "missingCount": 6,
     "totalMandatory": 15,
-    "complianceRate": 53,
+    "complianceRate": 60,
     "courses": [
       {
         "sn": 1,
@@ -12214,7 +12214,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jan 04, 2026",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -12241,8 +12241,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -12394,7 +12394,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -16248,10 +16248,10 @@
     "name": "MAITHAM YOUSEF ABDULLAH ALHAMDI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -16361,8 +16361,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -18356,10 +18356,10 @@
     "name": "ISKANDAR FAHAD SALMAN ALSAROUT",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -18469,8 +18469,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -18594,7 +18594,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -21694,7 +21694,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 05, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -27284,10 +27284,10 @@
     "name": "SAEED HAJI MAATOUQ ALNASSER",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 14,
-    "missingCount": 1,
+    "completedCount": 15,
+    "missingCount": 0,
     "totalMandatory": 15,
-    "complianceRate": 93,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -27397,8 +27397,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -30260,10 +30260,10 @@
     "name": "HUSSAIN AHMED HUSSAIN ALMAYOUF",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 14,
-    "missingCount": 1,
+    "completedCount": 15,
+    "missingCount": 0,
     "totalMandatory": 15,
-    "complianceRate": 93,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -30373,8 +30373,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -38692,10 +38692,10 @@
     "name": "QUSAI MOHAMMED JAWAD ALMUSABEH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -38805,8 +38805,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
