@@ -9390,7 +9390,7 @@
         "sn": 12,
         "title": "Seizure and Power of Arrest",
         "status": "Completed",
-        "date": "Oct 26, 2026",
+        "date": "Nov 08, 2026",
         "isMandatory": true
       },
       {
@@ -13644,10 +13644,10 @@
     "name": "ALI ADHOI THARY ALHARBI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "DIRIYAH SUNDRY-DISWL",
-    "completedCount": 0,
-    "missingCount": 16,
+    "completedCount": 3,
+    "missingCount": 13,
     "totalMandatory": 16,
-    "complianceRate": 0,
+    "complianceRate": 19,
     "courses": [
       {
         "sn": 1,
@@ -13680,8 +13680,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -13701,8 +13701,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -13757,8 +13757,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 10, 2026",
         "isMandatory": true
       }
     ]
@@ -21084,10 +21084,10 @@
     "name": "TURKI SAID AWIDH ALHARBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "PMBS-P3 East Stand Superstruct",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 10,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -21142,7 +21142,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Sep 21, 2026",
+        "date": "Nov 09, 2026",
         "isMandatory": true
       },
       {
@@ -21197,8 +21197,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 10, 2026",
         "isMandatory": true
       }
     ]
@@ -31748,10 +31748,10 @@
     "name": "AHMED SARHAN SALTAN ALMAJNUNI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -31826,8 +31826,8 @@
       {
         "sn": 11,
         "title": "Search or Inspection",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 02, 2026",
         "isMandatory": true
       },
       {
@@ -31841,7 +31841,7 @@
         "sn": 13,
         "title": "Traffic Control",
         "status": "Completed",
-        "date": "Feb 04, 2026",
+        "date": "Nov 02, 2026",
         "isMandatory": true
       },
       {
@@ -31872,10 +31872,10 @@
     "name": "ASHRAF IBRAHIM AHMED FALATAH",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -31951,7 +31951,7 @@
         "sn": 11,
         "title": "Search or Inspection",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 02, 2026",
         "isMandatory": true
       },
       {
@@ -31964,8 +31964,8 @@
       {
         "sn": 13,
         "title": "Traffic Control",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 02, 2026",
         "isMandatory": true
       },
       {
