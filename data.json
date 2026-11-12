@@ -73908,10 +73908,10 @@
     "name": "NAWAF HEZAM MATHAKIR ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -73944,8 +73944,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
@@ -74021,8 +74021,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 10, 2026",
         "isMandatory": true
       }
     ]
@@ -88788,7 +88788,7 @@
     "name": "WALEED SHABIB MOUETQ ALOTAIBI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
+    "completedCount": 10,
     "missingCount": 6,
     "totalMandatory": 15,
     "complianceRate": 60,
@@ -88824,8 +88824,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
@@ -88902,7 +88902,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Oct 14, 2026",
+        "date": "Nov 10, 2026",
         "isMandatory": true
       }
     ]
@@ -91020,10 +91020,10 @@
     "name": "FAISAL MASTOUR SAEED ASIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -91057,7 +91057,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Nov 03, 2026",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
@@ -91133,8 +91133,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 10, 2026",
         "isMandatory": true
       }
     ]
@@ -103668,7 +103668,7 @@
     "name": "MOHAMMED MANA MOHAMMED ALQAHTANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
+    "completedCount": 7,
     "missingCount": 9,
     "totalMandatory": 15,
     "complianceRate": 40,
@@ -103704,8 +103704,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
@@ -103782,7 +103782,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Oct 14, 2026",
+        "date": "Nov 10, 2026",
         "isMandatory": true
       }
     ]
