@@ -128,10 +128,10 @@
     "name": "SALAH ABDUL ALI EASA AL MINSHAD",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Security",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 16,
-    "complianceRate": 56,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -164,8 +164,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -185,8 +185,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -241,8 +241,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -2980,10 +2980,10 @@
     "name": "SALEM MOHAMMED SALEM ALHARTHI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Security",
-    "completedCount": 9,
-    "missingCount": 7,
+    "completedCount": 10,
+    "missingCount": 6,
     "totalMandatory": 16,
-    "complianceRate": 56,
+    "complianceRate": 63,
     "courses": [
       {
         "sn": 1,
@@ -3016,8 +3016,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -3038,7 +3038,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jul 12, 2026",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -3094,7 +3094,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -3476,10 +3476,10 @@
     "name": "WALID ABDULLAH ALMARJAN",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 16,
-    "complianceRate": 75,
+    "complianceRate": 81,
     "courses": [
       {
         "sn": 1,
@@ -3512,8 +3512,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -3848,10 +3848,10 @@
     "name": "JABER HUSSAIN MASHRI HARBI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Security",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 16,
-    "complianceRate": 81,
+    "complianceRate": 94,
     "courses": [
       {
         "sn": 1,
@@ -3884,8 +3884,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -3905,8 +3905,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -3962,7 +3962,7 @@
         "sn": 16,
         "title": "Security Sense & Body Language",
         "status": "Completed",
-        "date": "Jul 07, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -3972,7 +3972,7 @@
     "name": "AIDHAH KHUDER ABDULLAH AL ZAHRANI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 12,
+    "completedCount": 13,
     "missingCount": 3,
     "totalMandatory": 15,
     "complianceRate": 80,
@@ -4008,8 +4008,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
@@ -6014,7 +6014,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed (Optional)",
-        "date": "Jan 06, 2026",
+        "date": "Sep 11, 2026",
         "isMandatory": false
       },
       {
@@ -6080,10 +6080,10 @@
     "name": "HASSAN ALI ALQATTAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Security",
-    "completedCount": 12,
-    "missingCount": 4,
+    "completedCount": 13,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -6117,7 +6117,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "May 03, 2026",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
@@ -6193,8 +6193,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -12156,7 +12156,7 @@
     "name": "ALI SALMAN AHMED ALMAEL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 9,
+    "completedCount": 10,
     "missingCount": 6,
     "totalMandatory": 15,
     "complianceRate": 60,
@@ -12192,8 +12192,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
@@ -12280,10 +12280,10 @@
     "name": "MOQBEL SULTAN SAAD ALBESHI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Camp 2 - Jubail",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 16,
-    "complianceRate": 81,
+    "complianceRate": 88,
     "courses": [
       {
         "sn": 1,
@@ -12316,8 +12316,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -20960,10 +20960,10 @@
     "name": "AHMED MOHAMMED ALI ABO KHODER",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -21073,8 +21073,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -27656,10 +27656,10 @@
     "name": "ABDULLAH ALI ABDULLAH ALRAMADHAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -27769,8 +27769,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -30756,10 +30756,10 @@
     "name": "DAWOOD SALMAN SALEM ALBAKHAIT",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -30869,8 +30869,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -33112,10 +33112,10 @@
     "name": "HUSSAIN TAHER JASSIM ALKHALEFAH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 11,
-    "missingCount": 4,
+    "completedCount": 12,
+    "missingCount": 3,
     "totalMandatory": 15,
-    "complianceRate": 73,
+    "complianceRate": 80,
     "courses": [
       {
         "sn": 1,
@@ -33225,8 +33225,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -44768,10 +44768,10 @@
     "name": "AHMED ALI HUSSAIN ALHELW",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "OMPP2- SA4",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -44881,8 +44881,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -52704,10 +52704,10 @@
     "name": "BANDER MOHAMMED SROOR ALMWALLED",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Security",
-    "completedCount": 12,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -52740,8 +52740,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
@@ -52762,7 +52762,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jan 04, 2026",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -52817,8 +52817,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
