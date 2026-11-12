@@ -19596,10 +19596,10 @@
     "name": "TURKI ABDULLAH ABDULRAHMAN ALSHERAID",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 15,
-    "missingCount": 1,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 16,
-    "complianceRate": 94,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -19632,8 +19632,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -30880,7 +30880,7 @@
     "name": "BANDER HEJI AHMED ALDULAYM",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 15,
+    "completedCount": 16,
     "missingCount": 0,
     "totalMandatory": 15,
     "complianceRate": 100,
@@ -30916,8 +30916,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Nov 11, 2026",
         "isMandatory": false
       },
       {
