@@ -15876,10 +15876,10 @@
     "name": "ABDULLAH ALI YOUSEF ALSALEH",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -15913,7 +15913,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Jul 12, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": false
       },
       {
@@ -15934,7 +15934,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -15961,8 +15961,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -15989,8 +15989,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -17240,10 +17240,10 @@
     "name": "ABDULLAH MUFLEH NAHIR ALSHEMMARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -17277,7 +17277,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Jul 12, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": false
       },
       {
@@ -17298,7 +17298,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -17325,8 +17325,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -17353,8 +17353,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -19844,10 +19844,10 @@
     "name": "SADEQ YASSIN MOHAMMED ALHASSAN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 93,
     "courses": [
       {
         "sn": 1,
@@ -19881,7 +19881,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Jul 12, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": false
       },
       {
@@ -19902,7 +19902,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jun 13, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -19929,8 +19929,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -19957,8 +19957,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -34972,10 +34972,10 @@
     "name": "AHMED DUEEJ KHALIFAH ALFAISAL",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 5,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 67,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -35009,7 +35009,7 @@
         "sn": 5,
         "title": "Gate Duties",
         "status": "Completed (Optional)",
-        "date": "Jul 12, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": false
       },
       {
@@ -35029,8 +35029,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -35057,8 +35057,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -35085,8 +35085,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -65104,10 +65104,10 @@
     "name": "OMRAN IBRAHIM MOHAMMED BARNAWI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 9,
-    "missingCount": 6,
+    "completedCount": 12,
+    "missingCount": 4,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 73,
     "courses": [
       {
         "sn": 1,
@@ -65140,8 +65140,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Oct 11, 2026",
         "isMandatory": false
       },
       {
@@ -65162,7 +65162,7 @@
         "sn": 8,
         "title": "Response to Emergencies",
         "status": "Completed",
-        "date": "Jan 05, 2026",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -65189,8 +65189,8 @@
       {
         "sn": 12,
         "title": "Seizure and Power of Arrest",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       },
       {
@@ -65217,8 +65217,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
