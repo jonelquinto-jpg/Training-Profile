@@ -4,10 +4,10 @@
     "name": "HUSSAIN ABDULLAH ALI ALHABEEB",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Laydown Support Services",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 16,
-    "complianceRate": 88,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -40,8 +40,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -61,8 +61,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -252,10 +252,10 @@
     "name": "FADHIL ALI HASSAN AL FADHIL",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Main Camp - Dhahran",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 16,
-    "complianceRate": 88,
+    "complianceRate": 94,
     "courses": [
       {
         "sn": 1,
@@ -288,8 +288,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -376,10 +376,10 @@
     "name": "FADHIL ALI A ALJAFFAL",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Central Laydown - Dhahran",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 16,
-    "complianceRate": 88,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -412,8 +412,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 11, 2026",
         "isMandatory": true
       },
       {
@@ -433,8 +433,8 @@
       {
         "sn": 8,
         "title": "Response to Emergencies",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Sep 11, 2026",
         "isMandatory": true
       },
       {
@@ -500,10 +500,10 @@
     "name": "HASSAN ALI A ALMUHSIN",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Laydown Support Services",
-    "completedCount": 15,
-    "missingCount": 1,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 15,
-    "complianceRate": 93,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -613,8 +613,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -2608,10 +2608,10 @@
     "name": "ABDULLAH AHMED MOHAMMED SAAD",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -2721,8 +2721,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -4096,10 +4096,10 @@
     "name": "HAZMI SAUD AZRAN ALSAHLI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 15,
-    "missingCount": 1,
+    "completedCount": 16,
+    "missingCount": 0,
     "totalMandatory": 15,
-    "complianceRate": 93,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -4209,8 +4209,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -4220,10 +4220,10 @@
     "name": "ABDULHAKIM AMER HAJI ALTHAWADI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Main Camp - Dhahran",
-    "completedCount": 13,
-    "missingCount": 3,
+    "completedCount": 14,
+    "missingCount": 2,
     "totalMandatory": 15,
-    "complianceRate": 80,
+    "complianceRate": 87,
     "courses": [
       {
         "sn": 1,
@@ -4333,8 +4333,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Oct 11, 2026",
         "isMandatory": true
       }
     ]
@@ -5584,10 +5584,10 @@
     "name": "ALI HUSSEIN ALZIMOUR",
     "position": "SECURITY GUARD",
     "project": "Scaffolding Services",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -5620,8 +5620,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Apr 11, 2026",
         "isMandatory": false
       },
       {
@@ -5697,8 +5697,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -6204,10 +6204,10 @@
     "name": "ALI JUMAAH ALADILI",
     "position": "SECURITY GUARD",
     "project": "Laydown Support Services",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -6317,8 +6317,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -9056,10 +9056,10 @@
     "name": "ABDULLA IBRAHIM ALI AL SHANNAR",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -9092,8 +9092,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Apr 11, 2026",
         "isMandatory": false
       },
       {
@@ -9169,8 +9169,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -9428,10 +9428,10 @@
     "name": "MOHAMMED SALEH MOHAMMED ALOMANI",
     "position": "SECURITY GUARD",
     "project": "Nesma Training Institute",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -9541,8 +9541,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Mar 11, 2026",
         "isMandatory": true
       }
     ]
@@ -12032,10 +12032,10 @@
     "name": "MAHDI ALI ALKHATER",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -12145,8 +12145,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -13024,10 +13024,10 @@
     "name": "BASSAM TAHER JAWAD ALBASRI",
     "position": "SECURITY GUARD",
     "project": "Main Camp - Dhahran",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -13137,8 +13137,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -13148,10 +13148,10 @@
     "name": "HASSAN SHAKER TAHIR ALROWAISHID",
     "position": "SECURITY GUARD",
     "project": "Central Laydown - Dhahran",
-    "completedCount": 13,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -13261,8 +13261,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -14512,10 +14512,10 @@
     "name": "NAYEF KHALID SALEH ALKHADER",
     "position": "SECURITY GUARD",
     "project": "Central Laydown - Dhahran",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -14625,8 +14625,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -16744,10 +16744,10 @@
     "name": "MUJAHID MAHDI JAWAD ABU SULTAN",
     "position": "SECURITY GUARD",
     "project": "Nesma Training Institute",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -16857,8 +16857,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Mar 11, 2026",
         "isMandatory": true
       }
     ]
@@ -22324,10 +22324,10 @@
     "name": "MAJEED ABDULLAH ABDULATIF GHAREEB",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -22437,8 +22437,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -24928,10 +24928,10 @@
     "name": "HASHIM ALI ABU AL REHI",
     "position": "SECURITY GUARD",
     "project": "Laydown Support Services",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -25041,8 +25041,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -25920,10 +25920,10 @@
     "name": "ALI NAIF ALI ALDIBIL",
     "position": "SECURITY GUARD",
     "project": "Scaffolding Services",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -26033,8 +26033,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -38444,10 +38444,10 @@
     "name": "ALI WAHB ABDULLAH ALMAHMOUD",
     "position": "SECURITY GUARD",
     "project": "Main Camp - Dhahran",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -38557,8 +38557,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -66592,10 +66592,10 @@
     "name": "SHREEFAH SAEED MUSA ALSHAHRANY",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -66705,8 +66705,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -72916,10 +72916,10 @@
     "name": "SAUD SALEM SALEH ALNAWMASI",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -73029,8 +73029,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
@@ -99204,10 +99204,10 @@
     "name": "MOHAND YOUSIF AHMED ALMOHANNA",
     "position": "SECURITY GUARD",
     "project": "Plant, Machinery & Vehicles",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -99240,8 +99240,8 @@
       {
         "sn": 5,
         "title": "Gate Duties",
-        "status": "Optional / N/A",
-        "date": "-",
+        "status": "Completed (Optional)",
+        "date": "Apr 11, 2026",
         "isMandatory": false
       },
       {
@@ -99317,8 +99317,8 @@
       {
         "sn": 16,
         "title": "Security Sense & Body Language",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Apr 11, 2026",
         "isMandatory": true
       }
     ]
