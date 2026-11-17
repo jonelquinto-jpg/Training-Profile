@@ -15796,7 +15796,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 10, 2026",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -16496,10 +16496,10 @@
     "name": "SALEM SELEEM ABDULLAH BU SALEEM",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -16539,8 +16539,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -18604,10 +18604,10 @@
     "name": "HASHEM ZAKI ALI ALHAMOOD",
     "position": "SECURITY GUARD",
     "project": "KHURAIS CPF RESTORATION",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -18647,8 +18647,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -32616,10 +32616,10 @@
     "name": "ALI MOHAMMED ALI ALAMRI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -32659,8 +32659,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -37204,10 +37204,10 @@
     "name": "ABDULLAH AHMED SALEH ALAQRAIN",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -37247,8 +37247,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -38072,10 +38072,10 @@
     "name": "YAHYA ZAKARIA ALI KHAMIS",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -38115,8 +38115,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -40800,10 +40800,10 @@
     "name": "MOHAMMED MUIDH OBIDALLAH ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -40843,8 +40843,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -43528,10 +43528,10 @@
     "name": "MESHAAL KHADEM MATROOD ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -43571,8 +43571,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -44148,10 +44148,10 @@
     "name": "JABR SAAD JABR ALOSAIMI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -44191,8 +44191,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -46256,10 +46256,10 @@
     "name": "NAIF FEHAID TALEB ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -46299,8 +46299,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -49896,7 +49896,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Jul 13, 2026",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -51216,10 +51216,10 @@
     "name": "ALNURI RADHI MUQBIL ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -51259,8 +51259,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -59896,10 +59896,10 @@
     "name": "TURKI SHULAYSH SHAEE ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -59939,8 +59939,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -60640,10 +60640,10 @@
     "name": "NAWAF MOHAMMED SHEMAN ALANAZI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -60683,8 +60683,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -67708,10 +67708,10 @@
     "name": "ABDULRAOUF EID MABARK ALZURAYQ",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -67751,8 +67751,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -72420,10 +72420,10 @@
     "name": "NASSER ABDULLAH SALEM ALDHRMAN",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -72463,8 +72463,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -73164,10 +73164,10 @@
     "name": "HAMAD THAAR HAMAD ALJUBEER",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -73207,8 +73207,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -78992,10 +78992,10 @@
     "name": "TALAL ABDULLAH AMAN OMAR",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -79035,8 +79035,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -84572,10 +84572,10 @@
     "name": "ABDULLAH AHMED IBRAHIM ALRAJAA",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -84615,8 +84615,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -89780,10 +89780,10 @@
     "name": "MESHAL SAAD MESHAL ALJAFFALI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -89823,8 +89823,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -89904,10 +89904,10 @@
     "name": "ALI SALMAN ALI ALIBRAHIM",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -89947,8 +89947,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -91764,10 +91764,10 @@
     "name": "IBRAHIM MOHAMMED IBRAHIM ALHAWITI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -91807,8 +91807,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -92260,10 +92260,10 @@
     "name": "MOHAMMED OUN MANSOUR ALRABIE",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -92303,8 +92303,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -94120,10 +94120,10 @@
     "name": "KHALAF FADHEL HESSEN ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -94163,8 +94163,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -97096,10 +97096,10 @@
     "name": "THEYAB DAFFTR KHALEEF ALOTAIBI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -97139,8 +97139,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -97716,10 +97716,10 @@
     "name": "SAIF FALAH HEEAA ALRASHIDI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -97759,8 +97759,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -98460,10 +98460,10 @@
     "name": "GHAREEB ALI SULTAN ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 10,
-    "missingCount": 2,
+    "completedCount": 11,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -98503,8 +98503,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -98708,10 +98708,10 @@
     "name": "HASSAN DHIYAA ALI ALMARHOON",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -98751,8 +98751,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -99328,10 +99328,10 @@
     "name": "MAJED HASSAN OBED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "Fadhili Gas PKg6 UpdownStream",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -99371,8 +99371,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
@@ -101436,10 +101436,10 @@
     "name": "RAKAN MUFLIH SALEH ALHARBI",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -101479,8 +101479,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Dec 11, 2026",
         "isMandatory": true
       },
       {
