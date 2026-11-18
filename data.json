@@ -1412,7 +1412,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -7488,7 +7488,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -8108,7 +8108,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -9720,7 +9720,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -9968,7 +9968,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -10340,7 +10340,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 24, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -10464,7 +10464,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -10588,7 +10588,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -10960,7 +10960,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 04, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -11164,10 +11164,10 @@
     "name": "ABDULRAHMAN MOHAMMED HASSAN HAZAZI",
     "position": "SITE SECURITY SUPERVISOR",
     "project": "Shumayssi Camp - Makkah",
-    "completedCount": 14,
-    "missingCount": 2,
+    "completedCount": 15,
+    "missingCount": 1,
     "totalMandatory": 16,
-    "complianceRate": 88,
+    "complianceRate": 94,
     "courses": [
       {
         "sn": 1,
@@ -11207,8 +11207,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -11456,7 +11456,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -13564,7 +13564,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -15548,7 +15548,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -16168,7 +16168,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -16912,7 +16912,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 04, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -26584,7 +26584,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 24, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -27452,7 +27452,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -54484,7 +54484,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -54732,7 +54732,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -57584,7 +57584,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -62420,7 +62420,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 24, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -62916,7 +62916,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 18, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -70064,10 +70064,10 @@
     "name": "ABDULAZIZ ALHUMAIDI SALEH ALANAZI",
     "position": "SECURITY GUARD",
     "project": "MGS3 Package 10/14 Secondment",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -70107,8 +70107,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -76556,7 +76556,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 24, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -76928,7 +76928,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 24, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -81268,7 +81268,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -92676,7 +92676,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 24, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -93792,7 +93792,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 24, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -100984,7 +100984,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -101108,7 +101108,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "Aug 19, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
