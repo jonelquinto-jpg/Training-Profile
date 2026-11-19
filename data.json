@@ -4964,10 +4964,10 @@
     "name": "HAMAD ALI MUBARAK AL MARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -4979,8 +4979,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -5832,10 +5832,10 @@
     "name": "LAHOM MOHAMMAD HAMAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -5847,8 +5847,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -20092,10 +20092,10 @@
     "name": "MANEA ALI MANEA ALAJMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -20107,8 +20107,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -21332,10 +21332,10 @@
     "name": "ALI IBRAHIM HASSAN ALKHALIF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -21347,8 +21347,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -23812,10 +23812,10 @@
     "name": "FAHEED SALEM FAHEED ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -23827,8 +23827,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -26912,10 +26912,10 @@
     "name": "MOUSTAFA HASHIM SAEED ALYAMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -26927,8 +26927,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -29020,10 +29020,10 @@
     "name": "ADNAN IBRAHIM HANI ALAHMED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -29035,8 +29035,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -30136,10 +30136,10 @@
     "name": "ABDULRAHMAN ALI MAANA ALAJMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -30151,8 +30151,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -30384,10 +30384,10 @@
     "name": "ABDULLAH SHAKER TAHER ALROWAISHED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -30399,8 +30399,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -32244,10 +32244,10 @@
     "name": "ALI SAEED ALI ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -32259,8 +32259,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -32368,10 +32368,10 @@
     "name": "SAEED AHMED ALI ALKHALEAFAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -32383,8 +32383,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -32492,10 +32492,10 @@
     "name": "TAWFIQ HUSSAIN ESSA ALSMAIL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -32507,8 +32507,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -34352,10 +34352,10 @@
     "name": "ALI MOHAMMED HAJI ALSAFFAR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -34367,8 +34367,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -35220,10 +35220,10 @@
     "name": "ABDULAZIZ HUSSAIN ABDULLAH ALMARZOOQ",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -35235,8 +35235,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -35344,10 +35344,10 @@
     "name": "ABDULLAH ALI HAJI ALMARAI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -35359,8 +35359,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -37080,10 +37080,10 @@
     "name": "HASSAN IBRAHIM ABDULLAH ALKHALAF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -37095,8 +37095,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -37204,10 +37204,10 @@
     "name": "ABDULLAH AHMED SALEH ALAQRAIN",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -37219,8 +37219,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -38940,10 +38940,10 @@
     "name": "HUSSAIN AMIR HASSAN ALARABI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -38955,8 +38955,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -39188,10 +39188,10 @@
     "name": "HAFIZ ALI HAFIZ ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -39203,8 +39203,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -40056,10 +40056,10 @@
     "name": "EISSA TAHER AASHOR ALKHADEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -40071,8 +40071,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -40428,10 +40428,10 @@
     "name": "SALEM MOHAMMED BAKHIT ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -40443,8 +40443,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -40816,7 +40816,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -41172,10 +41172,10 @@
     "name": "ZAKI HABIB ALI ALNAS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -41187,8 +41187,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -42040,10 +42040,10 @@
     "name": "NASSER HASSAN NASSER ALKHALIFAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -42055,8 +42055,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -42660,10 +42660,10 @@
     "name": "MARZOUQ HAMAD SALEM ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -42675,8 +42675,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -42784,10 +42784,10 @@
     "name": "ABDULLAH MOHAMMED KHALEFAH ALBAHRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -42799,8 +42799,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -43032,10 +43032,10 @@
     "name": "SALEH HAMAD SALEM ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -43047,8 +43047,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -44892,10 +44892,10 @@
     "name": "ABDULLATIF ALI AHMED ALALI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -44907,8 +44907,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -47372,10 +47372,10 @@
     "name": "YOUSEF ABDULLAH ABDULMOHSEN ALABDULLAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -47387,8 +47387,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -47496,10 +47496,10 @@
     "name": "HAIDER HAJI HUSSAIN BU HAIMED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -47511,8 +47511,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -50472,10 +50472,10 @@
     "name": "HAMAD ALI ABDULHADI ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -50487,8 +50487,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -52828,10 +52828,10 @@
     "name": "HAMAD FAHAD MOHAMMED ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -52843,8 +52843,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -56424,10 +56424,10 @@
     "name": "HANI SHAKRI ALI ALSHAWAY",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -56439,8 +56439,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -63616,10 +63616,10 @@
     "name": "SAEED OBAID MOHSEN ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -63631,8 +63631,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -63740,10 +63740,10 @@
     "name": "MOHAMMED ABDULLAH AHMED ALSAHIB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -63755,8 +63755,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -64112,10 +64112,10 @@
     "name": "MUKHTAR MOHAMMED ALI ALMUKHTAR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -64127,8 +64127,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -67460,10 +67460,10 @@
     "name": "AHMED MAHFOUD SALEH ALIBRAHIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -67475,8 +67475,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -67724,7 +67724,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -69196,10 +69196,10 @@
     "name": "SALEM RASHED MAFLH ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -69211,8 +69211,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -72668,10 +72668,10 @@
     "name": "ABDULMOHSEN ABDULLAH SALEH ALHUSSAIN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -72683,8 +72683,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -73164,10 +73164,10 @@
     "name": "HAMAD THAAR HAMAD ALJUBEER",
     "position": "SECURITY GUARD",
     "project": "UPGRADE TANK DEWATERING RASTNU",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -73179,8 +73179,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -74900,10 +74900,10 @@
     "name": "ZUHAIR YOUSEF KHAMIS ALBAHRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -74915,8 +74915,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -80232,10 +80232,10 @@
     "name": "MOHAMMED FARAJ MOHAMMED ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -80247,8 +80247,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -80728,10 +80728,10 @@
     "name": "ABDULLAH FEHAID SALEM ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -80743,8 +80743,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -86184,10 +86184,10 @@
     "name": "ALI SADIQ MATOOQ ALDALWI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -86199,8 +86199,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -87176,10 +87176,10 @@
     "name": "ALI TAHER HUSSAIN ALBELADI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -87191,8 +87191,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -89796,7 +89796,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -89920,7 +89920,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -92276,7 +92276,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -93376,10 +93376,10 @@
     "name": "FAHAD SAAD MOHAMMED ALAWAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -93391,8 +93391,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -93996,10 +93996,10 @@
     "name": "FAHAD YAQOUB YOUSEF ALALI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -94011,8 +94011,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -98724,7 +98724,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jul 06, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -101452,7 +101452,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
