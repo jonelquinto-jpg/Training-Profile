@@ -872,10 +872,10 @@
     "name": "ALI HUSSAIN SHAYEA MOWASHIR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -915,8 +915,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -1616,10 +1616,10 @@
     "name": "SALEH MESFER OBAID ALADHELAH ALMETAIRY",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 12,
-    "missingCount": 2,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -1659,8 +1659,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -11660,10 +11660,10 @@
     "name": "DALQAM JAR ALLAH ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -11703,8 +11703,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -14264,10 +14264,10 @@
     "name": "ADNAN MOHAMMED ALI ALHOSAINI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -14307,8 +14307,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -15256,10 +15256,10 @@
     "name": "YAQOUB YOUSEF HASSIN ALWASMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -15299,8 +15299,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -17364,10 +17364,10 @@
     "name": "ABDULLAH ALI ABDULLAH ALSHAYB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -17407,8 +17407,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -18976,10 +18976,10 @@
     "name": "ADEL ALI HASSAN ALSEMAIEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -19019,8 +19019,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -19348,10 +19348,10 @@
     "name": "ABDRUB ALRASOUL AHMED TIAHR ALJASSEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -19391,8 +19391,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -21332,10 +21332,10 @@
     "name": "ALI IBRAHIM HASSAN ALKHALIF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -21375,8 +21375,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -21828,10 +21828,10 @@
     "name": "NAIF KAZEM MATROUD ALSHAMMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -21871,8 +21871,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -23564,10 +23564,10 @@
     "name": "ABDULLAH ESSA ETAIQAN ALDOKHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -23607,8 +23607,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -24432,10 +24432,10 @@
     "name": "WALEED YASEEN MOHAMMED ALHASSAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -24475,8 +24475,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -24680,10 +24680,10 @@
     "name": "HANI ABBAS ALHASSAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -24723,8 +24723,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -24804,10 +24804,10 @@
     "name": "AHMED MOHAMMED ALSALMAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -24847,8 +24847,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -25052,10 +25052,10 @@
     "name": "SALEH AHMED ALSAQER",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -25095,8 +25095,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -26416,10 +26416,10 @@
     "name": "MOHAMMED HAJJI AOMRAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 1,
+    "completedCount": 12,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -26459,8 +26459,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -26912,10 +26912,10 @@
     "name": "MOUSTAFA HASHIM SAEED ALYAMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -26955,8 +26955,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -27036,10 +27036,10 @@
     "name": "AHMED IBRAHIM SALEH ALBRAHIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -27079,8 +27079,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -27576,7 +27576,7 @@
         "sn": 6,
         "title": "Patrolling / Security Supervision",
         "status": "Completed",
-        "date": "May 03, 2026",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -28028,10 +28028,10 @@
     "name": "AQEEL NAJI TAHER ALHIDAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -28071,8 +28071,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -28152,10 +28152,10 @@
     "name": "AQEEL HAJI FAHAD ALYUNIS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -28195,8 +28195,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -30136,10 +30136,10 @@
     "name": "ABDULRAHMAN ALI MAANA ALAJMI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -30179,8 +30179,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -31004,10 +31004,10 @@
     "name": "TAHER ALI TAHER ALOWAYSHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -31047,8 +31047,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -31128,10 +31128,10 @@
     "name": "ABDELHAKIM SAAD ABDULLAH ALARFAJ",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -31171,8 +31171,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -32244,10 +32244,10 @@
     "name": "ALI SAEED ALI ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -32287,8 +32287,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -33484,10 +33484,10 @@
     "name": "ADEL ABBAS ALI ALRASHID",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 8,
-    "missingCount": 4,
+    "completedCount": 9,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -33527,8 +33527,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -34104,10 +34104,10 @@
     "name": "ALI ABDULLAH ALI ALOWAYSHI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -34147,8 +34147,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -34352,10 +34352,10 @@
     "name": "ALI MOHAMMED HAJI ALSAFFAR",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -34395,8 +34395,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -34476,10 +34476,10 @@
     "name": "NASSER ABSULHADI HASSAN ALJASSIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -34519,8 +34519,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -35344,10 +35344,10 @@
     "name": "ABDULLAH ALI HAJI ALMARAI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -35387,8 +35387,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -35468,10 +35468,10 @@
     "name": "FATHI ESSA MOUSA BOSHAJA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -35511,8 +35511,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -35592,10 +35592,10 @@
     "name": "HASSAN MOHAMMED HUSSAIN ALHAJI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -35635,8 +35635,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -35716,10 +35716,10 @@
     "name": "YOUSEF AHMED SALEM ALEID",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -35759,8 +35759,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -35964,10 +35964,10 @@
     "name": "HUSSAIN MOHAMMED HUSSAIN ALMOTAEA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -36007,8 +36007,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -36088,10 +36088,10 @@
     "name": "MOHAMMED HASSAN HUSSAIN ALABDULLTAIF",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -36131,8 +36131,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -36708,10 +36708,10 @@
     "name": "ABDULRAHMAN SALEM ABDULLAH BUSALEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -36751,8 +36751,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -36956,10 +36956,10 @@
     "name": "MOSTAFA HAJJI MATUQ ALNASSER",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -36999,8 +36999,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -37824,10 +37824,10 @@
     "name": "MUNTASIR MOHAMMED MAHDI ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -37867,8 +37867,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -37948,10 +37948,10 @@
     "name": "MURTDA AHMED JASSEM ALSAEED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -37991,8 +37991,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -38320,10 +38320,10 @@
     "name": "FADHEL ABBAS ALI ALFADHEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -38363,8 +38363,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -39188,10 +39188,10 @@
     "name": "HAFIZ ALI HAFIZ ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -39231,8 +39231,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -39684,10 +39684,10 @@
     "name": "AHMED SALEH ABDULLAH ALHAJJIBOSALEH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -39727,8 +39727,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -40056,10 +40056,10 @@
     "name": "EISSA TAHER AASHOR ALKHADEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -40099,8 +40099,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -40428,10 +40428,10 @@
     "name": "SALEM MOHAMMED BAKHIT ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -40471,8 +40471,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -41048,10 +41048,10 @@
     "name": "MOHAMMED HUSSAIN KADHIM ALSUTLAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -41091,8 +41091,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -41172,10 +41172,10 @@
     "name": "ZAKI HABIB ALI ALNAS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -41215,8 +41215,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -41296,10 +41296,10 @@
     "name": "YASSER MOHAMMED AHMED BO SHAJE",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -41339,8 +41339,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -41544,10 +41544,10 @@
     "name": "ALI HASSAN ALI ALBASRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -41587,8 +41587,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -42536,10 +42536,10 @@
     "name": "BADER MOHAMMED ALI ALHAJJI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -42579,8 +42579,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -42660,10 +42660,10 @@
     "name": "MARZOUQ HAMAD SALEM ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -42703,8 +42703,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -42784,10 +42784,10 @@
     "name": "ABDULLAH MOHAMMED KHALEFAH ALBAHRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -42827,8 +42827,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -43032,10 +43032,10 @@
     "name": "SALEH HAMAD SALEM ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -43075,8 +43075,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -44892,10 +44892,10 @@
     "name": "ABDULLATIF ALI AHMED ALALI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -44935,8 +44935,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -45512,10 +45512,10 @@
     "name": "ABDULLAH HAMDAN SALMAN ALMUHAISHEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -45555,8 +45555,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -47000,10 +47000,10 @@
     "name": "MUTEB THAMER TALMAS ALSAHLI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -47043,8 +47043,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -47124,10 +47124,10 @@
     "name": "SULTAN ABDULLAH MOHAMMED ALSAMAK",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -47167,8 +47167,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -47372,10 +47372,10 @@
     "name": "YOUSEF ABDULLAH ABDULMOHSEN ALABDULLAH",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -47415,8 +47415,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -52580,10 +52580,10 @@
     "name": "HAMAD RASHED SALEH ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -52623,8 +52623,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -53200,10 +53200,10 @@
     "name": "KADHEM RADHI ESSA ALGHASHAM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -53243,8 +53243,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -56300,10 +56300,10 @@
     "name": "MOHAMMED SAIF MOUSA ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -56343,8 +56343,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -57911,7 +57911,7 @@
     "empId": "78461",
     "name": "AMMAR AHMED MOHAMMED ALAHMADI",
     "position": "SECURITY GUARD",
-    "project": "AL ULA CAMP",
+    "project": "Jizan Refinery Restoration",
     "completedCount": 11,
     "missingCount": 3,
     "totalMandatory": 12,
@@ -58531,7 +58531,7 @@
     "empId": "78496",
     "name": "MOHAMMED SALMAN SUILIM ALATAWI",
     "position": "SECURITY GUARD",
-    "project": "DG11 Indirect & Prelimns -DG1",
+    "project": "MGS3 Package 10/14 Secondment",
     "completedCount": 12,
     "missingCount": 2,
     "totalMandatory": 12,
@@ -61632,10 +61632,10 @@
     "name": "FARIS ALI MAHDI AWAJI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -61675,8 +61675,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -63368,10 +63368,10 @@
     "name": "MURTADHA ALI ALI ALSHAYEB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -63411,8 +63411,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -63616,10 +63616,10 @@
     "name": "SAEED OBAID MOHSEN ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -63659,8 +63659,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -63740,10 +63740,10 @@
     "name": "MOHAMMED ABDULLAH AHMED ALSAHIB",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -63783,8 +63783,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -63864,10 +63864,10 @@
     "name": "QASEM YOUSEF MOHMEED ALHASAWI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -63907,8 +63907,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -63988,10 +63988,10 @@
     "name": "YOUSAF ABDULLAH SALEH ALBLADI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -64031,8 +64031,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -69196,10 +69196,10 @@
     "name": "SALEM RASHED MAFLH ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -69239,8 +69239,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -69816,10 +69816,10 @@
     "name": "FEHAID TURKI MOHAMMED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -69859,8 +69859,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -72172,10 +72172,10 @@
     "name": "TAHER ABDULLAH MOUSA ALJAASEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -72215,8 +72215,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -72668,10 +72668,10 @@
     "name": "ABDULMOHSEN ABDULLAH SALEH ALHUSSAIN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -72711,8 +72711,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -72792,10 +72792,10 @@
     "name": "ABDULRAHMAN YOUSEF ABDULLAH ALHUDAYLIJ",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -72835,8 +72835,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -73536,10 +73536,10 @@
     "name": "IBRAHIM ANWAR IBRAHIM ALESSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -73579,8 +73579,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -74527,7 +74527,7 @@
     "empId": "160398",
     "name": "MAZEN KHALID AHMED ALASIRI",
     "position": "SECURITY GUARD",
-    "project": "MGS3 Package 10/14 Secondment",
+    "project": "DG11 Indirect & Prelimns -DG1",
     "completedCount": 5,
     "missingCount": 9,
     "totalMandatory": 12,
@@ -74652,10 +74652,10 @@
     "name": "HABIB HASSAN MOHAMMED ALARADI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -74695,8 +74695,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -74900,10 +74900,10 @@
     "name": "ZUHAIR YOUSEF KHAMIS ALBAHRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -74943,8 +74943,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -75024,10 +75024,10 @@
     "name": "NIZAR MAHDI ALI ALALWIYAT",
     "position": "SECURITY GUARD",
     "project": "KBP Building Office Setup",
-    "completedCount": 5,
-    "missingCount": 8,
+    "completedCount": 6,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
@@ -75067,8 +75067,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -78000,10 +78000,10 @@
     "name": "JABER MOHAMMED ALI KAABI",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -78043,8 +78043,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -78248,10 +78248,10 @@
     "name": "ABDULWAHAB JASSIM ABDULWAHAB ALBAHRANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -78291,8 +78291,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -78372,10 +78372,10 @@
     "name": "NASSER NAJI JABER ALMARRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -78415,8 +78415,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -78867,7 +78867,7 @@
     "empId": "160622",
     "name": "FAISAL NAWAF HSEEN ALBALWI",
     "position": "SECURITY GUARD",
-    "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
+    "project": "Jizan Refinery Restoration",
     "completedCount": 9,
     "missingCount": 3,
     "totalMandatory": 12,
@@ -80108,10 +80108,10 @@
     "name": "YAQOUB YOUSEF SALIMAN ALJASIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -80151,8 +80151,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -80232,10 +80232,10 @@
     "name": "MOHAMMED FARAJ MOHAMMED ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -80275,8 +80275,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -84199,7 +84199,7 @@
     "empId": "160911",
     "name": "JASSIM RIDHA TAHER ALAWADH",
     "position": "SECURITY GUARD",
-    "project": "OMPP2- SA4",
+    "project": "UR SOUTH JAFURAH",
     "completedCount": 10,
     "missingCount": 4,
     "totalMandatory": 12,
@@ -84324,10 +84324,10 @@
     "name": "MOHAMMED SUBHA SALEM ALATAWI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -84367,8 +84367,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -86059,7 +86059,7 @@
     "empId": "160968",
     "name": "EID SANAD FAYZ ALDOSARI",
     "position": "SECURITY GUARD",
-    "project": "UPGRADE TANK DEWATERING RASTNU",
+    "project": "Fadhili Gas PKg6 UpdownStream",
     "completedCount": 8,
     "missingCount": 5,
     "totalMandatory": 12,
@@ -86184,10 +86184,10 @@
     "name": "ALI SADIQ MATOOQ ALDALWI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -86227,8 +86227,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -87176,10 +87176,10 @@
     "name": "ALI TAHER HUSSAIN ALBELADI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -87219,8 +87219,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -92136,10 +92136,10 @@
     "name": "RAMI ABDULLAH AHMED HASSAN",
     "position": "SECURITY GUARD",
     "project": "Security",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -92179,8 +92179,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -92756,10 +92756,10 @@
     "name": "ALI ABDULLAH ALI ALRAMADHAN",
     "position": "SECURITY GUARD",
     "project": "KBP Building Office Setup",
-    "completedCount": 5,
-    "missingCount": 7,
+    "completedCount": 6,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -92799,8 +92799,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -93376,10 +93376,10 @@
     "name": "FAHAD SAAD MOHAMMED ALAWAD",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -93419,8 +93419,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -93996,10 +93996,10 @@
     "name": "FAHAD YAQOUB YOUSEF ALALI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -94039,8 +94039,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -95856,10 +95856,10 @@
     "name": "TAJ ABBAS ALI ALFADHLI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -95899,8 +95899,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -96475,7 +96475,7 @@
     "empId": "161391",
     "name": "FARRAJ MAJED ALOOSH ALQAHTANI",
     "position": "SECURITY GUARD",
-    "project": "THE AVENUES RIYADH PH-1 MALL",
+    "project": "Qiddiya Performing Arts Center",
     "completedCount": 6,
     "missingCount": 6,
     "totalMandatory": 12,
@@ -98088,10 +98088,10 @@
     "name": "HAIDAR JAFAR MOHAMMED ALAHMED",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -98131,8 +98131,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -101560,10 +101560,10 @@
     "name": "FAREED FARES MOHAMMED ALFARIS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -101603,8 +101603,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -102304,10 +102304,10 @@
     "name": "KARAR MOHAMMED SALEH ALMUSSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -102347,8 +102347,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -102552,10 +102552,10 @@
     "name": "BADER MANSOUR SAEED ALHAJRI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -102595,8 +102595,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -103048,10 +103048,10 @@
     "name": "HASSAN SAAD FAHAD ALSHUAYWIN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -103091,8 +103091,8 @@
       {
         "sn": 6,
         "title": "Patrolling / Security Supervision",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 16, 2026",
         "isMandatory": true
       },
       {
@@ -103783,6 +103783,502 @@
         "title": "Security Sense & Body Language",
         "status": "Completed",
         "date": "Nov 10, 2026",
+        "isMandatory": true
+      }
+    ]
+  },
+  "163287": {
+    "empId": "163287",
+    "name": "Turki Alhajri",
+    "position": "SECURITY GUARD",
+    "project": "OMPP2- SA1",
+    "completedCount": 0,
+    "missingCount": 12,
+    "totalMandatory": 12,
+    "complianceRate": 0,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      }
+    ]
+  },
+  "163288": {
+    "empId": "163288",
+    "name": "Hesham Bushaje",
+    "position": "SECURITY GUARD",
+    "project": "OMPP2- SA1",
+    "completedCount": 0,
+    "missingCount": 12,
+    "totalMandatory": 12,
+    "complianceRate": 0,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      }
+    ]
+  },
+  "163289": {
+    "empId": "163289",
+    "name": "Ali Alali",
+    "position": "SECURITY GUARD",
+    "project": "OMPP2- SA1",
+    "completedCount": 0,
+    "missingCount": 12,
+    "totalMandatory": 12,
+    "complianceRate": 0,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      }
+    ]
+  },
+  "163290": {
+    "empId": "163290",
+    "name": "Abdulmohsen Almintakh",
+    "position": "SECURITY GUARD",
+    "project": "OMPP2- SA1",
+    "completedCount": 0,
+    "missingCount": 12,
+    "totalMandatory": 12,
+    "complianceRate": 0,
+    "courses": [
+      {
+        "sn": 1,
+        "title": "Basic Principles of Security",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 2,
+        "title": "Effective Communication",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 3,
+        "title": "Customer Services",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 4,
+        "title": "Crowd Controls",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 5,
+        "title": "Gate Duties",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 6,
+        "title": "Patrolling / Security Supervision",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 7,
+        "title": "Alarm Systems",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 8,
+        "title": "Response to Emergencies",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 9,
+        "title": "Fire Extinguishers / Fire-fighting",
+        "status": "Optional / N/A",
+        "date": "-",
+        "isMandatory": false
+      },
+      {
+        "sn": 10,
+        "title": "Writing Reports",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 11,
+        "title": "Search or Inspection",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 12,
+        "title": "Seizure and Power of Arrest",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 13,
+        "title": "Traffic Control",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 14,
+        "title": "Protecting a Crime Scene",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 15,
+        "title": "Radio and Telephone Ethics",
+        "status": "MISSING",
+        "date": "-",
+        "isMandatory": true
+      },
+      {
+        "sn": 16,
+        "title": "Security Sense & Body Language",
+        "status": "MISSING",
+        "date": "-",
         "isMandatory": true
       }
     ]
