@@ -11676,7 +11676,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -15272,7 +15272,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -19348,10 +19348,10 @@
     "name": "ABDRUB ALRASOUL AHMED TIAHR ALJASSEM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -19363,8 +19363,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -21844,7 +21844,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -24432,10 +24432,10 @@
     "name": "WALEED YASEEN MOHAMMED ALHASSAN",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -24447,8 +24447,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -24572,7 +24572,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -24696,7 +24696,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -24820,7 +24820,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -26432,7 +26432,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -28044,7 +28044,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -31020,7 +31020,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -31144,7 +31144,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -33484,10 +33484,10 @@
     "name": "ADEL ABBAS ALI ALRASHID",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 9,
-    "missingCount": 3,
+    "completedCount": 10,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -33499,8 +33499,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -34476,10 +34476,10 @@
     "name": "NASSER ABSULHADI HASSAN ALJASSIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -34491,8 +34491,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -35592,10 +35592,10 @@
     "name": "HASSAN MOHAMMED HUSSAIN ALHAJI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -35607,8 +35607,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -36104,7 +36104,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -37824,10 +37824,10 @@
     "name": "MUNTASIR MOHAMMED MAHDI ALMARI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -37839,8 +37839,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -38320,10 +38320,10 @@
     "name": "FADHEL ABBAS ALI ALFADHEL",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -38335,8 +38335,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -41064,7 +41064,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -41312,7 +41312,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -42552,7 +42552,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -46768,7 +46768,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -46892,7 +46892,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -55944,7 +55944,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -69196,10 +69196,10 @@
     "name": "FEHAID TURKI MOHAMMED ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -69211,8 +69211,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -71568,7 +71568,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -72188,7 +72188,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -72916,10 +72916,10 @@
     "name": "IBRAHIM ANWAR IBRAHIM ALESSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -72931,8 +72931,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -79364,10 +79364,10 @@
     "name": "YAQOUB YOUSEF SALIMAN ALJASIM",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -79379,8 +79379,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -97360,7 +97360,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -100816,10 +100816,10 @@
     "name": "FAREED FARES MOHAMMED ALFARIS",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -100831,8 +100831,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -101560,10 +101560,10 @@
     "name": "KARAR MOHAMMED SALEH ALMUSSA",
     "position": "SECURITY GUARD",
     "project": "OMPP2- SA1",
-    "completedCount": 12,
-    "missingCount": 1,
+    "completedCount": 13,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -101575,8 +101575,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -101824,7 +101824,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 08, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
