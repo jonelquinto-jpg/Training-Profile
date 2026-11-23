@@ -29268,10 +29268,10 @@
     "name": "MOHAMMED SWAILEM MSAAD ALHEWAITY",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -29283,8 +29283,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -48612,10 +48612,10 @@
     "name": "FAHAD SUAILEM IBRAHIM ALMASUDI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -48627,8 +48627,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -50596,10 +50596,10 @@
     "name": "ABDULMOHSIN HUSSAIN LAFI ALHWITI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -50611,8 +50611,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -53200,10 +53200,10 @@
     "name": "YOUSEF AHMED MASOUD ALHARBI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 7,
-    "missingCount": 7,
+    "completedCount": 8,
+    "missingCount": 6,
     "totalMandatory": 12,
-    "complianceRate": 42,
+    "complianceRate": 50,
     "courses": [
       {
         "sn": 1,
@@ -53215,8 +53215,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -59028,10 +59028,10 @@
     "name": "AESH SOLIMAN SAEED ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -59043,8 +59043,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -64732,10 +64732,10 @@
     "name": "MOHAMMED FARG MOHAMMED ALHWETI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -64747,8 +64747,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -65228,10 +65228,10 @@
     "name": "FAISAL SALEEM MASOOD ALAMIRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 2,
+    "completedCount": 12,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -65243,8 +65243,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -68080,10 +68080,10 @@
     "name": "NASSER ABDULRAHMAN MOHAMMED ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -68095,8 +68095,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -68204,10 +68204,10 @@
     "name": "SAYED SALEM MADI ALOMAIRI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -68303,8 +68303,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 19, 2026",
         "isMandatory": true
       },
       {
@@ -68700,10 +68700,10 @@
     "name": "SALAH SALEH FHEMAN ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -68715,8 +68715,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -69940,10 +69940,10 @@
     "name": "JASSIM HMWD AWDAH ALATWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -69955,8 +69955,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -71304,10 +71304,10 @@
     "name": "MESHAL IBRAHEM SLAMA ALHAWATI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
@@ -71403,8 +71403,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 19, 2026",
         "isMandatory": true
       },
       {
@@ -76884,10 +76884,10 @@
     "name": "MOHAMOUD SALEM SALIMAN ALMASOUD",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -76983,8 +76983,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 19, 2026",
         "isMandatory": true
       },
       {
@@ -81100,10 +81100,10 @@
     "name": "AHMED ABDULLAH IBRAHIM ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -81115,8 +81115,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -81199,8 +81199,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 19, 2026",
         "isMandatory": true
       },
       {
@@ -82588,10 +82588,10 @@
     "name": "ABDULELAH OUDAH MUTLQ ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 13,
-    "missingCount": 2,
+    "completedCount": 14,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 83,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -82603,8 +82603,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -90524,10 +90524,10 @@
     "name": "JAMAL AWADH SABR ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 13,
+    "missingCount": 1,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 92,
     "courses": [
       {
         "sn": 1,
@@ -90539,8 +90539,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -90623,8 +90623,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 19, 2026",
         "isMandatory": true
       },
       {
@@ -92508,10 +92508,10 @@
     "name": "HAZIM AHMED NAIF ALSHARIF",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 9,
-    "missingCount": 4,
+    "completedCount": 10,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -92523,8 +92523,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -94260,7 +94260,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Jun 11, 2026",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
@@ -96600,10 +96600,10 @@
     "name": "NAWAF HULAYYIL DHAHER ALATAWI",
     "position": "SECURITY GUARD",
     "project": "SINDAHLAVILLAGE WO22-ASSETS1&2",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
@@ -96615,8 +96615,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 18, 2026",
         "isMandatory": true
       },
       {
