@@ -2484,16 +2484,16 @@
     "name": "BADER MOTAIRAN JOHAIM ALONIZI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -2732,10 +2732,10 @@
     "name": "KHALED SAHMEI MUTLAQ AL SUBAIE",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -2831,8 +2831,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -55556,10 +55556,10 @@
     "name": "BADER NAIF MUGHEEB ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -55655,8 +55655,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -59648,16 +59648,16 @@
     "name": "SAEED SAAD GANEM ALAKLBI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -69692,16 +69692,16 @@
     "name": "AYIDH THEEB HABASH ALQAHTANI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 5,
+    "completedCount": 8,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -70312,16 +70312,16 @@
     "name": "ABDULLAH HADI HAMED ALRASHEED",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 6,
+    "completedCount": 7,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -71552,16 +71552,16 @@
     "name": "ALI RAJEH KHALF ALAKLABI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 10,
-    "missingCount": 4,
+    "completedCount": 11,
+    "missingCount": 3,
     "totalMandatory": 12,
-    "complianceRate": 67,
+    "complianceRate": 75,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -72916,16 +72916,16 @@
     "name": "NAWAF HEZAM MATHAKIR ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 9,
-    "missingCount": 5,
+    "completedCount": 10,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -73412,16 +73412,16 @@
     "name": "KHALID MARSHAD NASER ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 6,
-    "missingCount": 8,
+    "completedCount": 7,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -74900,16 +74900,16 @@
     "name": "AEDH SAAD MOHAMMED ALAKLABI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -77132,16 +77132,16 @@
     "name": "AHMED HASSAN YAHYA ALKHALDI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -81472,10 +81472,10 @@
     "name": "ABDULRAHMAN KHALID SALIMAN ALFAIFI",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 11,
-    "missingCount": 3,
+    "completedCount": 12,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -81571,8 +81571,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -82216,16 +82216,16 @@
     "name": "ESSA AHMED ESSA ALDUHAYMI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
-    "missingCount": 9,
+    "completedCount": 4,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -87300,16 +87300,16 @@
     "name": "ALWALEED JAZAA BASHER ALMUTAIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 4,
-    "missingCount": 8,
+    "completedCount": 5,
+    "missingCount": 7,
     "totalMandatory": 12,
-    "complianceRate": 33,
+    "complianceRate": 42,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -89780,16 +89780,16 @@
     "name": "FAISAL MASTOUR SAEED ASIRI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 8,
-    "missingCount": 6,
+    "completedCount": 9,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -91888,16 +91888,16 @@
     "name": "SAAD SABER DAKEEL ALALYANI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
-    "missingCount": 10,
+    "completedCount": 4,
+    "missingCount": 9,
     "totalMandatory": 12,
-    "complianceRate": 17,
+    "complianceRate": 25,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -93500,10 +93500,10 @@
     "name": "MOHAMMED JAMAN ABDULLAH ALDAWSARI",
     "position": "SHIFT SECURITY SUPERVISOR",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 10,
-    "missingCount": 6,
+    "completedCount": 11,
+    "missingCount": 5,
     "totalMandatory": 15,
-    "complianceRate": 60,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -93599,8 +93599,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -94368,16 +94368,16 @@
     "name": "RAKAN NAWAF HUSSAIN ALBALAWI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -94740,10 +94740,10 @@
     "name": "SAAD ALI HUSSAIN ALMOUSA",
     "position": "SECURITY GUARD",
     "project": "Nesma Riyadh Central Camp1",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
@@ -94839,8 +94839,8 @@
       {
         "sn": 14,
         "title": "Protecting a Crime Scene",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -96228,16 +96228,16 @@
     "name": "MESHAL ABDULLAH MOHAMMED BIN HELAL",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 3,
-    "missingCount": 9,
+    "completedCount": 4,
+    "missingCount": 8,
     "totalMandatory": 12,
-    "complianceRate": 25,
+    "complianceRate": 33,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -99452,16 +99452,16 @@
     "name": "SAUD MOHAMMED SAUD ALDAWSARI",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 7,
-    "missingCount": 6,
+    "completedCount": 8,
+    "missingCount": 5,
     "totalMandatory": 12,
-    "complianceRate": 50,
+    "complianceRate": 58,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -101560,16 +101560,16 @@
     "name": "ZAYED FARRAJ MOHAMMED ALSUBAIE",
     "position": "SECURITY GUARD",
     "project": "KSP CP6-Common Indirect Costs",
-    "completedCount": 10,
-    "missingCount": 3,
+    "completedCount": 11,
+    "missingCount": 2,
     "totalMandatory": 12,
-    "complianceRate": 75,
+    "complianceRate": 83,
     "courses": [
       {
         "sn": 1,
         "title": "Basic Principles of Security",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
