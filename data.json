@@ -881,7 +881,7 @@
         "sn": 1,
         "title": "Basic Principles of Security",
         "status": "Completed",
-        "date": "Nov 11, 2025",
+        "date": "Aug 11, 2026",
         "isMandatory": true
       },
       {
@@ -10188,7 +10188,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -10272,7 +10272,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -22712,7 +22712,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -22796,7 +22796,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -23332,7 +23332,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -23416,7 +23416,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -23456,7 +23456,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -23540,7 +23540,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -26680,7 +26680,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -26764,7 +26764,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -29160,7 +29160,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -29244,7 +29244,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -45032,7 +45032,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -45116,7 +45116,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -45636,10 +45636,10 @@
     "name": "NADAER SULAIMAN SALEM ALHEWAITI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -45651,8 +45651,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -45736,7 +45736,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -53092,7 +53092,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -53176,7 +53176,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -69444,10 +69444,10 @@
     "name": "JALAL MOHAMMED MASLM ALATAWI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 13,
-    "missingCount": 1,
+    "completedCount": 14,
+    "missingCount": 0,
     "totalMandatory": 12,
-    "complianceRate": 92,
+    "complianceRate": 100,
     "courses": [
       {
         "sn": 1,
@@ -69459,8 +69459,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -69544,7 +69544,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -79240,10 +79240,10 @@
     "name": "ABDULLAH ABDULRAHMAN MOHAMMED ALOQBI",
     "position": "SECURITY GUARD",
     "project": "WO69-Hidden Marina Dewatering",
-    "completedCount": 8,
-    "missingCount": 5,
+    "completedCount": 9,
+    "missingCount": 4,
     "totalMandatory": 12,
-    "complianceRate": 58,
+    "complianceRate": 67,
     "courses": [
       {
         "sn": 1,
@@ -79255,8 +79255,8 @@
       {
         "sn": 2,
         "title": "Effective Communication",
-        "status": "MISSING",
-        "date": "-",
+        "status": "Completed",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -79340,7 +79340,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Nov 19, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -80248,7 +80248,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -80332,7 +80332,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
@@ -90292,7 +90292,7 @@
         "sn": 2,
         "title": "Effective Communication",
         "status": "Completed",
-        "date": "Nov 18, 2026",
+        "date": "Nov 25, 2026",
         "isMandatory": true
       },
       {
@@ -90376,7 +90376,7 @@
         "sn": 14,
         "title": "Protecting a Crime Scene",
         "status": "Completed",
-        "date": "Oct 18, 2026",
+        "date": "Nov 22, 2026",
         "isMandatory": true
       },
       {
